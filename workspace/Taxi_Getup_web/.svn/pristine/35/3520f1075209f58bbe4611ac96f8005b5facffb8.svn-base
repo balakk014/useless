@@ -1,0 +1,423 @@
+/*
+ Localizable.strings
+ Taximobility
+ 
+ Created by ndot on 25/06/16.
+ Copyright © 2016 Ndot. All rights reserved.
+ */
+//Home View Controller
+
+"APP TITLE" = "Getup Taxi passenger";
+"Please turn on location service to use this app" = "يرجى تفعيل خدمة تحديد الموقع من أجل استخدام هذا التطبيق";
+"Sign Up" = "انشاء حساب";
+"Sign In" = "تسجيل الدخول";
+"Ride Now" = "احجز رحلة الان";
+"Ride Later" = "ركوب رحلة لاحقا";
+"Drop Location(Optional)" = "اختيار الموقع (اختياري )";
+"Go To Pin..." = "إختيار بواسطة وضع إشارة";
+"Available" = "متاح";
+"Currently no cars are available" = "حاليا لا يوجد سيارات متاحة";
+"Min" = "دقيقة";
+"Pickup time is approximately" = "الوقت المتوقع لتحميل الراكب";
+"Minutes" = "دقائق";
+"Taxi's are not currently available" = "لا يوجد تاكسي متوفر حاليا";
+"Confirm later booking?" = "تأكيد الحجز المسبق؟";
+"OK" = "حسنا";
+"CANCEL" = "إلغاء";
+"Enter pickup Location" = "أدخل موقع التحميل";
+"Enter drop location" = "ادخال موقع الوصول (الوجهة النهائية)";
+"Favourites" = "التفضيلات";
+"Home" = "الرئيسية";
+"Office" = "مكتب";
+"Airport" = "مطار";
+"Others" = "اخرى";
+"You have already selected this contact" = "لقد حددت بالفعل هذا الاتصال";
+"Total Approximate Fare:" = "مجموع الأجرة التقريبية :";
+"Approximate Fare:" = "الأجرة التقريبية :";
+"Fare Estimate" = "الأجرة تقريبا";
+"Cash/Card" = "نقدا-بطاقة الائتمان";
+"Promo Code" = "رمز ترويجي";
+"Request Taxi" = "طلب تاكسي";
+"Cancel" = "إلغاء";
+"Yes" = "نعم";
+"YES" = "نعم";
+"No" = "لا";
+"ETA" = "الوقت التقديري للوصول";
+"Get Fare Estimate" = "الحصول على الاجرة التقريبية";
+"Minimum Fare" = "الحد الأدنى للأجرة";
+"Maximum Size" = "الحد الاعلى للركاب";
+"Estimated Fare" = "معدل الأجرة";
+"Approximate Fare" = "الاجرة التقريبية";
+"This is an estimate. Actual fare may vary slightly based on traffic or discounts." = "هذا هو التقدير. قد تختلف الأسعار الفعلية قليلا استنادا إلى حركة المرور أو الخصومات.";
+"Split a Fare with Friends" = "تقسيم الأجرة مع الأصدقاء";
+"Select a Friend" = "حدد صديق";
+"Submit" = "تأكيد";
+"This app requires access to your device's Contacts.Please enable Contacts access for this app in Settings / Privacy / Contacts" = "يتطلب هذا التطبيق الوصول إلى جهات الاتصال في جهازك.يرجى تمكين الوصول لهذا التطبيق في إعدادات / الخصوصية / اتصالات";
+"Please select the friend" = "يرجى اختيار صديق";
+"Total Split fare percentage should be 100" = "يجب أن يكون نسبة التقسيم للأجرة بال 100";
+"Book A Taxi" = "حجز تاكسي";
+"Book Now" = "احجز الان";
+"Requesting Taxi" = "طلب تاكسي";
+
+//SignUp View Controller
+
+"Login With Facebook" = "تسجيل الدخول باستخدام الفيسبوك";
+"First Name" = "الاسم الاول";
+"Last Name" = "اسم العائلة";
+"Email" = "البريد الإلكتروني";
+"Mobile Number" = "رقم الهاتف المحمول";
+"Password" = "كلمه السر";
+"Confirm Password" = "تأكيد كلمة السر";
+"Referral Code" = "كود الإحالة";
+"Show" = "إظهار";
+"Hide" = "إخفاء";
+"Country Code" = "رمز البلد";
+"Facebook" = "فيس بوك";
+"Enter your email id" = "أدخل بريدك الالكتروني";
+"Enter your mobile number" = "أدخل رقم هاتفك المحمول";
+"Try another number?" = "جرب رقم آخر؟";
+"Please enter your first name" = "الرجاء إدخال الاسم الأول";
+"Please enter your last name" = "الرجاء إدخال إسم العائلة";
+"Please enter your mobile number" = "الرجاء إدخال رقم هاتفك المحمول";
+"Please enter the password" = "الرجاء إدخال كلمة السر";
+"Please enter the confirm password" = "الرجاء إدخال تأكيد كلمة المرور";
+"Please enter valid email address" = "الرجاء إدخال عنوان بريد إلكتروني فعّال";
+"Please enter valid mobile number" = "الرجاء إدخال رقم هاتف محمول فعّال";
+"Password should be minimum 6 characters" = "يجب أن تكون كلمة المرور على الأقل 6 أحرف";
+"Password does not match" = "كلمة السر غير مطابقة";
+"First name must contain atleast 4 characters" = "يجب أن يحتوي الاسم الأول على الاقل 4 أحرف";
+
+//MenuSliderViewController
+
+"Book a Taxi" = "حجز تاكسي";
+"Track my Taxi" = "تتبع التاكسي الذي طلبته";
+"My Booking" = "حجوزاتي";
+"Payment Options" = "خيارات الدفع";
+"Wallet" = "المحفظة";
+"Fare" = "الأجرة";
+"Invite Friends" = "قم بدعوة أصدقاء";
+"Settings" = "إعدادات";
+"About" = "حول";
+"Log Out" = "خروج";
+
+//LoginViewController
+
+"Mobile Number" = "رقم الهاتف المحمول";
+"Done" = "تم";
+"Forgot Password?" = "نسيت كلمة المرور؟";
+"NO" = "لا";
+
+//PaymentCardViewController
+
+"Payment" = "دفع";
+"Add New Card" = "إضافة بطاقة جديدة";
+
+//AddEditCardViewController
+
+"Default Card" = "البطاقة الافتراضية";
+"Add Cards" = "إضافة بطاقات";
+"Edit Card" = "تعديل البطاقة";
+"Personal Card" = "بطاقة شخصية";
+"Card" = "بطاقة";
+"CVV" = "رقم رمز التحقق للبطاقة";
+"Expiry" = "تاريخ الإنتهاء";
+"Delete Card" = "حذف البطاقة";
+"Business Card" = "بطاقة العمل";
+"Save" = "حفظ";
+"Are you sure you want to delete card?" = "هل أنت متأكد أنك تريد حذف البطاقة؟";
+"Select" = "اختيار";
+"Enter valid expiry date" = "أدخل تاريخ الانتهاء";
+"Please enter valid credit card number" = "الرجاء إدخال رقم بطاقة الائتمان الصحيح";
+"MM/YY" = "شهر/سنة";
+"Enter valid CVV" = "أدخل رقم رمز التحقق للبطاقة";
+
+//WalletViewController
+
+"Wallet" = "محفظة";
+"Recharge Money" = "اعادة شحن النقود";
+"Cash Less, Hassle free rides with Taximobility wallet" = "وفر نقودك ,احصل على رحلات مجانية مع محفظة getuptaxi";//Changed
+"HAVE A PROMOCODE?" = "لديك رمز ترويجي؟";
+"Add Money" = "إضافة نقود";
+"Enter the Promo Code" = "أدخل الرمز الترويجي";
+"Enter amount between" = "أدخل متوسط المبلغ";
+"Please enter the Valid PromoCode" = "الرجاء إدخال رمز ترويجي فعال";
+
+//AddWalletMoneyViewController
+"Paypal" = "Paypal";
+"Brain Tree" = "Brain Tree";
+"Amount" = "المبلغ";
+"Card Number" = "رقم البطاقة";
+"MM" = "الشهر";
+"YYYY" = "سنة";
+"Name on the card" = "الاسم على البطاقة";
+"Terms and Conditions" = "الأحكام والشروط";
+"Select month" = "اختر الشهر";
+"Select year" = "اختر سنة";
+"All fields are mandatory" = "جميع الحقول إلزامية";
+"Please agree to the Terms & Conditions" = "يرجى الموافقة على الشروط والأحكام";
+
+//FavouritesViewController
+
+"Book Again" = "احجز مرة اخرى";
+
+//AddEditFavouritesViewController
+
+"Edit Favourites" = "تعديل المفضلة";
+"Add Favourites" = "إضافة المفضلة";
+"Select Type" = "حدد نوع";
+"Pickup Location" = "موقع الركوب";
+
+//BookingDetailsViewController
+
+"Trip Details" = "تفاصيل الرحلة";//Changed
+"Distance" = "المسافة";
+"Pickup Time" = "وقت الركوب";
+"Booking Time" = "وقت الحجز";
+"Drop Time" = "وقت الوصول";
+"Trip Duration" = "مدة الرحلة";
+"Used Wallet" = "استعمال المحفظة";
+"Trip Id" = "رقم الرحلة";
+"Split Fare Status" = "حالة تقسيم الاجرة";
+"Accepted" = "مقبول";
+"Rejected" = "مرفوض";
+"Pending" = "انتظار";
+
+//MyBookingsViewController
+
+"My Bookings" = "حجوزاتي";
+"On Going" = "جارية";
+"Up Coming" = "القادمة";
+"Past Bookings" = "الحجوزات الماضية";
+"No data available!" = "لا تتوافر بيانات!";
+"Drop Location is not specified" = "لم يتم تحديد موقع الوصول";
+"Loading..." = "جار التحميل...";
+"No more data to load" = "لا توجد بيانات أخرى للتحميل";
+
+"Paid By" =  "دفعت بواسطة";
+"Trip cancel" = "إلغاء رحلة";
+//HelpViewController
+
+"Help" = "مساعدة";
+"I lost an item" = "لقد فقدت ممتلك";//Changed
+"I had issue with my fare" = "لدي مشكلة بالاجرة";
+"My driver was unprofessional" = "السائق كان يتعامل بطريقة غير لائقة";
+"My vehicle was't what I expected" = "السيارة غير المتوقع";
+"I has a issue with my receipt or payment" = "واجهت مشكلة باستلام الوصل -الدفع";
+"I was involved in accident" = "كنت مشاركا في الحادث";
+"Cash Trips" = "الرحلات النقدية";
+"Enter your comments" = "ادخل تعليقك";
+"Please enter your comments" = "الرجاء إدخال تعليقاتكم";
+
+//DriverConfirmationViewController
+"Reason for Cancel" = "سبب الألغاء";
+"Confirmation" = "تأكيد";
+"Please Let Us know the reason for cancellation" = "يرجى السماح لنا بمعرفة سبب الألغاء";
+"Change the Travel Plan" = "تغيير خطة السفر";
+"Booking Placed in error" = "هنالك خطا في الحجز";
+"Cab delay/issues" = "تأخر التاكسي عن الوصول/اخرى";
+"EST :" = "نمط التوقيت الشرقي";
+"Mins" = "دقائق";
+"Call" = "مكالمة";
+"No sim card installed" = "لم يتم ادخال بطاقة sim";
+"Call facility is not available on your device" = "خاصية الاتصال غير متاحة على جهازك";
+"Enter CVV number" = "ادخل رقم رمز تحقق بطاقة الائتمان";
+"Please enter a valid cvv" = "يرجى ادخل رقم رمز تحقق بطاقة الائتمان الصحيح";
+
+//  TripInProgressViewController
+
+"Trip In Progress" = "الرحلة قيد التنفيذ";
+
+//  E-RecieptViewController
+
+"Card" = "بطاقة";
+"Cash" = "نقدا";
+"Wallet Amount" = "مبلغ المحفظة";
+"Paid Amount" = "المبلغ المدفوع";
+"Payment type" = "نوع الدفع";
+"E-Receipt" = "إيصال الكتروني";
+"Trip Completed" = "انتهت الرحلة";
+"Thank you for using Taximobility! Make your next trip even more enjoyable!" = "شكرا لك على استخدام Getup Taxi إجعل رحلاتك القادمة أكثر متعة !";//Changed
+"Rate Your Driver" = "لطفا قيّم السائق";
+"Type your Comments" = "الرجاء تزويدنا بتعليقاتكم";//Changed
+"Share it" = "شاركها";
+"Your device doesn't support SMS!" = "ان جهازك لا يدعم الرسائل النصية المختصرة SMS !";
+"Taximobility - Invite a Friend" = "getup taxi - دعوة صديق الى";
+
+//  splitFareRequestViewController
+
+"Split a Fare with" = "تقسيم أجرة مع";
+"Your Fare will be charged" = "سيتم دفع اجرتك";
+
+//  CardRegisterViewController
+
+"Card Register" = "سجل بطاقة";
+"Enter the Referral Code" = "أدخل رمز الإحالة";
+"Save Card Details" = "حفظ تفاصيل البطاقة";//changed
+"Pay by Credit Card" = "الدفع بواسطة بطاقة الائتمان";
+"Pay by Cash" = "الدفع نقدا";
+"Pay using Referral Code" = "الدفع باستخدام رمز الإحالة";
+
+//  OtpViewController
+
+"and" = "و";
+"Verify Email" = "التحقق من البريد الإلكتروني";
+"A four digit authentication code has been sent to" = "رمز تحقق اربعة ارقام تم ارسالة الى";
+"Resent OTP" = "إعادة ارسال كلمة السر مرة واحدة";
+
+//  Extension
+
+"Please check your Internet Connection" = "يرجى التحقق من اتصال الإنترنت الخاص بك";
+"Check Your Network Connection" = "تحقق من اتصال الشبكة";
+
+//About
+
+"Taximobility a ready-made taxi booking dispatch system for existing taxi companies or start ups. Perform online, real time taxi booking over mobile apps and webs" = "getup taxi هو نظام متكامل لحجز التكسي وارسال الطلبات عن طريق التحكم بالحجوزات وحجز الرحلات عبر التطبيق للركاب والسائقين اونلاين";
+"Ride from Anywhere \nTaxiMobility.com" = "ركوب من أي مكان \getuptaxi.com";
+"Legal" = "قانوني";
+"Links" = "الروابط";
+"Rate us App Store" = "قم بتقييمنا عبر متجر Apple";
+"Like us on Facebook" = "سجل اعجابك بنا على الفيسبوك";//Changed
+"Follow us on Twitter" = "تابعنا على تويتر";
+"Terms & Condition" = "الشروط والاحكام";
+"Privacy Policy" = "سياسة الخصوصية";
+
+//InviteFriends
+
+"When a friend rides with your code" = "مشاركة صديقك رمز التحقق";
+"you Earn" = "أنت تكسب";//Changed
+"Twitter" = "تغريد";
+"Whats App" = "ال WhatsAppp";
+"SMS" = "رسالة قصيرة";
+"Share Via" = "شارك عبر";
+"Your device has no WhatsApp installed." = "جهازك لا يوجد لديه ال WhatsApp مثبت .";//changed
+
+//FareViewController
+
+"Min Fare" = "دقيقة أجرة";
+"Taxi" = "سيارة اجره";
+"Fare Details" = "تفاصيل الأجرة";//Changed
+"Base Fare" = "الاجرة الاساسية";
+"Values" = "القيم";
+"Below" = "أدناه";
+"Above" = "فوق";
+"Cancel Fare" = "إلغاء أجرة";
+"Night Charges" = "رسوم ليلية";
+"Evening Charges" = "رسوم مسائية";//changed
+
+//settingViewcontroller
+
+"Language" = "اللغة";//changed
+"Split Fare" = "قسم الأجرة";//changed
+
+//RRPickerView
+
+"January" = "كانون الثاني";
+"February" = "فبراير";
+"March" = "مارس";
+"April" = "أبريل";
+"May" = "مايو";
+"June" = "يونيو";
+"July" = "يوليو";
+"August" = "أغسطس";
+"September" = "سبتمبر";
+"October" = "شهر اكتوبر";
+"November" = "تشرين الثاني";
+"December" = "ديسمبر";
+"Please select Month,Year and press 'Select' or 'Cancel'." = "الرجاء تحديد الشهر والسنة واضغط على ' اختر ' أو ' إلغاء' .";
+
+
+"Please select the split fare percentage for" = "يرجى تحديد نسبة تقسيم أجرة ل";//changed
+"Or" = "أو";
+"Please select your favourite type" = "الرجاء اختيار النوع المفضل لديك";//changed
+"Please Select Pick Up Location" = "الرجاء اختيار موقع الركوب";
+
+//ProfileViewController
+
+"Profile" = "الملف الشخصي";
+"Salutation" = "تحية";
+"Change Password" = "تغيير كلمة السر";
+"Mr" = "السيد";
+"Miss" = "انسة";
+"Mrs" = "السيدة";
+"Take Photo" = "تصوير";
+"ERROR" = "خطأ";
+"This device doesn't have a camera." = "لا يوجد كاميرا في هذا الجهاز";//changed
+"Choose from Library" = "اختر من المكتبة";
+"This device doesn't support photo libraries." = "لا يدعم هذا الجهاز مكتبات الصور.";
+"No changes has been made" = "للا يوجد متغيرات";//changed
+"Are you sure you want to logout?" = "هل أنت متأكد أنك تريد تسجيل الخروج؟";
+"Old Password" = "كلمة السر القديمة";
+"New Password" = "كلمة السر الجديدة";
+"Please enter your old password" = "يرجى إدخال كلمة السر القديمة";
+"Please enter your new password" = "يرجى إدخال كلمة السر الجديدة";
+"Password and confirm password do not match" = "كلمة المرور وتأكيد كلمة االمرور لا تتطابق";//changed
+"Old Password does not match" = "كلمة السر القديمة لا تتطابق";//changed
+//Missed
+"Apply" = "تأكيد";
+"Please wait for location update" = "يرجى انتظار تحديث الموقع";//changed
+"Not Available" = "غير متاح";
+"Are you sure you want to cancel this trip?" = "هل أنت متأكد أنك تريد إلغاء هذه الرحلة ؟";
+"Please enter the drop location" = "يرجى إدخال موقع الوصول";
+"Favourite Driver Booking" = "حجز السائق المفضل";
+"Drop Location" = "موقع الوصول";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@.%@" = "أعتذر للإيجاز ، اشترك مع رمز الإحالة %@ واكسب %@ . %@";//changed
+"Excuse my brevity,Sign up with the referral code %@ and earn %@" = "ي عذأعتذر للإيجاز ، اشترك مع رمز الإحالة %@ واكسب %@ . %@";//changed
+"No tracking available!" = "التتبع غير متوفر حالياً";//changed
+"Are you sure ,Do you want to delete the driver from favourite list ?" = "هل أنت متأكد، هل تريد حذف برنامج التشغيل من قائمة المفضلة لديك؟";
+"Cash" = "نقد";
+"Card" = "بطاقة";
+"Waiting Fare" = "انتظار أجرة";
+"Waiting fare per Hour" = "انتظار أجرة لكل ساعة";
+"No favourite driver found" = "لم يتم ايجاد السائق المفضل";
+"You can't change the payment type when the split fare facility enabled" = "لا يمكنك تغيير نوع الدفع عند تفعيل خاصية تقسيم الأجرة";
+"Please enter valid expiry date" = "يرجى إدخال تاريخ انتهاء الصلاحية";//changed
+"Please enter the valid Referral Code" = "الرجاء إدخال رمز الإحالة الصحيح";//changed
+
+
+"Favourite Drivers" = "سائقين مفضلين";
+"Completed" = "منجز";
+"Cancelled" = "تم الالغاء";
+"Min(s)" = "دقائق";
+"Vehicle Min's Fare" = "أجرة الدقائق للسيارة";
+"Waiting" = "انتظار";
+"Waiting Time Cost" = "تكلفة وقت الانتظار";
+"Vehicle Waiting Time" = "وقت انتظار السيارة";
+"Evening Fare" = "أجرة مسائية";
+"Night Fare" = "أجرة ليلية";
+"Sub Total" = "المجموع الفرعي";
+"Tax" = "ضريبة";
+"Promo Code" = "رمز ترويجي";
+"Total" = "مجموع";
+"Split Fare Status" = "حالة تقسيم الاجرة";
+"1.Cab delay" = "1. تأخر التاكسي";
+"2.Driver not responded" = "2. السائق لم يستجب";
+"3.Wrong address shown" = "3. ظهور عنوان خاطئ";
+"4.Changed the travel plan" = "4. تغيرت خطة السفر";
+"5.Booking placed in error" = "5. هنالك خطاء في الحجز";
+"6.Other" = "6. آخرى";
+
+"Vehicle Distance Fare" = "اجرة المسافة المقطوعة";
+"Trip Fare" = "أجرة الرحلة";
+"Distance Fare" = "اجرة المسافة";
+"MILES" = "اميال -كيلو";
+"(1MILES)" = "(1اميال)";
+"Minutes Fare" = "أجرة الدقيقة";
+"Enter your sub domain" = "أدخل النطاق الفرعي";
+"Domain name must contain atleast 3 characters" = "يجب أن يحتوي على اسم النطاق 3 أحرف على الأقل";
+"Minutes Traveled" = "زمن الرحلة";
+"Minute Fare" = "أجرة الدقيقة";
+"Vehicle Minute Fare" = "أجرة الدقائق للسيارة";
+"CAR (s) AVAILABLE" = "سيارات متاحة";
+
+//
+
+
+"Recharge" = "تعبئة رصيد";
+"Voucher Code" = "كود القسيمة";
+"Amount" = "كمية";
+"Date and Time" = "التاريخ و الوقت";
+"Recharge Wallet" = "إعادة شحن المحفظة";
+"Wallet Recharge"= "محفظة شحن";
+"Added By"="تمت الإضافة بواسطة";
+"Loading..." = "جار التحميل...";
+"Requesting a Driver" = "طلب سائق";

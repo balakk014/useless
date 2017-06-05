@@ -1,0 +1,264 @@
+/* 
+  Localizable.strings
+  Taximobility Driver
+ 
+  Created by Mahesh on 2/23/16.
+  Copyright © 2016 Ndot. All rights reserved.
+*/
+
+"APP TITLE" = "Message";
+"Language Settings" = "Ajustes de idioma";
+"STATISTICS" = "Estadística";
+"Profile" = "Perfil";
+"Total completed jobs" = "Total de trabajos terminados";
+"Cancelled" = "Cancelado";
+"Rejected"="Rechazado";
+"Time Driven"="Tiempo impulsado";
+"Today Earning"="Hoy ganando";
+"Total earning" = "Ganancia total";
+"Total trip" = "Total de viajes";
+"MY LOCATION" = "Mi ubicacion";
+"Taxi Details" = "Taxi Detalles";
+
+"First Name" = "Nombre de pila";
+"Last Name" = "Apellido";
+"Email" = "Email";
+"Confirm Password" = "Confirmar contraseña";
+"Bank" = "Banco";
+"Bank A/C no" = "Banco A / C no";
+"Mobile Number" = "Número de teléfono móvil";
+"Password" = "Contraseña";
+"ERROR" = "ERROR";
+"Take Photo" = "Tomar foto";
+"Choose from Library" = "Elige de la biblioteca";
+"This device doesn't have a camera." = "Este dispositivo no tiene una cámara.";
+"This device doesn't support photo libraries." = "Este dispositivo no admite bibliotecas de fotos.";
+"CANCEL" = "Cancelar";
+
+"Show" = "Espectáculo";
+"Hide" = "Esconder";
+"Are you sure you want to logout?" = "¿Seguro que quieres cerrar la sesión?";
+"YES" = "Sí";
+"No Data Found" = "Datos no encontrados";
+"Trip History" = "Historia del viaje";
+"Past Bookings" = "Pasadas reservas";
+"PICKUP LOCATION" = "Lugar de recogida";
+"NEW PICKUP LOCATION" = "Nueva ubicación de recogida";
+"DROP LOCATION" = "Ubicación de la gota";
+"Driver Location" = "Ubicación del controlador";
+"Distance" = "Distancia";
+"Amount" = "Cantidad";
+"TRIP REQUEST" = "Solicitud de viaje";
+
+"Landmark" = "Punto de referencia";
+"I'VE ARRIVED" = "He llegado";
+"START TRIP" = "Iniciar viaje";
+"END TRIP" = "Fin de viaje";
+"SECONDS LEFT TO ACCEPT" = "Segundos dejados para aceptar";
+"Min" = "Min";
+
+"Pickup passenger" = "Recoger pasajeros";
+"Trip in progress" = "Viaje en progreso";
+"Waiting For Passenger" = "Esperando Pasajeros";
+"UNREGISTERED CARD" = "Tarjeta no registrada";
+"CVV" = "Cvv";
+"Card No" = "Tarjeta no";
+"3 Digit" = "3 dígitos";
+"Done" = "Hecho";
+"Enter valid credit card number" = "Ingrese el número de tarjeta de crédito válido";
+"Enter valid expiry date" = "Introducir fecha de caducidad válida";
+"Enter valid CVV number" = "Introduzca el número de CVV válido";
+
+
+
+"Waiting Time" = "Tiempo de espera";
+"Are you sure you want to complete this trip?" = "¿Estás seguro de que quieres completar este viaje?";
+"Trip cancel" = "Cancelar viaje";
+"Are you sure you want to cancel this trip?" = "¿Seguro que quieres cancelar este viaje?";
+"Enter your mobile number" = "Ingrese su numero celular";
+"Forgot Password" = "Se te olvidó tu contraseña";
+"Speed" = "Velocidad";
+"Total %@" = "Total %@";
+"TURN ON" = "Accede a Configuración y activa el servicio de ubicación para esta aplicación.";
+"Enable Gps" = "Habilitar Gps";
+"Request From Passenger" = "Solicitud del pasajero";
+
+"Home" = "Casa";
+"Earnings" = "Ganancias";
+"Street Pickup" = "Recogida en la calle";
+"Trip History" = "Historia del viaje";
+
+"Online" = "En línea";
+"Offline" = "Desconectado";
+"Today" = "Hoy";
+"Referal" = "Remisión";
+"Trip" = "Viaje";
+"Date" = "Fecha";
+"View" = "Ver";
+"Payment request in Pending" = "Solicitud de pago en Pendiente";
+"No tracking available!" = "No hay seguimiento disponible!";
+"Trip Withdraw Request" = "Solicitud de retirada de viaje";
+"Payment Availed" = "Pago disponible";
+"Payment Request in Pending" = "Solicitud de pago en Pendiente";
+"Withdraw Requesting Amount" = "Retirar la cantidad solicitada";
+"Referal Withdraw Request" = "Solicitud de retiro de referencia";
+"Submit" = "Enviar";
+"Cancel" = "Cancelar";
+"Pending" = "Pendiente";
+"Reject" = "Rechazar";
+"Approved" = "Aprobado";
+"Last" = "Último";
+"Distance Fare" = "Tarifa de la distancia";
+"Vehicle Distance Fare" = "Distancia del vehículo";
+"Waiting" = "Esperando";
+"Vehicle Waiting Time" = "Tiempo de espera del vehículo";
+"Sub Total" = "Sub Total";
+"Promo Code" = "Código promocional";
+"Paid By" = "Pagado por";
+"Tax" = "Impuesto";
+"Completed" = "Terminado";
+"Cancelled" = "Cancelado";
+"You have no sufficient amount!" = "¡No tienes suficiente cantidad!";
+"Withdraw Request View" = "Vista de solicitud de retiro";
+"Status Details" = "Detalles del estado";
+"Filter" = "Filtrar";
+"From Date:" = "Partir de la fecha:";
+"To Date:" = "Hasta la fecha:";
+"Status Type:" = "Tipo de estado:";
+"Please Select Your Date" = "Seleccione su fecha";
+"Select" = "Seleccionar";
+"Select Status Type" = "Seleccione Tipo de estado";
+"Cancel" = "Cancelar";
+"Start Trip" = "Iniciar viaje";
+"Fare Details" = "Detalles de tarifas";
+"Fare" = "Tarifa";
+"Vehicle Min's Fare" = "Tarifa del Min del vehículo";
+"Min Fare" = "Tarifa min";
+"Min(s)" = "Min(s)";
+"Card" = "Tarjeta";
+"Fetching Address..." = "Obtener dirección ...";
+"Mins" = "Mins";
+"Withdraw History" = "Retirar Historia";
+"No sim card installed" = "No hay tarjeta SIM instalada";
+
+"On Going" = "En marcha";
+"Payment Completed" = "Pago completado";
+"Trip Id : %@" = "ID de viaje:% @";
+"Back To Home" = "De vuelta a casa";
+"Fare Calculator" = "Calculadora de tarifas";
+"Total Distance" = "Distancia total";
+"Trip Fare" = "Tarifa de viaje";
+"Waiting Time Cost" = "Tiempo de espera";
+"Total" = "Total";
+"Tax %@%@" = "Impuesto";
+"Wallet Amount Used" = "Cantidad de monedero utilizado";
+"Amount to Pay" = "Monto a pagar";
+"PAYMENT BY" = "PAGO POR";
+"Cash" = "Efectivo";
+"Wallet" = "Billetera";
+"Credit Card" = "Tarjeta de crédito";
+"New Card" = "Nueva tarjeta";
+"CALL PASSENGER" = "LLAMAR PASAJERO";
+"Waiting Time" = "Tiempo de espera";
+
+//Missed Keys
+"Select Language" = "Seleccione el idioma";
+"Taxi Model" = "Taxi Model";
+"Taxi number" = "Número de taxi";
+"Taxi from date" = "Taxi a partir de la fecha";
+"Taxi to date" = "Taxi hasta la fecha";
+"No changes has been made" = "No se han realizado cambios";
+"ACCEPT" = "Aceptar";
+"DECLINE" = "Disminución";
+"Expiry" = "Expiración";
+"OK" = "De acuerdo";
+"Enter CVV number" = "Ingrese el número de CVV";
+"Trip Details" = "Detalles del viaje";
+
+
+
+"Log Out" = "Cerrar sesión";
+"Save" = "Salvar";
+"Invite Friends" = "Invitar a amigos";
+"Sign In" = "Registrarse";
+"When a driver join with your code" = "Cuando un controlador se une con su código";
+"When a driver rides the trip with your code" = "Cuando un conductor monta el viaje con su código";
+"you Earn" = "usted gana";
+//Missed
+"Drop Location is not specified" = "No se especifica la ubicación de la gota";
+"Please wait till the location update gets completed" = "Espere hasta que se complete la actualización de ubicación";
+"Wallet History" = "Historial de Wallet";
+"History" = "Historia";
+"Skip" = "Omitir";
+"Withdraw" = "Retirar";
+"Wallet History" = "Historial de Wallet";
+"Disapproved" = "Rechazado";
+"Pending" = "Pendiente";
+"Approved" = "Aprobado";
+"Requested Amount" = "Monto requerido";
+"Requested Date" = "Fecha solicitada";
+"Status" = "Estado";
+"Share Via" = "Compartir via";
+"Facebook" = "Facebook";
+"Twitter" = "Twitter";
+"Email" = "Email";
+"Whats App" = "WhatsApp";
+"SMS" = "SMS";
+"Your device has no WhatsApp installed." = "Su dispositivo no tiene WhatsApp instalado.";
+"Your device doesn't support SMS!" = "¡Su dispositivo no es compatible con SMS!";
+//Referral
+"Enter the referral Code" = "Ingrese el código de referencia";
+//Missed
+"Call" = "Llamada";
+//Validation
+"Please enter your first name" = "Por favor, introduzca su nombre de pila";
+"Please enter your last name" = "Por favor ingrese su apellido";
+"Please enter your email" = "Por favor introduzca su correo electrónico";
+"Please enter your mobile number" = "Por favor, introduce tu número de teléfono";
+"Please enter the password" = "Por favor introduzca la contraseña";
+"Please enter the confirm password" = "Introduzca la contraseña de confirmación";
+"Please enter valid email address" = "Por favor ingrese una dirección de correo electrónico válida";
+"Please enter valid mobile number" = "Introduce un número de móvil válido";
+"Password should be minimum 6 characters" = "La contraseña debe tener un mínimo de 6 caracteres.";
+"Password does not match" = "Contraseña y Confirmar contraseña no coinciden";
+"First name must contain atleast 4 characters" = "El nombre debe contener al menos 4 caracteres";
+//Missed
+"Please enter your old password" = "Introduzca su contraseña antigua";
+"Please enter your new password" = "Ingrese su nueva contraseña";
+//Wallet
+"Do you want to withdraw" = "¿Quieres retirar";
+"Sorry,Your wallet balance is too low" = "Lo sentimos, el saldo de su cartera es demasiado bajo";
+"Trip Completed" = "Viaje completado";
+"First name must contain atleast 4 characters" = "El nombre debe contener al menos 4 caracteres";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@.%@" = "Disculpe mi brevedad, regístrese con el código de referencia% @ y gane% @.% @";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@" = "Disculpe mi brevedad, regístrese con el código de referencia% @ y gane% @";
+"Taximobility - Invite a Friend" = "Taximobility - Invitar a un amigo";
+"KM" = "KM";
+"MILES" = "Milésimas";
+//Withdraw
+"Withdraw" = "Retirar";
+"Referal Amount" = "Cantidad de Referencia";
+"Trip Amount" = "Cantidad del Viaje";
+"Payment request in Pending" = "Solicitud de pago en Pendiente";
+"Withdraw Amount" = "Retirar la cantidad";
+"Referal Withdraw Request" = "Solicitud de retiro de referencia";
+// Trip details
+"Waiting Fare" = "Tarifa de espera";
+"Track Now" = "Seguir ahora";
+//Api Download
+"Unable to proceed your request,Please try again" = "No se puede continuar con la solicitud. Inténtalo de nuevo.";
+"Search Location" = "Localización de búsqueda";
+"Minimum Fare" = "Tarifa mínima";
+"Below" = "Abajo";
+"Above" = "Encima";
+"Estimated Amount" = "Cantidad estimada";
+"Trips" = "Excursiones";
+"This Week" = "Esta semana";
+"Tap the trip history link to see your ongoing and past trip details" = "Toque en el enlace de historial de viaje para ver los detalles de su viaje en curso y pasados";
+"Submit" = "Enviar";
+"Enter your subdomain" = "Introduzca su subdominio";
+"Domain name must contain atleast 3 characters" = "El nombre de dominio debe contener al menos 3 caracteres";
+
+"Minutes Traveled" = "Minutos recorridos";
+"Minute Fare" = "Tarifa por minuto";
+"Vehicle Minute Fare" = "Vehículo tarifa de minuto";

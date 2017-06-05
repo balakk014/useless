@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="appbg">#f6f6f6</color>
+    <color name="appbgdark">#6f6f6f</color>
+
+
+    <color name="header_text">#404041</color>
+
+    <color name="popup_heading">#47bf28</color>
+    <color name="pastbookingcashtext">#47bf28</color>
+    <color name="shiftoncolor">#5E9A04</color>
+    <color name="shiftoffcolor">#9C9C9C</color>
+
+    <color name="highlightcolor">#FF0000</color>
+
+    <color name="textviewcolor_dark">#666666</color>
+    <color name="textviewcolor_light">#a2a2a2</color>
+
+    <color name ="linebottom_light">#a2a2a2</color>
+    <color name ="linebottom_dark">#646464</color>
+
+    <color name="bordercolor">#979797</color>
+
+    <color name="notificationbg">#A6000000</color>
+
+    <color name="hintcolor">#666666</color>
+
+    <color name="button_accept">#fbb800</color>
+    <color name="button_reject">#fbb800</color>
+
+
+    <color name="transparent">#00000000</color>
+    <color name="semitransparent">#88676767</color>
+
+    <color name="btnaccept">#87dc1f</color>
+
+    <color name="trip_history_text_grey">#5F5F5F</color>
+
+
+    <color name="light_white">#BDBDBD</color>
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="pastbookingcard">#87cefa</color>
+    <color name="invite_gray">#a3a3a3</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+</resources>
+
+    <!--<color name="hintcolors">#666666</color>-->
+    <!--<color name="decline">#ee3324</color>-->
+    <!--<color name="colorprimary">#f7f5f6</color>-->
+    <!--<color name="listitem_pressed_color">#a2a2a2</color>-->
+    <!--<color name="listitem_focused_color">#646464</color>-->
+    <!--<color name="black_">#404040</color>-->
+    <!-- <color name="header_color">#FFCC00</color> -->
+    <!--<color name="light_gray1">#a2a2a2</color>-->
+    <!--<color name="button_red">#ff0000</color>-->
+    <!--<color name="bg_diff">#f7f5f6</color>-->
+    <!--<color name="textcolothint">#8c8c8c</color>-->
+    <!--<color name="txtcolor">#a2a2a2</color>-->
+    <!--<color name="cancel_bg">#ef0068</color>-->
+    <!--<color name="black">#000000</color>-->
+    <!--<color name="dark_gray">#646464</color>-->
+    <!--<color name="text_color">#003e4d</color>-->
+    <!--<color name="btncolor">#ee3324</color>-->
+    <!--<color name="signinbtn">#ef0068</color>-->
+    <!--<color name="accept">#70AA29</color>-->
+    <!--<color name="black_bg_CE">#181818</color>-->
+    <!--<color name="black_bg_S">#040404</color>-->
+    <!--<color name="timer_stroke">#171717</color>-->
+    <!--<color name="trip_history_bg">#dddedf</color>-->
+    <!--<color name="listitem_default_color">#F9F9F9</color>-->
+
+    <!--<color name="button_cancel">#ee0068</color>-->
+    <!--<color name="bottom_text_gray">#ABABAB</color>-->
+
+    <!--<color name="light_orange">#FFA500</color>-->
+    <!--<color name="orange">#fe9908</color>-->
+    <!--<color name="black_bg_C">#030303</color>-->
+

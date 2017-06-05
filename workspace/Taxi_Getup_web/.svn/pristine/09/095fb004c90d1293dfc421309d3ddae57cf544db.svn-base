@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="header_bgcolor">#f5f5f5</color>
+
+    <color name="header_text">#404041</color>
+
+    <color name ="linebottom_light">#c2c2c2</color>
+    <color name ="linebottom_dark">#646464</color>
+
+    <color name="hintcolor">#666666</color>
+
+    <color name="pickupheadertext">#48bf27</color>
+    <color name="pastbookingcashtext">#48bf27</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent">#66000000</color>
+
+    <color name="button_accept">#fbb800</color>
+    <color name="button_reject">#404041</color>
+
+    <color name="paymentcard">#00BFFF</color>
+    <color name="MatThemectrlActive">#ecbe2a</color>
+
+    <color name="cancelbtntxtcolor">#fbb800</color>
+    <color name="submitbtntxtcolor">#fbb800</color>
+    <color name="checkboxtxtcolor">#fbb800</color>
+    <color name="highlighttxtcolor">#fbb800</color>
+
+
+    <color name="buttonnormaltheme">#fbb800</color>
+
+    <color name="textviewcolor_dark">#666666</color>
+    <color name="textviewcolor_light">#a2a2a2</color>
+
+    <color name="buttontextcolor">#ffffff</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>

@@ -1,0 +1,192 @@
+@import url('fontface.css');
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption, tbody, tfoot, thead, article, aside, dialog, figure, footer, header, hgroup, nav, section{border:0 none;font-family:'roboto_regular';font-size:100%;font-style:inherit;font-weight:inherit;margin:0;padding:0;}
+article, aside, dialog, figure, footer, header, hgroup, nav, section{display:block;}
+table{border-collapse:separate;border-spacing:0;}
+caption, th, td{}
+table, td, th{}
+header{position:relative;}
+blockquote:before, blockquote:after, q:before, q:after{content:"";}
+blockquote, q{quotes:"" "";}
+a img{border:medium none;outline:medium none;outline:none;}
+a span:hover, a:hover, a{outline:medium none;text-decoration:none;}
+body{font-family:'Source Sans Pro';font-size:16px;color:#333;overflow-x:hidden;line-height:24px;word-break: normal;
+    word-wrap: break-word;    word-spacing: 1px;}
+ul, li{list-style:none outside none;margin:0;padding:0;}
+input[type="button"], input[type="submit"], input[type="reset"]{border:medium none;cursor:pointer;outline:none;}
+.clearfix:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0;}
+.clearfix{}
+html[xmlns] .clearfix{display:block;}
+
+@font-face {
+  font-family: 'roboto_regular';
+  src: url('../font/roboto_regular/Roboto-Regular.eot?#iefix') format('embedded-opentype'),  
+       url('../font/roboto_regular/Roboto-Regular.woff') format('woff'), 
+       url('../font/roboto_regular/Roboto-Regular.ttf')  format('truetype'), 
+       url('../font/roboto_regular/Roboto-Regular.svg#roboto_regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body *{transition-duration:0.5s;}
+
+h1,h2,h3,h4,h5,h6{font-family:'roboto_regular';font-weight:normal;text-rendering: optimizeLegibility;color:#000;line-height:1.3;}
+p{font-weight:400;font-size:16px;line-height:24px;}
+
+.header_outer_inner {width: 1038px;margin: 0 auto;}
+.logo {width: 200px;float: left;padding: 0;margin-top:10px;}
+.header_left_menu {width: auto;float: right;margin: 0;}
+.header_menu_left_inner, .menu_inners {float: left;width: auto;}
+.header_menus_company {float: left;}
+.header_menus_company ul {float: left;width: 100%;}
+.header_menus_company ul li {border-bottom: 4px solid transparent;height: 37px;margin: 0 10px;padding: 20px 0 0 !important;position: relative;
+    float: left;}
+.header_menus_company ul li a {color: #000000;font-size: 14px;text-transform: uppercase;transition: all 0.2s linear 0s;}
+.right_menu {float: right;}
+.right_menu a {float: left;font-size: 14px;float: left;color: #26242f;text-transform: uppercase;padding-left: 14px;}
+.sign_in {background: url(../images/key.png) left center no-repeat;margin: 17px 15px 0;}
+.sign_up {background: url(../images/lock.png) left center no-repeat;margin: 17px 0 0 15px;}
+body .header_outer_cont {width: 100%;background: #fff;z-index: 9999;position: fixed;height: 50px;top: 0;box-shadow: 0 0 8px rgba(0,0,0,0.5);}
+.outer {float: left;width: 100%;overflow: hidden;}
+.key_block {margin: 0 auto;width: 960px;padding: 30px 0 30px;position: relative;text-align: center;margin-top: 10px;}
+/*signup form*/
+.signup_form h3,.signin_form h3,.forgot_form h3,.facebook_info_popup h3,.fare_estimate_popup h3{float: left;width: 100%;text-align: center;font-size:22px;color: #000;text-transform: uppercase;padding-bottom: 10px;}
+.signup_form ul,.signin_form ul,.forgot_form ul.facebook_info_popup ul{float: left;width: 100%;padding:0 15px;background: url(../images/signup_bg.png) no-repeat;box-sizing: border-box;-webkit-box-sizing: border-box;}
+.signup_form ul li,.signin_form ul li,.forgot_form ul li,.facebook_info_popup ul li,.fare_estimate_popup ul li{float: left;width: 100%;margin-top: 15px;}
+.signup_form ul li label{float: left;width: 100%;font-size:16px;color: #e71818;}
+.month{float: left;width: 48%;}
+.year{float: right;width: 48%;}
+.sub_butt{float: left;width: 100%;text-align: center;}
+.sub_butt input[type=submit],.sub_butt input[type=button]{display: inline-block;background: #ff2905;border:none;font-size:16px;color: #fff;text-transform: uppercase;border-radius: 3px;padding: 8px 30px;}
+.signup_form ul li p,.fare_estimate_popup ul li p{float: left;width: 100%;text-align: center;color: #8b8b8b;}
+.signup_form ul li p a,.signin_form ul li p a{font-size:14px;color: #ff2905;}
+.signin_form,.forgot_form,.facebook_info_popup,.fare_estimate_popup{position: fixed;top: 20%;left: 50%;width: 383px;border:1px solid #c4c4c4;background: #fff;box-shadow: 0 0 9px rgba(0,0,0,0.2);margin-left: -191px;z-index: 10001;padding: 10px;box-sizing: border-box;-webkit-box-sizing: border-box;}
+.signin_form ul li p{float: right;}
+.full_name, .full_name_mobile {float: left;width: 100%;}
+.full_name_mobile span {float: left;width: 20%;}
+.mob_no {float: left;width: 80%;}
+.full_name input[type=text], .full_name input[type=password], .month input[type=text], .year input[type=text], .full_name_mobile input[type=text] {
+    float: left;width: 100%;border: 1px solid #cfcfcf;height: 43px;padding: 10px;font: 16px arial;color: #bababa;outline: none; box-sizing: border-box;-webkit-box-sizing: border-box;}
+.rember {float: left;}
+.rember span {font-size: 14px;color: #8d8d8d;}
+.signin_form ul li p {float: right;}
+.signup_form ul li p a, .signin_form ul li p a {font-size: 14px;color: #ff2905;}
+.sub_butt {float: left;width: 100%;text-align: center;}
+.new_acc_create {float: left;width: 100%;margin-top: 15px;border-top: 1px solid #ff2905;padding-top: 15px;text-align: center;}
+.new_acc_create h2 {display: inline-block;font-size: 16px;color: #8d8d8d;width: 100%;}
+.new_acc_create a {display: inline-block;font-size: 16px;color: #e71818;margin: 5px 0;width: 100%;}
+.new_acc_create label {display: inline-block;margin: 10px 0;position: relative;width: 50%;height: 1px;background: #b1b1b1;}
+.new_acc_create label:before {position: absolute;top: -7px;left: 50%; content: "OR";font-size: 14px;color: #8d8d8d;   background: #fff;padding: 0 5px;margin-left: -10px;}
+.close_butt {float: right;position: absolute;width: 28px;height: 28px;background: url(../images/close_butt.png) no-repeat;top: -14px;
+    right: -14px;}
+.full_name_mobile span input[type=text] {text-align: center;width: 102%;}
+.signup_form {position: absolute;top: 25px;left: 50%;width: 383px;border: 1px solid #c4c4c4;background: #fff;box-shadow: 0 0 9px rgba(0,0,0,0.2);margin-left: -191px;z-index: 10001;padding: 10px;box-sizing: border-box;-webkit-box-sizing: border-box;}
+#fade {position: fixed;width: 100%;height: 100%;top: 0;left: 0;background: rgba(0,0,0,0.4);z-index: 10000;display: none;}
+.full_name select {float: left;width: 100%;border: 1px solid #cfcfcf;height: 43px;padding: 10px;font-size: 16px;color: #bababa;outline: none;
+    box-sizing: border-box;-webkit-box-sizing: border-box;}
+.signup_form ul li p, .fare_estimate_popup ul li p {float: left;width: 100%;text-align: center;font-size: 14px;color: #8b8b8b;}
+.about_inner,.about_bottom_inner{margin: 0 auto;width: 1038px;}
+.about_common {float: left;width: 100%;}
+.about_left {width: 100%;float: left;padding: 68px 0 0 0;text-align: center;}
+.about_bottom_outer {float: left;width: 100%;background: #fff;}
+.about_bottom_common {float: left;width: 100%;padding: 30px 0 40px;}
+.about_bottom_common ul {float: left;width: 100%;padding: 25px 0;}
+.about_bottom_common ul li, .key_list1 li {float: left;width: 96%;font-size: 14px;padding: 0 0 0 10px; color: #333;
+    background: none !important;}
+.key_list li {color: #333;padding: 0 0 15px 45px;position: relative;margin-left: 0;width: 100%;}
+.about_outer {float: left;width: 100%;position: relative;z-index: 1;height: 150px;}
+.about_baner {left: 0;width: 100%;z-index: -1;height: 150px;position: absolute;}
+.header_outer_cont{position: fixed;}
+.header_left_menu{float: right;}
+.header_menus_common ul li.header_demo:hover, .header_menus_common ul li.header_demo{border: none; margin-top: 3px;}
+.header_menus_common ul li a{text-transform: uppercase;transition: all 0.2s linear 0s;font-size: 14px; color: #000;} 
+.header_menus_common ul li a:hover, .header_menus_common ul li.active a{color: #000;}
+.banner_part{height: 497px; background: none; position: relative; margin-top: 50px;}
+.about_outer{margin-top: 50px;}
+.header_menus_common ul li.lst_bord{font-weight: bold; border: none;}
+.header_menus_common ul li.lst_bord:hover{border: none; cursor: default;}
+.about_left h1{font-size: 36px; text-align: left; color: #000;}
+.about_bottom_common ul li, .key_list1 li{font-size: 16px; color: #333;line-height:25px;}
+.service_block_inner{margin: 0 auto;width: 1200px;}
+.key_block_outer.support_block_outer h1{color:#000; font-size: 32px;line-height:1.2;}
+.key_block_outer.support_block_outer .key_block_outer_head h1{text-align: center; margin: 15px 0;}
+.key_block_outer.support_block_outer .service_block_inner h1{margin: 15px 0;}
+.about_baner{height: auto;}
+.service_block{float:left; width: 100%; text-align: center; margin-bottom: 15px;margin-top: 11px;}
+.service_block.service_block_abou{background: url("../images/about_block_bg.png") no-repeat; margin-top: 12px;}
+.service_block p{font-size: 16px; margin-top: 15px; text-align: center; color: #333;}
+.service_block ul{float:left; width: auto; margin-top: 30px;}
+.service_block ul.service_block_rgt{width: auto;}
+.service_block ul.service_block_rgt li{width: auto; clear: both;}
+.service_block ul li{float:left; width: 100%; margin-bottom: 20px;}
+.about_us_block{background: url("../images/about_block_bg.png") no-repeat;box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(0, 0, 0, 0.1) inset !important;float: left;margin: 15px 0 0;padding: 10px 0;width: 100%;}
+.about_us_block_lft{float: left; width: 100%; text-align: left; font-size: 16px; margin-top: 5px; height: 75%; overflow-y: auto;}
+.about_us_block_lft p{font-size: 16px;color:#333; margin-bottom: 15px; text-align: center;}
+.banner_taxi > a{margin-right: 15px;}
+.contact_us_outer .control-group.err{margin-left: 58px; text-align: left;}
+.contact_us_block{width: 100%; float: left; text-align: center;}
+.reg_form_left, .contact_us_block img{width: 100%;}
+.name2{display: none;}
+.contact_us_block .key_block{padding: 10px 0;}
+.contact_us_block img#refresh{width: auto;}
+.contact_us_outer{float:left; width: 100%; margin: 0;}
+.find_you{float:left; width: 100%;margin-top: 10px;}
+.find_you .key_block{padding: 0; width: 100%;}
+.find_you .key_block img{width: 100%;}
+.footer_products.footer_rgt{float: right; margin-right: 5%; width: auto;}
+.social_icon{width: 100%;margin: 0;padding: 0;text-align: center;float: left;}
+.social_icon li{display: inline-block;margin: 0 0 0 15px;}
+.social_icon ul li a{height: 40px; width: 40px;float: left;}
+.social_icon .facebook2{background: url("../images/footer_share_icons_1.png") no-repeat;}
+.social_icon .twitter{background: url("../images/footer_share_icons_1.png") no-repeat -42px 0;}
+.social_icon .google{background: url("../images/footer_share_icons_1.png") no-repeat -84px 0;}
+.social_icon .linked_in{background: url("../images/footer_share_icons_1.png") no-repeat -126px 0;}
+.social_icon .facebook2:hover{background: url("../images/footer_share_icons_1.png")0 -42px no-repeat;}
+.social_icon .twitter:hover{background: url("../images/footer_share_icons_1.png") no-repeat -42px -42px;}
+.social_icon .google:hover{background: url("../images/footer_share_icons_1.png") no-repeat -84px -42px;}
+.social_icon .linked_in:hover{background: url("../images/footer_share_icons_1.png") no-repeat -126px -42px;}
+.footer_outer{padding: 12px 0 0; background: none;}
+.footer_products_company ul{display: inline-block; width: 243px;}
+.footer_products_company ul li{float:left; width: auto; margin-right: 4%; margin-top: 10px; padding: 0;}
+.footer_outer_copy_rights{float: left; width: 100%; background: #fff; text-align: center;}
+.banner_taxi{float:left; width: 100%; height: auto; position: absolute; top: 35%; left: 0; text-align: center;}
+.banner_taxi h1{font-size:36px; color: #fff; margin-bottom: 30px;word-wrap:break-word;font-weight:500;}   
+.banner_taxi a.app_store_bg{display: none;}
+
+.list_page_in{width:100%;}
+.home_support_list{display: block;margin-top:15px;}
+.service_block .home_support_list li{display: inline-block;padding: 0 20px 15px;text-align: center;vertical-align: top;width: 29%; list-style: none;}
+.hsupport_icon{display: inline-block;height: 73px;padding: 0 0 15px;width: 73px;}
+.list_img{text-align:center;}
+.list_img a img{border-radius:100%;width:130px;text-align:center;}
+.hsupporlist_title{color: #585859;font-size: 24px;padding: 0 0 5px;}
+.home_support_list li p{color:#34495e;font-size: 14px;color: #000;}
+.heading2{font-size: 24px; color: #000; margin-top: 15px;}
+#about_block_show .key_block{width: 960px; padding:0; text-align: center; margin-top: 10px;}
+.reg_form_left .input_bx.input_bx_msg, .reg_form_left{width: 100%;}
+.reg_form_left .input_bx{width: 50%; text-align: center;}
+.reg_form_left input[type="password"], .reg_form_left input[type="text"]{width: 350px !important; font-size: 14px; color: #868686; background: #f7f7f7;}
+.reg_form_left textarea{width: 830px !important;font-size: 14px; color: #868686; background: #f7f7f7;}
+.contact_us_outer .reg_form_left .confirm input[type="submit"]{margin-right: 0; background: #000; text-transform: uppercase; color: #fff; border-radius: 3px; padding: 8px 60px; margin-left: 10px; margin-top: 10px; transition: all 0.2s linear 0s;}
+.contact_us_outer .reg_form_left .confirm input[type="submit"]:hover{background: #333;}
+.contact_us_outer .reg_form_left textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus{box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(0, 0, 0, 0.2) !important; border:1px solid #cccccc !important;}
+.chgcapchafont p{padding: 0 30px 0 0;}
+.chgcapchafont{width: auto;}
+.footer_products{width: auto; display: inline-block; float: none;}
+.footer_products.footer_rgt{width: 100%; margin: 0; padding: 0; text-align: center; float:left;}
+.footer_products ul li{margin-right: 5%;}
+.footer_products ul li a:hover{color: #000;}
+.footer_outer_copy_rights p{float: none; display: inline-block; font-size: 14px;color: #545454; padding: 10px 0 0 0;vertical-align: top;}
+.footer_products ul li a,.footer_products_company ul li a{font-size: 14px;color: #545454; border-right: 1px solid #A3A3A3; padding: 0 10px 0 0;}
+.footer_products.footer_rgt ul li{margin-right: 0;}
+.footer_products.footer_rgt ul li a{padding: 0; border: none;}
+#frmlogin{margin: 0;}
+.carousel-inner .banner_taxi img{width:auto; height:auto;}
+.header_menus_company{float:left;}
+.header_menus_company ul {float: left;width: 100%;}
+.header_menus_company ul li{border-bottom: 4px solid transparent;height: 31px;margin: 0 10px;padding: 15px 0 0 !important;position:relative;float:left;}
+.header_menus_company ul li a {color: #000000;font-size: 14px;text-transform: uppercase;transition: all 0.2s linear 0s;}
+.header_menus_company ul li:hover,.header_menus_company ul li.active{border-bottom: 4px solid #ee3324;}
+.company_footer_outer{padding: 12px 0 0;background: none;float: left;width:100%;border-top: 5px solid #ddd;}
+.signin_form ul li em,.signup_form ul li em,.forgot_form ul li em{ color:red; font-size:12px}
+.header_menus_company ul li a:hover,.sign_in:hover,.sign_up:hover,.footer_products_company ul li a:hover{color: #ee3324;}

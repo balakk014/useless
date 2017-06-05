@@ -1,0 +1,5 @@
+#wrapper{padding-left:0px !important;}
+#vbx-context-menu{backgroud:none;border-bottom:none;padding:0px;background-color:none;border-bottom:none;}
+#vbx-client-status{padding-right:200px!important;padding-top:6px;}
+.battle_view_button{float:left;margin-left:-220px!important;padding-top:5px;}
+.sms-dialog{left:190px!important;}

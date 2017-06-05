@@ -1,0 +1,147 @@
+/************************************************************************************
+smaller than 1024
+*************************************************************************************/
+@media screen and (max-width: 1024px){
+    .header_outer_cont{position: relative;}
+    .banner_part{margin-top: 0;}
+    .header_menus_common ul li:first-child{padding: 20px 0 0 !important;}
+    .header_menus_common ul li.lst_bord{padding-top: 15px;}
+    .banner_taxi{float: left;height: auto;left: 0;position: absolute;top: 28%;width: 100%;}
+    .input_bx{margin-bottom: 10px;}
+    .about_us_block_lft{width: 100%; height: auto; padding-bottom: 10px;}
+    .service_block_inner{margin: 0 10px;}   
+    #about_block_show .key_block{width: 96%; padding: 0;}
+    .about_us_block_rgt{width: 50%;}
+    .header_left_menu{float:right; margin: 0;}    
+    .footer_outer{padding: 18px 0 10px;}
+    .carousel-inner img{height: auto;}
+    .carousel-control{top: 50%;}
+    .about_us_block{height: auto;}
+    .contact_us_outer .registration .reg_form_left{width: 100%;}
+    .chgcapchafont{width: auto;}
+    .reg_form_left textarea{width: 84% !important;}      
+    .banner_bottom_contact_us{display: none;}
+    .home_support_list li p{text-align: center;}
+    .toggleMenu.toggleMenu_for_company{background: url("../images/togglemenu_icon_for_company.png") no-repeat right center; margin-top: 15px; width: 30px; height: 30px;}	
+}
+/************************************************************************************
+smaller than 980
+*************************************************************************************/
+@media screen and (max-width: 980px) {   
+    .header_menus_common ul li.lst_bord{margin-top: 0;}
+    .header_menus_common ul{margin-top: 15px;}
+    .header_menus_common ul li:first-child a, .header_menus_common ul li a{padding: 0;}
+    .header_menus_common ul li, .header_menus_common ul li.active{height: 41px; border-top: none; margin: 0 15px; float: left;}
+    .banner_taxi h1{font-size: 60px;}    
+    .about_us_block{padding: 0;}
+    .reg_form_left textarea{width: 94% !important;}
+    .contact_us_outer .reg_form_left .confirm input[type="submit"]{padding: 8px 45px;}
+    .footer_outer{padding: 25px 0 0;}    
+    .about_us_block_lft{width: 100%; margin:2% 0;}
+    .about_us_block_rgt{margin-left: 0;}
+    #slideshow-carousel li img{height: 350px;}
+    .service_block .home_support_list li{width: 28%;}
+    .contact_us_outer .control-group.err{margin-left: 8px;}    
+    .header_menus_common ul{margin-top: 10px; padding: 0;}     
+    .header_menus_common .hnav{width: 35%; padding: 10px; right:0; margin-right:0;}	
+    .header_menus_common ul li, .header_menus_common ul li:hover{border: none !important;}
+    .header_menus_common ul li, .header_menus_common ul li.active{height: auto; padding: 0 0 10px; margin: 0;}
+    .header_menus_common ul li:first-child a, .header_menus_common ul li a{padding: 0 0 10px; text-align: left; border-bottom: 1px solid #e7e7e7;}   
+    .header_left_menu{float: right; margin-top: 12px;}
+    .toggleMenu{background:url(../images/togglemenu_icon.png) no-repeat;background-size: 100%;width: 20px;height: 20px;margin-top: 19px;}
+    .header_menus_common ul li:first-child{padding: 0 0 10px 0 !important;}
+    .header_menus_common ul li.lst_bord{padding: 0; margin: 0;}
+    .header_menus_common ul li, .header_menus_common ul li:first-child a{padding:0 0 5px 0 !important;}    
+    .header_menus_common ul li:first-child, .header_menus_common ul li a{padding: 5px 0 !important;}
+    .list_page_in, .header_menus_common ul li.lst_bord span{float: left;}
+}
+
+/************************************************************************************
+smaller than 768
+*************************************************************************************/
+@media screen and (max-width: 768px) {    
+    .reg_form_left input[type="password"], .reg_form_left input[type="text"]{width: 92% !important;}    
+    .chgcapchafont p{margin-left: 10px; width: auto;} 
+    .contact_us_outer .reg_form_left .confirm input[type="submit"]{padding: 8px 37px; margin-left: 25px;}
+    .footer_products.footer_products_company ul li{margin-top: 20px;}
+    .footer_products{width: 100%; float: left; text-align: center;}
+    .footer_products.footer_products_company ul{float: none; display: inline-block;}
+    .service_block .home_support_list li{width: 27%;}    
+}
+/************************************************************************************
+smaller than 685
+*************************************************************************************/
+@media screen and (max-width: 685px) {
+    .header_left_menu{float: right; display: inline-block;}
+    .banner_part{height: auto;}
+    .banner_taxi h1{font-size: 30px; font-weight: bold;}
+    .banner_taxi{top:10%;}
+    .banner_part > img, .banner_taxi > img{width: 100%;}
+    .header_outer_inner{text-align: center;}
+    .contact_us_outer .reg_form_left .confirm input[type="submit"]{margin-left: 0; clear: both; float: left;}
+    .service_block .home_support_list li{width: 26%;}   
+    .footer_products.footer_products_company ul{width: auto;}
+    .footer_products.footer_products_company ul li{margin: 0 10px 10px;}
+    .footer_products{padding: 0; margin-top: 10px;}
+    .footer_products ul li:first-child a{border: none;}
+    .footer_products ul li a{padding: 0;}
+}
+
+/************************************************************************************
+smaller than 568
+*************************************************************************************/
+@media screen and (max-width: 568px) {    
+    .footer_products.footer_products_company ul{width: 100%;}    
+    .footer_outer_copy_rights p{margin-top: 20px; padding: 0; width: 100%; text-align: center;}       
+    .footer_products.footer_rgt ul li:first-child a, .footer_products ul li a{border: none;}  
+    .service_block .home_support_list li{width: 50%; display: inline-block; float: none;}
+    .service_block ul{text-align: center;}
+    .about_us_block{background-image: none;}
+    .banner_taxi > a{display: inline-block;height: 50px;margin-right: 15px;width: 150px;}
+    .banner_taxi > a img{width: 100%; height: 100%;}
+}
+/************************************************************************************
+smaller than 480
+*************************************************************************************/
+@media screen and (max-width: 480px) {    
+.footer_products.footer_rgt{float: left;margin-right: 0;width: 100%;}
+.header_outer_cont{position: relative;}
+.header_menus_common ul{margin: 10px 0;}
+.banner_taxi{top: 0;}
+.banner_part{height: auto;}
+.footer_products.footer_products_company ul{margin: 0;}
+#slideshow-carousel ul{overflow: visible;}
+.chgcapchafont p{width: 40%;}
+.jcarousel-skin-tango .jcarousel-item{width: 460px;}
+.jcarousel-skin-tango .jcarousel-next-horizontal{right: 10px;}
+.header_menus_common ul{margin: 10px 0 0;}
+.reg_form_left .input_bx{width: 100%;}
+.reg_form_left textarea{width: 92% !important;}
+.header_menus_common .hnav{right: 3%;top: 70%; width: 55%;}
+.footer_outer_copy_rights p{margin: 0;}
+}
+/************************************************************************************
+smaller than 380
+*************************************************************************************/
+@media screen and (max-width: 380px) {    
+    .header_menus_common ul li{width: 100%; border-bottom: 4px solid #fff;}
+    .header_menus_common ul li:first-child a, .header_menus_common ul li a{padding: 7px 0;}        
+    .jcarousel-skin-tango .jcarousel-item{width: 310px;}    
+    .banner_part{height: auto; margin-top: 0;}
+    .banner_taxi a img{margin-bottom: 15px;}
+    .banner_taxi h1{font-size: 20px; margin: 10px 0 0 0;}
+    .banner_taxi a{display: none;}
+    .banner_taxi a.app_store_bg{display: inline-block; background: url("../images/home_appstore.png") no-repeat -63px 0; width: 62px; height: 65px; margin-top: 5px;}
+    .banner_taxi a.app_store_bg.app_gog_bg{display: inline-block; background: url("../images/home_appstore.png") no-repeat; width: 62px; height: 65px;}
+    .chgcapchafont{margin-top: 10px;}
+    .chgcapchafont img{margin-left: 20px;}
+    .contact_us_outer .reg_form_left .confirm input[type="submit"]{padding: 8px 80px;}
+    .banner_bottom_contact_us span{font-size: 20px;}       
+    .key_block_outer.support_block_outer h1{font-size: 25px;}
+    .about_outer{margin-top: 0;}
+    .about_bottom_common{padding: 0;}
+    .about_right, .about_baner{display: none;}
+    .banner_taxi a.app_store_bg.app_gog_bg, .banner_taxi a.app_store_bg{background: url("../images/home_appstore.png") no-repeat;display: inline-block;height: 50px;margin-top: 5px;width: 125px;}
+    .banner_taxi a.app_store_bg.app_gog_bg{background: url("../images/home_appstore.png") no-repeat 0 -47px;} 
+    .header_menus_common .hnav{right: 3%;top: 70%; width: 70%;}
+}

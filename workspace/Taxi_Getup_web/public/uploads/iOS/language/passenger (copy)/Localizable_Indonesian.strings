@@ -1,0 +1,411 @@
+/*
+ Localizable.strings
+ Taximobility
+ 
+ Created by ndot on 25/06/16.
+ Copyright © 2016 Ndot. All rights reserved.
+ */
+//Home View Controller
+
+"APP TITLE" = "Taximobility";
+"Please turn on location service to use this app" = "Silakan aktifkan layanan lokasi untuk menggunakan aplikasi ini";
+"Sign Up" = "Daftar";
+"Sign In" = "Masuk";
+"Ride Now" = "naik Sekarang";
+"Ride Later" = "naik Kemudian";
+"Drop Location(Optional)" = "Penurunan Lokasi (pilihan )";
+"Go To Pin..." = "Mengambil Alamat ...";
+"Available" = "Tersedia";
+"Currently no cars are available" = "Saat ini tidak ada mobil yang tersedia";
+"Min" = "Min";
+"Pickup time is approximately" = "waktu pickup sekitar";
+"Minutes" = "Menit";
+"Taxi's are not currently available" = "Taksi saat ini tidak tersedia";
+"Confirm later booking?" = "Konfirmasi pemesanan kemudian ?";
+"OK" = "Baik";
+"CANCEL" = "Membatalkan";
+"Enter pickup Location" = "Masukkan Penjemputan Lokasi";
+"Enter drop location" = "Masukkan menjatuhkan lokasi";
+"Favourites" = "Favorit";
+"Home" = "Rumah";
+"Office" = "Kantor";
+"Airport" = "Bandara";
+"Others" = "Lainnya";
+"You have already selected this contact" = "Anda sudah memilih kontak ini";
+"Total Approximate Fare:" = "Total Harga Perkiraan :";
+"Approximate Fare :" = "Harga perkiraan :";
+"Fare Estimate" = "Harga Perkiraan";
+"Cash/Card" = "Cash/Card";
+"Promo Code" = "Kode promosi";
+"Request Taxi" = "Permintaan Taxi";
+"Cancel" = "Membatalkan";
+"Yes" = "iya nih";
+"YES" = "iya nih";
+"No" = "Tidak";
+"ETA" = "Eta";
+"Get Fare Estimate" = "Dapatkan Perkirakan Harga";
+"Minimum Fare" = "Harga minimum";
+"Maximum Size" = "Ukuran maksimum";
+"Estimated Fare" = "perkiraan Harga";
+"Approximate Fare" = "Harga perkiraan";
+"This is an estimate. Actual fare may vary slightly based on traffic or discounts." = "Ini merupakan perkiraan . tarif yang sebenarnya mungkin sedikit berbeda berdasarkan lalu lintas atau diskon .";
+"Split a Fare with Friends" = "Membagi Fare dengan Teman";
+"Select a Friend" = "Pilih Teman";
+"Submit" = "Menyerahkan";
+"This app requires access to your device's Contacts.Please enable Contacts access for this app in Settings / Privacy / Contacts" = "Aplikasi ini membutuhkan akses ke perangkat Anda Contacts.Please mengaktifkan akses Kontak untuk aplikasi ini di Settings / Privasi / Kontak";
+"Please select the friend" = "Silakan pilih teman";
+"Total Split fare percentage should be 100" = "Jumlah persentase tarif Berpisah harus 100";
+"Book A Taxi" = "Memesan taksi";
+"Book Now" = "Pesan sekarang";
+"Requesting Taxi" = "meminta Taxi";
+
+//SignUp View Controller
+
+"Login With Facebook" = "Masuk dengan Facebook";
+"First Name" = "Nama depan";
+"Last Name" = "Nama keluarga";
+"Email" = "Email";
+"Mobile Number" = "Nomor handphone";
+"Password" = "Kata sandi";
+"Confirm Password" = "konfirmasi sandi";
+"Referral Code" = "Kode referral";
+"Show" = "Menunjukkan";
+"Hide" = "Menyembunyikan";
+"Country Code" = "Kode negara";
+"Facebook" = "Facebook";
+"Enter your email id" = "Masukkan id email Anda";
+"Enter your mobile number" = "Masukkan nomor ponsel Anda";
+"Try another number?" = "Coba nomor lain ?";
+"Please enter your first name" = "Masukkan nama pertama Anda";
+"Please enter your last name" = "Masukkan nama belakang Anda";
+"Please enter your mobile number" = "Masukkan nomor ponsel Anda";
+"Please enter the password" = "Masukkan password";
+"Please enter the confirm password" = "Silahkan masukkan password konfirmasi";
+"Please enter valid email address" = "Masukkan alamat email yang valid";
+"Please enter valid mobile number" = "Masukkan nomor ponsel yang valid";
+"Password should be minimum 6 characters" = "Sandi harus minimal 6 karakter";
+"Password does not match" = "Kata sandi tidak cocok";
+"First name must contain atleast 4 characters" = "Nama depan harus berisi minimal 4 karakter";
+
+//MenuSliderViewController
+
+"Book a Taxi" = "Memesan taksi";
+"Track my Taxi" = "Lacak Taksi saya";
+"My Booking" = "Pemesanan saya";
+"Payment Options" = "Opsi pembayaran";
+"Wallet" = "Dompet";
+"Fare" = "Tarif";
+"Invite Friends" = "Mengundang teman-teman";
+"Settings" = "pengaturan";
+"About" = "Tentang";
+"Log Out" = "Keluar";
+
+//LoginViewController
+
+"Mobile Number" = "Nomor handphone";
+"Done" = "matang";
+"Forgot Password?" = "Lupa kata sandi?";
+"NO" = "Tidak";
+
+//PaymentCardViewController
+
+"Payment" = "Pembayaran";
+"Add New Card" = "Tambahkan Card Baru";
+
+//AddEditCardViewController
+
+"Default Card" = "Kartu bawaan";
+"Add Cards" = "Tambahkan Card";
+"Edit Card" = "mengedit Card";
+"Personal Card" = "Kartu pribadi";
+"Card" = "Kartu";
+"CVV" = "Cvv";
+"Expiry" = "kadaluwarsa";
+"Delete Card" = "Hapus Card";
+"Business Card" = "Kartu bisnis";
+"Save" = "Menyimpan";
+"Are you sure you want to delete card?" = "Apakah Anda yakin ingin menghapus kartu ?";
+"Select" = "Memilih";
+"Enter valid expiry date" = "Masukkan tanggal kadaluwarsa valid";
+"Please enter valid credit card number" = "Masukkan nomor kartu kredit yang valid";
+"MM/YY" = "MM/YY";
+"Enter valid CVV" = "Masukkan CVV valid";
+
+//WalletViewController
+
+"Wallet" = "Dompet";
+"Recharge Money" = "Recharge Uang";
+"Cash Less, Hassle free rides with Taximobility wallet" = "Kas Kurang , repot wahana gratis dengan Taximobility dompet";
+
+"HAVE A PROMOCODE?" = "Punya kode promosi?";
+"Add Money" = "Tambahkan Uang";
+"Enter the Promo Code" = "Masukkan Kode Promo";
+"Enter amount between" = "Masukkan jumlah antara";
+"Please enter the Valid PromoCode" = "Masukkan PromoCode Hari";
+
+//AddWalletMoneyViewController
+"Paypal" = "Paypal";
+"Brain Tree" = "otak Pohon";
+"Amount" = "Jumlah";
+"Card Number" = "Nomor kartu";
+"MM" = "MM";
+"YYYY" = "YYYY";
+"Name on the card" = "Nama pada kartu";
+"Terms and Conditions" = "syarat dan Ketentuan";
+"Terms And Conditions" = "syarat dan Ketentuan";
+"Select month" = "Pilih Bulan";
+"Select year" = "Pilih tahun";
+"All fields are mandatory" = "Semua bidang yang wajib";
+"Please agree to the Terms & Conditions" = "Setujui Persyaratan & Ketentuan";
+
+//FavouritesViewController
+
+"Book Again" = "buku lagi";
+
+//AddEditFavouritesViewController
+
+"Edit Favourites" = "mengedit Favorit";
+"Add Favourites" = "Tambahkan Favorit";
+"Select Type" = "Pilih Jenis";
+"Pickup Location" = "Lokasi penjemputan";
+
+//BookingDetailsViewController
+
+"Trip Details" = "Detail perjalanan";
+"Distance" = "Jarak";
+"Pickup Time" = "Waktu Pickup";
+"Booking Time" = "pemesanan Waktu";
+"Drop Time" = "penurunan Waktu";
+"Trip Duration" = "Trip Duration";
+"Used Wallet" = "Wallet digunakan";
+"Trip Id" = "perjalanan Id";
+"Split Fare Status" = "Berpisah Status Fare";
+"Accepted" = "diterima";
+"Rejected" = "Ditolak";
+"Pending" = "tertunda";
+
+//MyBookingsViewController
+
+"My Bookings" = "Pemesanan saya";
+"On Going" = "pada Pergi";
+"Up Coming" = "Mendatang";
+"Past Bookings" = "Pemesanan terakhir";
+"No data available!" = "Tidak ada data yang tersedia!";
+"Drop Location is not specified" = "Penurunan Lokasi tidak ditentukan";
+"Loading..." = "Pemuatan...";
+"No more data to load" = "Tidak ada lagi data yang memuat";
+
+"Paid By" =  "Paid By";
+"Trip cancel" = "Trip cancel";
+//HelpViewController
+
+"Help" = "Help";
+"I lost an item" = "I lost an item";
+"I had issue with my fare" = "I had issue with my fare";
+"My driver was unprofessional" = "My driver was unprofessional";
+"My vehicle was't what I expected" = "My vehicle was't what I expected";
+"I has a issue with my receipt or payment" = "I has a issue with my receipt or payment";
+"I was involved in accident" = "I was involved in accident";
+"Cash Trips" = "Cash Trips";
+"Enter your comments" = "Enter your comments";
+"Please enter your comments" = "Please enter your comments";
+
+
+//DriverConfirmationViewController
+"Reason for Cancel" = "Alasan Batal";
+"Confirmation" = "Konfirmasi";
+"Please Let Us know the reason for cancellation" = "Silahkan Biarkan Kami tahu alasan pembatalan";
+"Change the Travel Plan" = "Ubah Rencana Travel";
+"Booking Placed in error" = "Pemesanan Ditempatkan di error";
+"Cab delay/issues" = "Cab delay / masalah";
+"EST :" = "EST :";
+"Mins" = "menit";
+"Call" = "Panggilan";
+"No sim card installed" = "Tidak ada kartu sim terpasang";
+"Call facility is not available on your device" = "fasilitas panggilan tidak tersedia pada perangkat Anda";
+"Enter CVV number" = "Masukkan nomor CVV";
+"Please enter a valid cvv" = "Masukkan cvv valid";
+
+//  TripInProgressViewController
+
+"Trip In Progress" = "Trip In Progress";
+
+//  E-RecieptViewController
+
+"Card" = "Kartu";
+"Cash" = "Kas";
+"Wallet Amount" = "dompet Jumlah";
+"Paid Amount" = "Jumlah pembayaran";
+"Payment type" = "Tipe pembayaran";
+"E-Receipt" = "E-Receipt";
+"Trip Completed" = "Trip Selesai";
+"Thank you for using Taximobility! Make your next trip even more enjoyable!" = "Terima kasih telah menggunakan Taximobility ! Membuat perjalanan Anda berikutnya bahkan lebih menyenangkan !";
+"Rate Your Driver" = "Beri driver Anda";
+"Type your Comments" = "Ketik Komentar Anda";
+"Share it" = "Bagikan ini";
+"Your device doesn't support SMS!" = "Perangkat Anda tidak mendukung SMS !";
+"Taximobility - Invite a Friend" = "Taximobility - Undang Teman";
+
+//  splitFareRequestViewController
+
+"Split a Fare with" = "Membagi Fare dengan";
+"Your Fare will be charged" = "Harga Anda akan dikenakan biaya";
+
+//  CardRegisterViewController
+
+"Card Register" = "kartu Registrasi";
+"Enter the Referral Code" = "Masukkan Kode Referral";
+"Save Card Details" = "Simpan Detail Card";
+"Pay by Credit Card" = "Bayar dengan kartu kredit";
+"Pay by Cash" = "Membayar dengan Cash";
+"Pay using Referral Code" = "Bayar menggunakan Referral Kode";
+
+//  OtpViewController
+
+"and" = "dan";
+"Verify Email" = "Kode verifikasi";
+"A four digit authentication code has been sent to" = "Sebuah kode otentikasi empat digit telah dikirim ke";
+"Resent OTP" = "mengirim ulang OTP";
+
+//  Extension
+
+"Please check your Internet Connection" = "Silakan periksa koneksi Internet Anda";
+"Check Your Network Connection" = "Periksa Network Connection Anda";
+
+//About
+
+
+"Taximobility a ready-made taxi booking dispatch system for existing taxi companies or start ups. Perform online, real time taxi booking over mobile apps and webs" = "Taximobility taksi pesanan sistem pengiriman siap pakai untuk perusahaan taksi yang ada atau mulai up . Lakukan secara online , real time pemesanan taksi lebih aplikasi mobile dan jaring";
+"Ride from Anywhere \nTaxiMobility.com" = "Naik dari mana saja \nTaxiMobility.com";
+"Legal" = "Hukum";
+"Links" = "Link";
+"Rate us App Store" = "Beri kami App Store";
+"Like us on Facebook" = "Sukai Kami di Facebook";
+"Follow us on Twitter" = "Ikuti kami di Twitter";
+"Terms & Condition" = "Syarat & Ketentuan";
+"Privacy Policy" = "Kebijakan pribadi";
+
+//InviteFriends
+
+"When a friend rides with your code" = "Ketika teman naik dengan kode Anda";
+"you Earn" = "kamu mendapat";
+"Twitter" = "Kericau";
+"Whats App" = "Ada apa";
+"SMS" = "SMS";
+"Share Via" = "Share Via";
+"Your device has no WhatsApp installed." = "Perangkat Anda tidak memiliki WhatsApp diinstal .";
+
+//FareViewController
+
+"Min Fare" = "Min Fare";
+"Taxi" = "Taksi";
+"Fare Details" = "Detail tarif";
+"Base Fare" = "Harga dasar";
+"Values" = "Nilai-nilai";
+"Below" = "Di bawah";
+"Above" = "Atas";
+"Cancel Fare" = "Batal Fare";
+"Night Charges" = "Biaya malam";
+"Evening Charges" = "malam Biaya";
+
+//settingViewcontroller
+
+"Language" = "Bahasa";
+"Split Fare" = "Harga Berpisah";
+
+//RRPickerView
+
+"January" = "Januari";
+"February" = "Februari";
+"March" = "Maret";
+"April" = "April";
+"May" = "Mungkin";
+"June" = "Juni";
+"July" = "Juli";
+"August" = "Agustus";
+"September" = "September";
+"October" = "Oktober";
+"November" = "November";
+"December" = "Desember";
+"Please select Month,Year and press 'Select' or 'Cancel'." = "Silakan pilih Bulan , Tahun dan tekan ' Pilih ' atau ' Batal ' .";
+
+
+"Please select the split fare percentage for" = "Silakan pilih persentase perpecahan tarif untuk";
+"Or" = "Atau";
+"Please select your favourite type" = "Pilih jenis favorit Anda";
+"Please Select Pick Up Location" = "Silakan Pilih Pick Up Lokasi";
+
+//ProfileViewController
+"Profile" = "Profil";
+"Salutation" = "Salam";
+"Change Password" = "Ganti kata sandi";
+"Mr" = "Bapak";
+"Miss" = "Kehilangan";
+"Mrs" = "Nyonya";
+"Take Photo" = "Memotret";
+"ERROR" = "KESALAHAN";
+"This device doesn't have a camera." = "Perangkat ini tidak memiliki kamera .";
+"Choose from Library" = "Pilih dari Perpustakaan";
+"This device doesn't support photo libraries." = "Perangkat ini tidak mendukung perpustakaan foto .";
+"No changes has been made" = "Tidak ada perubahan telah dibuat";
+"Are you sure you want to logout?" = "Apakah Anda yakin Anda ingin logout ?";
+"Old Password" = "Password lama";
+"New Password" = "kata sandi baru";
+"Please enter your old password" = "Masukkan password lama Anda";
+"Please enter your new password" = "Masukkan password baru Anda";
+"Password and confirm password do not match" = "Sandi dan konfirmasi password tidak cocok";
+"Old Password does not match" = "Sandi lama tidak cocok";
+//Missed
+"Apply" = "Menerapkan";
+"Please wait for location update" = "Silakan tunggu update lokasi";
+"Not Available" = "Tidak tersedia";
+"Are you sure you want to cancel this trip?" = "Apakah Anda yakin ingin membatalkan perjalanan ini ?";
+"Please enter the drop location" = "Masukkan lokasi drop";
+"Favourite Driver Booking" = "Driver Favorit";
+"Drop Location" = "penurunan Lokasi";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@.%@" = "Maaf singkatnya saya , Mendaftar dengan kode referral %@ dan mendapatkan %@ . %@";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@" = "Maaf singkatnya saya , Mendaftar dengan kode referral %@ dan mendapatkan %@ .";
+"No tracking available!" = "Saat ini tidak ada pelacakan tersedia!";
+"Are you sure ,Do you want to delete the driver from favourite list ?" = "Apakah Anda yakin, Apakah Anda ingin menghapus driver dari daftar favorit?";
+"Cash" = "Kas";
+"Card" = "Kartu";
+"Waiting Fare" = "menunggu Fare";
+"Waiting fare per Hour" = "Menunggu tarif per Jam";
+"No favourite driver found" = "Tidak ada driver favorit ditemukan";
+"You can't change the payment type when the split fare facility enabled" = "Anda tidak dapat mengubah jenis pembayaran saat fasilitas perpecahan tarif diaktifkan";
+"Please enter valid expiry date" = "Cukup masukkan tanggal kadaluwarsa valid";
+"Please enter the valid Referral Code" = "Silahkan masukkan Kode Referral valid";
+
+"Favourite Drivers" = "Driver Favorit";
+"Completed" = "Lengkap";
+"Cancelled" = "Dibatalkan";
+"Min(s)" = "Min(s)";
+"Vehicle Min's Fare" = "Kendaraan Fare Min";
+"Waiting" = "menunggu";
+"Waiting Time Cost" = "Menunggu Waktu Biaya";
+"Vehicle Waiting Time" = "Kendaraan Menunggu Waktu";
+"Evening Fare" = "Harga Evening";
+"Night Fare" = "Harga malam";
+"Sub Total" = "sub total";
+"Tax" = "Pajak";
+"Promo Code" = "Kode promosi";
+"Total" = "Total";
+"Split Fare Status" = "Berpisah Fare staus";
+"1.Cab delay" = "delay 1.Cab";
+"2.Driver not responded" = "2.Driver tidak menanggapi";
+"3.Wrong address shown" = "alamat 3.Wrong ditampilkan";
+"4.Changed the travel plan" = "4.Changed rencana wisata";
+"5.Booking placed in error" = "5.Booking ditempatkan dalam kesalahan";
+"6.Other" = "6.Other";
+
+"Vehicle Distance Fare" = "Kendaraan Fare Jarak";
+"Trip Fare" = "Harga perjalanan";
+"Distance Fare" = "Harga jarak";
+"MILES" = "MILES";
+"(1MILES)" = "(1MILES)";
+"Minutes Fare" = "menit Fare";
+"Enter your sub domain" = "Masukkan subdomain Anda";
+"Domain name must contain atleast 3 characters" = "Nama domain harus berisi minimal 3 karakter";
+"Minutes Traveled" = "menit Bepergian";
+"Minute Fare" = "Harga menit";
+"Vehicle Minute Fare" = "Kendaraan Fare Menit";

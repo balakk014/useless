@@ -1,0 +1,409 @@
+/*
+ Localizable.strings
+ Taximobility
+ 
+ Created by ndot on 25/06/16.
+ Copyright © 2016 Ndot. All rights reserved.
+ */
+
+//Home View Controller
+
+"APP TITLE" = "Taximobility";
+"Please turn on location service to use this app" = "Bitte schalten Sie Lokalisierungsdienst diese App nutzen";
+"Sign Up" = "Registreren";
+"Sign In" = "Anmelden";
+"Ride Now" = "fahren Sie jetzt";
+"Ride Later" = "reiten Sie später";
+"Drop Location(Optional)" = "Ablageort (optional)";
+"Go To Pin..." = "Adresse wird abgerufen ...";
+"Available" = "Erhältlich";
+"Currently no cars are available" = "Zur Zeit sind keine Fahrzeuge verfügbar";
+"Min" = "Min";
+"Pickup time is approximately" = "Abholzeit beträgt ca.";
+"Minutes" = "Protokoll";
+"Taxi's are not currently available" = "Taxis sind derzeit nicht verfügbar";
+"Confirm later booking?" = "Bestätigen Sie später Buchung?";
+"OK" = "in Ordnung";
+"CANCEL" = "Stornieren";
+"Enter pickup Location" = "Geben Sie Abholort";
+"Enter drop location" = "Geben Sie fallen Standort";
+"Favourites" = "Favoriten";
+"Home" = "Zuhause";
+"Office" = "Büro";
+"Airport" = "Flughafen";
+"Others" = "Andere";
+"You have already selected this contact" = "Sie haben bereits diesen Kontakt ausgewählt";
+"Total Approximate Fare:" = "Insgesamt Ungefähre Kosten:";
+"Approximate Fare:" = "Ungefähre Kosten:";
+"Fare Estimate" = "Preisvoranschlag";
+"Cash/Card" ="Kreditkarte";
+"Promo Code" = "Gutscheincode";
+"Request Taxi" = "Anfrage Taxi";
+"Cancel" = "Stornieren";
+"Yes" = "ja";
+"YES" = "ja";
+"No" = "Nein";
+"ETA" = "Eta";
+"Get Fare Estimate" = "Preisvoranschlag erhalten";
+"Minimum Fare" = "Mindesttarif";
+"Maximum Size" = "Maximale Größe";
+"Estimated Fare" = "Geschätzte Fare";
+"Approximate Fare" = "Ungefähre Fahrpreise";
+"This is an estimate. Actual fare may vary slightly based on traffic or discounts." = "Dies ist eine Schätzung. Die tatsächlichen Tarif kann je nach Verkehr oder Rabatte leicht basiert .";
+"Split a Fare with Friends" = "Split einen Tarif mit Freunden";
+"Select a Friend" = "Wählen Sie einen Freund";
+"Submit" = "einreichen";
+"This app requires access to your device's Contacts.Please enable Contacts access for this app in Settings / Privacy / Contacts" = "Diese App erfordert den Zugriff auf Ihr Gerät die Contacts.Please ermöglichen Kontakte Zugriff für diese Anwendung in Einstellungen / Datenschutz / Impressum";
+"Please select the friend" = "Bitte wählen Sie den Freund";
+"Total Split fare percentage should be 100" = "Insgesamt Split -Tarif Prozentsatz sollte 100 sein";
+"Book A Taxi" = "Buchen Sie ein Taxi";
+"Book Now" = "Buche jetzt";
+"Requesting Taxi" = "Anfordern Taxi";
+
+//SignUp View Controller
+
+"Login With Facebook" = "Mit Facebook einloggen";
+"First Name" = "Vorname";
+"Last Name" = "Familienname, Nachname";
+"Email" = "Email";
+"Mobile Number" = "Handynummer";
+"Password" = "Passwort";
+"Confirm Password" = "Bestätige das Passwort";
+"Referral Code" = "Referenzcode";
+"Show" = "Show";
+"Hide" = "Verstecken";
+"Country Code" = "Landesvorwahl";
+"Facebook" = "Facebook";
+"Enter your email id" = "Geben Sie einfach Ihre E-Mail -ID";
+"Enter your mobile number" = "Geben Sie Ihre Mobiltelefonnummer ein";
+"Try another number?" = "Versuchen Sie eine andere Nummer?";
+"Please enter your first name" = "Bitte geben Sie Ihren Vornamen ein";
+"Please enter your last name" = "Bitte geben Sie Ihren Vornamen ein";
+"Please enter your mobile number" = "Bitte geben Sie Ihre Handynummer";
+"Please enter the password" = "Bitte Passwort eingeben";
+"Please enter the confirm password" = "Bitte geben Sie das Kennwort bestätigen";
+"Please enter valid email address" = "Bitte geben Sie eine gültige Email Adresse an";
+"Please enter valid mobile number" = "Bitte geben Sie eine gültige Mobilfunknummer";
+"Password should be minimum 6 characters" = "Das Passwort muss mindestens 6 Zeichen lang sein";
+"Password does not match" = "Passwort stimmt nicht überein";
+"First name must contain atleast 4 characters" = "Vorname muss atleast 4 Zeichen enthalten";
+
+//MenuSliderViewController
+
+"Book a Taxi" = "Buchen Sie ein Taxi";
+"Track my Taxi" = "";
+"My Booking" = "Meine Buchung";
+"Payment Options" = "Zahlungsmöglichkeiten";
+"Wallet" = "Brieftasche";
+"Fare" = "Preis";
+"Invite Friends" = "Freunde einladen";
+"Settings" = "Einstellungen";
+"About" = "Etwa";
+"Log Out" = "Ausloggen";
+
+//LoginViewController
+"Mobile Number" = "Handynummer";
+"Done" = "Erledigt";
+"Forgot Password?" = "Passwort vergessen?";
+"NO" = "Nein";
+
+//PaymentCardViewController
+
+"Payment" = "Zahlung";
+"Add New Card" = "New -Karte";
+
+//AddEditCardViewController
+"Default Card" = "Standard -Karte";
+"Add Cards" = "Karte hinzufügen";
+"Edit Card" = "Karte bearbeiten";
+"Personal Card" = "persönliche Karte";
+"Card" = "Karte";
+"CVV" = "Cvv";
+"Expiry" = "Ablauf";
+"Delete Card" = "löschen -Karte";
+"Personal Card" = "persönliche Karte";
+"Business Card" = "Visitenkarte";
+"Save" = "sparen";
+"Are you sure you want to delete card?" = "Sind Sie sicher, dass Sie Karte löschen?";
+"Select" = "Wählen";
+"Enter valid expiry date" = "Geben Sie gültige Ablaufdatum";
+"Please enter valid credit card number" = "Bitte geben Sie eine gültige Kreditkartennummer";
+"Enter valid expiry date" = "Geben Sie gültige Ablaufdatum";
+"MM/YY" = "MM / JJ";
+"Enter valid CVV" = "Geben Sie eine gültige CVV";
+
+////WalletViewController
+
+"Wallet" = "Brieftasche";
+"Recharge Money" = "Laden Sie Geld";
+"Cash Less, Hassle free rides with Taximobility wallet" = "Cash- Less, Hassle freie Fahrt mit Taximobility Portemonnaie";
+"HAVE A PROMOCODE?" = "Haben Sie einen Gutscheincode?";
+"Add Money" = "Geld hinzufügen";
+"Enter the Promo Code" = "Geben Sie den Gutscheincode";
+"Enter amount between" = "Geben Sie den Betrag zwischen";
+"Please enter the Valid PromoCode" = "Bitte geben Sie den Gutscheincode ein";
+
+//AddWalletMoneyViewController
+"Paypal" = "Paypal";
+"Brain Tree" = "Gehirn-Baum";
+"Amount" = "Menge";
+"Card Number" = "Kartennummer";
+"MM" = "MM";
+"YYYY" = "YYYY";
+"Name on the card" = "Name auf der Karte";
+"Terms and Conditions" = "Geschäftsbedingungen";
+"Terms And Conditions" = "Geschäftsbedingungen";
+"Select month" = "Wählen Sie einen Monat";
+"Select year" = "Wählen Sie das Jahr";
+"All fields are mandatory" = "Alle Felder sind Pflichtfelder";
+"Please agree to the Terms & Conditions" = "Bitte stimmen Sie den AGB";
+
+//FavouritesViewController
+
+"Book Again" = "buchen Wieder";
+
+//AddEditFavouritesViewController
+
+"Edit Favourites" = "Favoriten bearbeiten";
+"Add Favourites" = "In Favoriten";
+"Select Type" = "Art auswählen";
+"Pickup Location" = "Treffpunkt";
+
+//BookingDetailsViewController
+
+"Trip Details" = "Reiseinformationen";
+"Distance" = "Entfernung";
+"Pickup Time" = "Abholzeit";
+"Booking Time" = "Reservierungszeit";
+"Drop Time" = "Fallzeit";
+"Trip Duration" = "Reisedauer";
+"Used Wallet" = "Gebrauchte Wallet";
+"Trip Id" = "Reise Id";
+"Split Fare Status" = "Split Fare Status";
+"Accepted" = "Akzeptiert";
+"Rejected" = "Zurückgewiesen";
+"Pending" = "anstehend";
+
+//MyBookingsViewController
+
+"My Bookings" = "Meine Buchungen";
+"On Going" = "über Going";
+"Up Coming" = "Bevorstehende";
+"Past Bookings" = "Frühere Buchungen";
+"No data available!" = "Keine Daten verfügbar!";
+"Drop Location is not specified" = "Drop- Standort nicht angegeben";
+"Loading..." = "Laden...";
+"No more data to load" = "Keine weiteren Daten zu laden,";
+
+"Paid By" =  "Bezahlt von";
+"Trip cancel" = "Trip stornieren";
+//HelpViewController
+
+"Help" = "Hilfe";
+"I lost an item" = "Ich verlor einen Artikel";
+"I had issue with my fare" = "Ich hatte Probleme mit meinem Tarif";
+"My driver was unprofessional" = "Mein Fahrer war unprofessionell";
+"My vehicle was't what I expected" = "Mein Fahrzeug was't, was ich erwartet";
+"I has a issue with my receipt or payment" = "I hat ein Problem mit meinem Empfang und die Leistung";
+"I was involved in accident" = "Ich war in Unfall verwickelt";
+"Cash Trips" = "Cash-Trips";
+"Enter your comments" = "Geben Sie Ihre Kommentare";
+"Please enter your comments" = "Bitte geben Sie Ihre Kommentare";
+
+//DriverConfirmationViewController
+"Reason for Cancel" = "Grund für Abbrechen";
+"Confirmation" = "Bestätigung";
+"Please Let Us know the reason for cancellation" = "Bitte teilen Sie uns den Grund für die Stornierung";
+"Change the Travel Plan" = "Ändern Sie den Reiseplan";
+"Booking Placed in error" = "Buchung in Fehler Gestellt";
+"Cab delay/issues" = "Cab Verzögerung / Fragen";
+"EST :" = "EST :";
+"Mins" = "mins";
+"Call" = "Anruf";
+"No sim card installed" = "Keine SIM-Karte installiert";
+"Call facility is not available on your device" = "Call-Anlage ist auf Ihrem Gerät nicht verfügbar";
+"Enter CVV number" = "Geben Sie CVV-Nummer";
+"Please enter a valid cvv" = "Bitte geben Sie eine gültige cvv";
+
+//  TripInProgressViewController
+
+"Trip In Progress" = "Reise In Progress";
+
+//  E-RecieptViewController
+
+"Card" = "Karte";
+"Cash" = "Kasse";
+"E-Receipt" = "E-Quittung";
+"Trip Completed" = "Reise abgeschlossen";
+"Thank you for using Taximobility! Make your next trip even more enjoyable!" = "Vielen Dank für die Verwendung von Taximobility ! Machen Sie Ihre nächste Reise noch angenehmer !";
+"Rate Your Driver" = "Bewerten Sie Ihre Treiber";
+"Type your Comments" = "Geben Sie Ihre Kommentare";
+"Share it" = "Teilt es";
+"Your device doesn't support SMS!" = "Ihr Gerät unterstützt nicht SMS !";
+"Taximobility - Invite a Friend" = "Taximobility - Einen Freund einladen";
+"Wallet Amount" = "Wallet Betrag";
+"Paid Amount" = "Bezahlte Menge";
+"Payment type" = "Zahlungsart";
+
+//  splitFareRequestViewController
+
+"Split a Fare with" = "Split ein Fare mit";
+"Your Fare will be charged" = "Ihr Tarif wird berechnet";
+
+//  CardRegisterViewController
+
+"Card Register" = "Karten- Register";
+"Enter the Referral Code" = "Geben Sie den Referenzcode";
+"Save Card Details" = "Speichern Detailansicht";
+"Pay by Credit Card" = "Mit Kreditkarte bezahlen";
+"Pay by Cash" = "Zahle in bar";
+"Pay using Referral Code" = "Pay Referenzcode verwenden";
+
+//  OtpViewController
+
+"and" = "und";
+"Verify Email" = "Code überprüfen";
+"A four digit authentication code has been sent to" = "Ein vierstelliger Authentifizierungscode gesendet worden zu";
+"Resent OTP" = "Erneut OTP";
+
+//  Extension
+
+"Please check your Internet Connection" = "Bitte überprüfe deine Internetverbindung";
+"Check Your Network Connection" = "Überprüfen Sie Ihre Netzwerkverbindung";
+
+//About
+
+"Taximobility a ready-made taxi booking dispatch system for existing taxi companies or start ups. Perform online, real time taxi booking over mobile apps and webs" = "Taximobility ein fertiges Taxiruf Abfertigungssystem für bestehende Taxi-Unternehmen oder Start-ups . Führen Sie online, in Echtzeit Taxi Buchung über mobile Anwendungen und Bahnen";
+"Ride from Anywhere \nTaxiMobility.com" = "Fahrt von überall \nTaxiMobility.com";
+"Legal" = "Rechts-";
+"Links" = "Links";
+"Rate us App Store" = "Bewerten Sie uns App Store";
+"Like us on Facebook" = "Like uns auf Facebook";
+"Follow us on Twitter" = "Folge uns auf Twitter";
+"Terms & Condition" = "Allgemeine Geschäftsbedingungen";
+"Privacy Policy" = "Datenschutz-Bestimmungen";
+
+//InviteFriends
+
+"When a friend rides with your code" = "Als ein Freund reitet mit Ihrem Code";
+"you Earn" = "Du verdienst";
+"Twitter" = "zwitschern";
+"Whats App" = "WhatsApp";
+"SMS" = "SMS";
+"Share Via" = "Share Via";
+"Your device has no WhatsApp installed." = "Your device has no WhatsApp installed.";
+
+//FareViewController
+"Min Fare" = "Min Fahrpreis";
+"Taxi" = "Taxi";
+"Fare Details" = "Tarifinformationen";
+"Base Fare" = "Grundfahrpreis";
+"Values" = "Werte";
+"Below" = "Unten";
+"Above" = "Über";
+"Cancel Fare" = "Abbrechen Tarif";
+"Night Charges" = "Nacht Gebühren";
+"Evening Charges" = "Abendkosten";
+
+//settingViewcontroller
+
+"Language" = "Sprache";
+"Split Fare" = "Split Tarif";
+"Settings" = "Einstellungen";
+
+//RRPickerView
+
+"January" = "Januar";
+"February" = "Februar";
+"March" = "März";
+"April" = "April";
+"May" = "Kann";
+"June" = "Juni";
+"July" = "Juli";
+"August" = "August";
+"September" = "September";
+"October" = "Oktober";
+"November" = "November";
+"December" = "Dezember";
+"Please select Month,Year and press 'Select' or 'Cancel'." = "Bitte wählen Sie Monat, Jahr und drücken Sie 'Auswählen' oder 'Abbrechen' .";
+
+"Please select the split fare percentage for" = "Bitte wählen Sie den Split- Tarif Prozentsatz für";
+"Or" = "Oder";
+"Please select your favourite type" = "Bitte wählen Sie Ihre Lieblings-Art";
+"Please Select Pick Up Location" = "Bitte wählen Pick Up Ort";
+
+//ProfileViewController
+
+"Profile" = "Profil";
+"Salutation" = "Anrede";
+"Change Password" = "Passwort ändern";
+"Mr" = "Herr";
+"Miss" = "Fräulein";
+"Mrs" = "Frau";
+"Take Photo" = "Foto machen";
+"ERROR" = "FEHLER";
+"This device doesn't have a camera." = "Dieses Gerät verfügt nicht über eine Kamera.";
+"Choose from Library" = "Aus der Bibliothek auswählen";
+"This device doesn't support photo libraries." = "Dieses Gerät nicht Fotobibliotheken unterstützen.";
+"No changes has been made" = "Keine Änderungen wurden vorgenommen";
+"Are you sure you want to logout?" = "Sind Sie sicher, dass Sie sich ausloggen?";
+"Old Password" = "Altes Passwort";
+"New Password" = "Neues Kennwort";
+"Please enter your old password" = "Bitte geben Sie Ihr altes Passwort ein";
+"Please enter your new password" = "Bitte geben Sie Ihr neues Passwort";
+"Password and confirm password do not match" = "Passwort ein und bestätigen Sie stimmen nicht überein";
+"Old Password does not match" = "Altes Kennwort stimmt nicht überein";
+//Missed
+"Apply" = "anwenden";
+"Please wait for location update" = "Bitte warten Sie auf Standort -Update";
+"Not Available" = "Nicht verfügbar";
+"Are you sure you want to cancel this trip?" = "Sind Sie sicher, dass Sie diese Reise zu stornieren?";
+"Please enter the drop location" = "Bitte geben Sie den Ablageort";
+"Favourite Driver Booking" = "Lieblingsfahrer";
+"Drop Location" = "Tropfen Ort";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@.%@" = "Entschuldigen Sie meine Kürze , Zeichen mit dem Referenzcode %@ und % @ verdienen. %@";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@" = "Entschuldigen Sie meine Kürze , Zeichen mit dem Referenzcode %@ und %@ verdienen.";
+"No tracking available!" = "Zurzeit gibt es keine Verfolgung möglich!";
+"Are you sure ,Do you want to delete the driver from favourite list ?" = "Sind Sie sicher, möchten Sie den Treiber aus der Favoritenliste löschen?";
+"Cash" = "Kasse";
+"Card" = "Karte";
+"Waiting Fare" = "Warten Fare";
+"Waiting fare per Hour"= "Wartezeit pro Stunde";
+"No favourite driver found" = "Kein Lieblings-Treiber gefunden";
+"You can't change the payment type when the split fare facility enabled" = "Sie können die Zahlungsart nicht ändern, wenn die Split-Tarifeinrichtung aktiviert ist";
+"Please enter valid expiry date" = "Bitte geben Sie ein gültiges Gültigkeitsdatum ein";
+"Please enter the valid Referral Code" = "Bitte geben Sie den gültigen Empfehlungscode ein";
+
+"Favourite Drivers" = "Lieblingsfahrer";
+"Completed" = "Abgeschlossen";
+"Cancelled" = "Abgebrochen";
+"Min(s)" = "Min(s)";
+"Vehicle Min's Fare" = "Fahrzeug Min's Fahrpreis";
+"Waiting" = "Warten";
+"Waiting Time Cost" = "Wartezeit";
+"Vehicle Waiting Time" = "Wartezeit des Fahrzeugs";
+"Evening Fare" = "Abendessen";
+"Night Fare" = "Übernachtung";
+"Sub Total" = "Untergesamt";
+"Tax" = "Steuer";
+"Promo Code" = "Gutscheincode";
+"Total" = "Gesamt";
+"Split Fare Status" = "Split Fare Status";
+"1.Cab delay" = "Verzögerung 1.Cab";
+"2.Driver not responded" = "2.Driver reagierte nicht";
+"3.Wrong address shown" = "3. Falsche Adresse gezeigt";
+"4.Changed the travel plan" = "4.Changed der Reiseplan";
+"5.Booking placed in error" = "5.Booking in Fehler gesetzt";
+"6.Other" = "6.Andere";
+
+"Vehicle Distance Fare" = "Fahrstrecke";
+"Trip Fare" = "Reisekosten";
+"Distance Fare" = "Entfernung";
+"MILES" = "MEILEN";
+"(1MILES)" = "(1MEILEN)";
+"Minutes Fare" = "Minuten Fahrpreis";
+"Enter your sub domain" = "Geben Sie Ihre Subdomain ein";
+"Domain name must contain atleast 3 characters" = "Der Domänenname muss mindestens 3 Zeichen enthalten";
+"Minutes Traveled" = "Minuten gereist";
+"Minute Fare" = "Minute Fahrpreis";
+"Vehicle Minute Fare" = "Fahrzeugminutempfehlung";

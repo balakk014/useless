@@ -1,0 +1,246 @@
+#edit_booking .row, #add_booking .row{width: 50%; float:left;}
+
+.taxi_dispatcher_inner{position: fixed;text-align: center;width: 100%;z-index: 99999999;top: 0;}
+.taxi_dispatcher_inner .row{margin: 0; background: #333; height: auto; padding: 0;}
+.taxi_dispatcher_inner .col-md-6{color: #fff; float: none; display: inline-block; width: auto;}
+.taxi_dispatcher_inner .col-lg-5{position: absolute; width: auto;}
+.container.taxi_dispatcher .col-md-8{margin-top: 0;width: 100%; overflow-y: hidden !important;} 
+.container.taxi_dispatcher .col-lg-9{width: auto; margin: 0 10px 10px;}
+.manage_booking_filder{width: 100%; float: left;}
+.manage_booking_filder label{font: 12px arial; color:#333;}
+.lft_outer{float: left;height: 90%;position: relative;width: 100%;}
+.manage_booking_outer.col-md-12 .form-control{height: 25px; width: 150px; padding: 2px 12px;}
+.manage_booking_outer.col-md-12 .form-control_bott {float: left;width: 100%;}
+ 
+.rgt_outer{background: #fff; position:relative;z-index:9;}
+.tab-content span{float: left;padding: 0 10px;width: 115px; font-size: 12px;}
+.tab-content ul{float: left; width: 100%; margin: 0 0 4px 0; padding:0; background: #fff;}
+.tab-content ul li{padding: 10px 0;list-style-type: none; float: left; width: 100%; border-bottom: 1px solid #ccc;}
+.tab-content ul li:first-child{background: #f9c213;}
+.tab-content ul li:first-child span{color: #222; font:16px arial;}
+.tab-content ul li:first-child span.status{text-align: right;}
+.tab-content ul li.no_driver{padding: 10px; color: #000;}
+.nodata td{padding: 10px 0; border: none;}
+.tab-content{font-size: 12px;}
+.driver_status_height{padding: 0 !important; width: 100% !important;}
+.recent_activity, .driver_status, .driver_status_bottom{float: left;width: 100%;}
+.recent_activity{padding: 0;}
+.container.taxi_dispatcher span.pro_pic{background: url("../images/status_icon.png") no-repeat -37px -29px; width: 23px; height: 23px; float: left; margin-right: 15px; font: 14px arial; color: #666; margin-top: 5px;}
+.container.taxi_dispatcher span.number{float: left; margin-right: 15px; font: 14px arial; color: #666; margin-top: 9px;}
+.container.taxi_dispatcher span.phone_icon{background: url("../images/status_icon.png") no-repeat -60px -27px; width: 40px; height: 32px; float: right; margin-right: 15px; font: 14px arial; color: #666;}
+.driver_details h4, .container.taxi_dispatcher .caller_id h4, .container.taxi_dispatcher .recent_activity h4{background: #f9c213;color: #222222;font: 16px arial;margin: 0;padding: 10px 10px 10px;}
+.caller_id ul{padding: 0;}
+.caller_id ul li{padding: 10px; float: left; list-style-type: none; width: 100%;}
+.recent_activity ul{margin: 0;overflow: hidden !important;padding: 0 !important;width: 100% !important;}
+.recent_activity ul li:first-child{border: none;}
+.recent_activity ul li{list-style-type: none; padding: 10px;border-top: 1px solid #b2b2b2; float: left; width: 100%;}
+.container.taxi_dispatcher #free_out_driver li span, .container.taxi_dispatcher #active_driver li span{width: 120px;}
+.container.taxi_dispatcher #free_in_driver li span{width: 115px;}
+.recent_activity ul li.rec_active{background: #dfdfdf;}
+.recent_activity ul li span{color: #666666;float: left;width: 130px;}
+.overflow-block thead tr td{padding: 10px; font: bold 12px arial;background:#f9c213;color: #222222;}
+.overflow-block .dispatch_icons tr td{font: bold 12px arial;background:#fff;border-top: 1px solid #ccc;border-bottom: 1px solid #ccc;}
+#taxi_scroll_one{padding: 0 !important;}
+.manage_booking_outer.col-md-12{width: 100% !important; overflow: hidden !important;}
+.overflow-block .dispatch_icons label{float: left;font-size: 12px;font-weight: normal;margin: 0;color: #666; padding: 8px 5px 0 5px;}
+.heading_icon_one{background: #1298ff;float: left;padding: 5px 10px;width: auto;}
+.heading_icon_two{background: #1339f9;float: left;padding: 5px 10px;width: auto;}
+.heading_icon_three{background: #eb13f9;float: left;padding: 5px 10px;width: auto;}
+.heading_icon_four{background: #12ff00;float: left;padding: 5px 10px;width: auto;}
+.heading_icon_five{background: #f9c213;float: left;padding: 5px 10px;width: auto;}
+.heading_icon_six{background: #ff9600;float: left;padding: 5px 10px;width: auto;}
+.heading_icon_sevan{background: #07841e;float: left;padding: 5px 10px;width: auto;}
+.heading_icon_eight{background: #f91313;float: left;padding: 5px 10px;width: auto;}
+.heading_icon_nine{background: #844d06;float: left;padding: 5px 10px;width: auto;}
+
+.overflow-block.overflow-block_outer .assign_icon td div{background: url(../images/status_icon.png) no-repeat;width: 23px;height: 24px;text-indent: -9999px;}
+.overflow-block.overflow-block_outer .reassign_icon td div{background: url("../images/status_icon.png") no-repeat -30px 0;height: 21px;text-indent: -9999px;width: 19px;}
+.overflow-block.overflow-block_outer .waiting_response_icon td div{background: url("../images/status_icon.png") no-repeat -30px 0;height: 21px;text-indent: -9999px;width: 19px;}
+.overflow-block.overflow-block_outer .confirm_icon td div{background: url("../images/status_icon.png") no-repeat -75px 0;height: 21px;text-indent: -9999px;width: 21px;}
+.overflow-block.overflow-block_outer .start_to_pickup_icon td div{background: url("../images/status_icon.png") no-repeat -100px 0;height: 14px;text-indent: -9999px;width: 25px;}
+.overflow-block.overflow-block_outer .inprogress_icon td div{background: url("../images/status_icon.png") no-repeat -129px 0;height: 15px;text-indent: -9999px;width: 23px;}
+.overflow-block.overflow-block_outer .complete_icon td div{background: url("../images/status_icon.png") no-repeat -151px 0;height: 18px;text-indent: -9999px;width: 19px;}
+.overflow-block.overflow-block_outer .waiting_payment_icon td div{background: url("../images/status_icon.png") no-repeat -170px 0;height: 19px;text-indent: -9999px;width: 20px;}
+.overflow-block.overflow-block_outer .cancel_icon td div{background: url("../images/status_icon.png") no-repeat -190px 0;height: 14px;text-indent: -9999px;width: 15px;}
+
+.info-content button.btn.btn-outline.btn-primary.btn-xs{margin: 5px 0 0;}
+.container.taxi_dispatcher span.driver_status_busy, .container.taxi_dispatcher span.driver_status_out, .container.taxi_dispatcher span.driver_status_in, .container.taxi_dispatcher span.driver_status_active{margin-left: 10px;}
+.container.taxi_dispatcher span.driver_status_busy, .container.taxi_dispatcher span.driver_status_out, .container.taxi_dispatcher span.driver_status_in, .container.taxi_dispatcher span.driver_status_active, .overflow-block.overflow-block_outer tr td button{width: auto; border-radius: 4px; color: #fff; box-shadow: 0 0 1px #ffffff inset; padding: 2px 8px; cursor: default;}
+
+.container.taxi_dispatcher span.driver_status_out, .overflow-block.overflow-block_outer tr td button.btn.btn-outline.btn-primary.btn-xs.update_dispatch{border: 1px solid #1298ff; border-radius: 4px; color: #fff;box-shadow: 0 0 1px #ffffff inset; cursor: pointer; padding: 2px 8px;
+background: #8dceff; /* Old browsers */
+background: -moz-linear-gradient(top, #8dceff 0%, #189bff 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8dceff), color-stop(100%,#189bff)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #8dceff 0%,#189bff 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #8dceff 0%,#189bff 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #8dceff 0%,#189bff 100%); /* IE10+ */
+background: linear-gradient(to bottom, #8dceff 0%,#189bff 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8dceff', endColorstr='#189bff',GradientType=0 ); /* IE6-9 */} 
+
+.overflow-block.overflow-block_outer tr.cancel_icon td button{border: 1px solid #844d06;color: #fff;background: #844d06; /* Old browsers */
+background: -moz-linear-gradient(top, #844d06 0%, #826747 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#844d06), color-stop(100%,#826747)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #844d06 0%,#826747 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #844d06 0%,#826747 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #844d06 0%,#826747 100%); /* IE10+ */
+background: linear-gradient(to bottom, #844d06 0%,#826747 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#844d06', endColorstr='#826747',GradientType=0 ); /* IE6-9 */}
+
+.container.taxi_dispatcher span.driver_status_in, .overflow-block.overflow-block_outer tr.inprogress_icon td button{float: right;margin-right: 15px;border: 1px solid #ff9600;color: #fff;
+background: #ff9600; /* Old browsers */
+background: -moz-linear-gradient(top, #ff9600 0%, #ffa632 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff9600), color-stop(100%,#ffa632)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #ff9600 0%,#ffa632 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #ff9600 0%,#ffa632 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #ff9600 0%,#ffa632 100%); /* IE10+ */
+background: linear-gradient(to bottom, #ff9600 0%,#ffa632 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff9600', endColorstr='#ffa632',GradientType=0 ); /* IE6-9 */}
+
+.container.taxi_dispatcher span.driver_status_busy, .overflow-block.overflow-block_outer tr.start_to_pickup_icon td button{border: 1px solid #f9c213;color: #fff;
+background: #f9c213; /* Old browsers */
+background: -moz-linear-gradient(top, #f9c213 0%, #f7d265 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f9c213), color-stop(100%,#f7d265)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #f9c213 0%,#f7d265 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #f9c213 0%,#f7d265 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #f9c213 0%,#f7d265 100%); /* IE10+ */
+background: linear-gradient(to bottom, #f9c213 0%,#f7d265 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9c213', endColorstr='#f7d265',GradientType=0 ); /* IE6-9 */}
+
+.container.taxi_dispatcher span.driver_status_active, .overflow-block.overflow-block_outer tr.waiting_payment_icon td button{border: 1px solid #f91313;color: #fff;
+background: #f91313; /* Old browsers */
+background: -moz-linear-gradient(top, #f91313 0%, #f76767 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f91313), color-stop(100%,#f76767)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #f91313 0%,#f76767 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #f91313 0%,#f76767 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #f91313 0%,#f76767 100%); /* IE10+ */
+background: linear-gradient(to bottom, #f91313 0%,#f76767 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f91313', endColorstr='#f76767',GradientType=0 ); /* IE6-9 */}
+
+.overflow-block.overflow-block_outer tr.confirm_icon td button{border: 1px solid #12ff00;color: #fff;
+background: #12ff00; /* Old browsers */
+background: -moz-linear-gradient(top, #12ff00 0%, #85ff7a 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#12ff00), color-stop(100%,#85ff7a)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #12ff00 0%,#85ff7a 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #12ff00 0%,#85ff7a 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #12ff00 0%,#85ff7a 100%); /* IE10+ */
+background: linear-gradient(to bottom, #12ff00 0%,#85ff7a 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#12ff00', endColorstr='#85ff7a',GradientType=0 ); /* IE6-9 */}
+
+.overflow-block.overflow-block_outer tr.complete_icon td button{border: 1px solid #07841e;color: #fff;
+background: #07841e; /* Old browsers */
+background: -moz-linear-gradient(top, #07841e 0%, #4e8257 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#07841e), color-stop(100%,#4e8257)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #07841e 0%,#4e8257 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #07841e 0%,#4e8257 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #07841e 0%,#4e8257 100%); /* IE10+ */
+background: linear-gradient(to bottom, #07841e 0%,#4e8257 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#07841e', endColorstr='#4e8257',GradientType=0 ); /* IE6-9 */}
+
+.col-md-4.col-md-4-inner .enscroll-track.track3{display: none;}
+.col-md-4.col-md-4-inner:hover .enscroll-track.track3{display: block;}
+.col-lg-5.rgt_menu{float: none;margin-top: 13px;position: absolute;right: 10px;top: 0;}
+.col-lg-5.rgt_menu ul li{float: left; width: auto; margin: 0 10px;}
+.col-lg-5.rgt_menu ul li a{color: #fff; font: 12px arial; text-decoration: none;}
+/*.dispatch_icons {
+    position: fixed;
+    width: 82%;
+}
+#changetr > thead {
+    margin-top: 31px;
+    position: fixed;
+    width: 82%;
+}
+#changetr > tbody{
+    border-top:66px solid transparent
+}
+#taxi_scroll_one + div .enscroll-track{
+    margin-top:67px;
+    
+}*/
+
+#edit_book_tab, #add_book_tab{background: #fff; border: 1px solid #ccc; position: relative;}
+
+
+  .container.taxi_dispatcher{width: 100%; padding: 0;}
+  .container.taxi_dispatcher .col-lg-5{margin-right: 8px; width: 48%;}
+  .container.taxi_dispatcher .row.row_payment .col-lg-5{width: 100%;}
+  .container.taxi_dispatcher .payment_inner{padding: 0;}
+  .container.taxi_dispatcher .row.row_payment{margin: 0; float: left; clear: bot;width: 100%;} 
+  .container.taxi_dispatcher .row.row_payment li span{float: left;}
+  #edit_booking .row.row_payment, #add_booking .row.row_payment{width: 100%;}
+  .container.taxi_dispatcher .payment_inner li{list-style: none;}
+  .container.taxi_dispatcher{margin-bottom: 15px; margin-top: 0;}
+  .col-md-4.col-md-4-inner .row{margin-bottom: 0; padding: 0 10px 5px; width: 50%;float: left;}
+  .container.taxi_dispatcher h4{font-size: 16px; font-weight: normal; margin: 0;}
+  .container.taxi_dispatcher #defaultForm h4{font-size: 12px; font-weight: bold; padding-bottom:5px;}
+  .container.taxi_dispatcher label{font-size: 12px; font-weight: normal; float: left;}  
+  .container.taxi_dispatcher .payment_inner li{border:none; padding: 5px 0;width: 100%;float:left;}
+  .container.taxi_dispatcher .payment_inner li span{width:auto;}
+  .modal-header button.close{background: url("../images/status_icon.png") no-repeat scroll -185px -24px rgba(0, 0, 0, 0);border: 0 none;cursor: pointer;padding: 0;width: 20px;opacity: 0.5;}
+  .modal-dialog{width: 500px;}
+  .btn.btn-default, .container.taxi_dispatcher .form-group .btn-primary{background: #f9c213; border: none; color: #000;}
+  .container.taxi_dispatcher .form-group div{float: right;}
+  .container.taxi_dispatcher span{font-size: 12px; font-weight: normal;} 
+  .container.taxi_dispatcher span.badge{background: url("../images/status_icon.png") no-repeat -192px -43px; margin-left: 8px;padding-left: 15px;padding-right: 0;font-style: italic;width: auto;}
+  .container.taxi_dispatcher .form-control{height: 30px; font-size: 12px; padding: 0 10px; margin-bottom: 5px; color: #000;}
+  .col-md-4.col-md-4-inner{width: 40% !important;padding: 0 !important;position: absolute;left: 0;z-index: 999;left: 10px;top: 50px;}
+  .widget.margin-bottom{margin-top: 45px;}
+  .col-lg-5.col-lg-5_map{display: none;}
+  .overflow-block.overflow-block_outer tr td{font-size: 12px;}
+  .overflow-block.overflow-block_outer #changetr tr td{padding: 10px 0;}
+  .overflow-block.overflow-block_outer #changetr tr{background: #fff;}
+  .overflow-block.overflow-block_outer #changetr tr.show_tr_one{background: #fff;}
+  .overflow-block.overflow-block_outer #changetr tr.show_tr_two{background: #ececec;}
+  .overflow-block.overflow-block_outer #changetr button.status{background: url(../images/status_icon.png) 0 -31px no-repeat; width: 24px; height: 23px; border: none; margin: 0 5px; cursor: pointer;}
+  .form-group.col-lg-5_taxi_dispatcher .col-lg-5{width: 100%; margin: 0;}
+  .pac-container{z-index: 9999999;}
+  .close_side_bar:before{background: url("../images/status_icon.png") no-repeat -185px -24px; width: 20px; height: 20px; display: inline-block; content:''; position: absolute; top: 20px; right: 10px;}
+  .popup_close_button.close_side_bar:before{top: 5px; right: 5px;}
+
+  .map_addbooking_outer{float: left;width: 100%;}
+   
+  #map_addbooking{display: block;width: 100%;height: 150px;margin-top:5px;margin: 0 auto;-moz-box-shadow: 0px 5px 20px #ccc;-webkit-box-shadow: 0px 5px 20px #ccc;box-shadow: 0px 5px 20px #ccc;}
+  #map_addbooking.large{height:100px;}
+  #driver_details{padding:10px 0;}
+  .modal-body{padding: 15px 15px 0;}
+  .modal-footer{padding-right: 0;}
+  .modal-title{font: 20px sans-serif;}
+  #search_driver{border: 1px solid #cccccc;border-radius: 5px;padding: 3px 10px;}
+  #driver_details a{color: #555;}
+  #driver_details a:hover{color: #000; text-decoration: none;}
+ .success_flash{background: #dff2bf;left: 0;padding: 5px 0;position: absolute;text-align: center;top: 6px;width: 100%;z-index: 9990;border: 1px solid #adde5c; border-left: none; border-right: none;}
+ .success_flash li{list-style-type: none;}
+ .goto_driver{background: url("../images/status_icon.png") no-repeat -104px -28px;float: right;height: 15px;margin-right: 15px;margin-top: 2px;width: 15px;}
+
+/*Scrool style*/
+.track3{width: 10px;background: rgba(0, 0, 0, 0);margin-right: 2px;border-radius: 10px;-webkit-transition: background 250ms linear;transition: background 250ms linear;}
+.track3:hover,.track3.dragging{background: #d9d9d9;background: rgba(0, 0, 0, 0.15);}
+.handle3{width: 7px;right: 0;background: #999;background: rgba(0, 0, 0, 0.4);border-radius: 7px;-webkit-transition:width 250ms;transition: width 250ms;}
+.track3:hover .handle3,.track3.dragging .handle3{width: 10px;}
+
+#on_going_trip{background: #fff;color: #ff0000;float: left;text-align: center;width: 100%;}
+#on_going_trip_map{position: relative;}
+.ongoing{float: left;position: absolute;text-align: center;top: 0;width: 100%;z-index: 1;}
+
+#all_drivers ul li a{color: #555;}
+#all_drivers ul li a:hover{color: #000; text-decoration: none;}
+.taxi_scroll_one_top {float: left;width: 100%;border: 1px solid #cccccc; border-left: none; border-right: none;}
+.container.taxi_dispatcher .taxi_scroll_one_top label{margin: 8px 0 0 10px;}
+.error{color:red;}
+.nav.nav-tabs select{padding: 4px; border: 1px solid #cccccc;}
+.hover_tool_tip{float: left;width: auto;position: relative;}
+.hover_tool_tip ul{padding: 0; width: auto;border: 1px solid #E5E2DA;border-radius: 3px;background: #fff;float: left;}
+.hover_tool_tip span{background: url("../images/status_icon.png") no-repeat -123px -31px;bottom: -9px;height: 20px;left: 40%;position: absolute;width: 25px;}
+.hover_tool_tip ul li{float: left; list-style-type: none;width: auto; clear: both; padding: 5px 15px;}
+.hover_tool_tip ul li a{color: #333;outline: none;}
+.hover_tool_tip ul li a:hover{color: #000; text-decoration: none;}
+.friends-blog.driver_status_bottom{width: 100% !important; padding: 0 !important; border-left: 1px solid #b2b2b2; border-top: 1px solid #b2b2b2;}
+.driver_status.driver_status_height{background: #ffffff;position: absolute;right: 0;top: 50px;width: 20% !important;border: 1px solid #b2b2b2;z-index:1;height:190px !important;}
+.driver_status.driver_status_height .lft_outer .tab-content{height: auto;}
+.manage_booking_bottom{float:left;}
+.manage_booking_bottom_outer {float: left;}
+
+.loader{position: fixed;left: 0px;top: 0px;width: 100%;height: 100%;z-index: 2147483647;background: #333;}
+.loader_inner{position:absolute; top:40%; left:44%;}
+
+.container.taxi_dispatcher span.driver_status_active, .container.taxi_dispatcher span.driver_status_in, .container.taxi_dispatcher span.driver_status_out, .container.taxi_dispatcher span.driver_status_busy{cursor:default !important; float:right; margin-right:10px;}

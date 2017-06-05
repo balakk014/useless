@@ -1,0 +1,116 @@
+/* Login Register Start */
+#sign_up {
+        -moz-border-radius: 6px;
+        background: #fefefe;
+        -webkit-border-radius: 6px;
+         border-radius: 6px;
+        border: 1px solid #536376;
+        -webkit-box-shadow: rgba(0,0,0,.6) 0px 2px 12px;
+        -moz-box-shadow:  rgba(0,0,0,.6) 0px 2px 12px;;
+        padding: 14px 22px;
+        width: 60%;
+        position: relative;
+        display: none;       
+    }
+
+#dispatch_popup {
+        -moz-border-radius: 6px;
+        background: #fefefe;
+        -webkit-border-radius: 6px;
+         border-radius: 6px;
+        border: 1px solid #536376;
+        -webkit-box-shadow: rgba(0,0,0,.6) 0px 2px 12px;
+        -moz-box-shadow:  rgba(0,0,0,.6) 0px 2px 12px;;
+        padding: 14px 22px;
+        width: 60%;
+        position: relative;
+        display: none;       
+    }
+
+#driverlist_popup {
+        -moz-border-radius: 6px;
+        background: #fefefe;
+        -webkit-border-radius: 6px;
+         border-radius: 6px;
+        border: 1px solid #536376;
+        -webkit-box-shadow: rgba(0,0,0,.6) 0px 2px 12px;
+        -moz-box-shadow:  rgba(0,0,0,.6) 0px 2px 12px;;
+        padding: 14px 22px;
+        width: 30%;
+	min-height:400px;
+        position: relative;
+        display: none;       
+    }
+
+#complete_popup {
+        -moz-border-radius: 6px;
+        background: #fefefe;
+        -webkit-border-radius: 6px;
+         border-radius: 6px;
+        border: 1px solid #536376;
+        -webkit-box-shadow: rgba(0,0,0,.6) 0px 2px 12px;
+        -moz-box-shadow:  rgba(0,0,0,.6) 0px 2px 12px;;
+        padding: 14px 22px;
+        width: 30%;
+	min-height:400px;
+        position: relative;
+        display: none;       
+    }
+
+
+    #close_x { 
+        width: 24px; height: 23px;
+        overflow: hidden; line-height: 1000px;
+        display: block;
+        position: absolute; top: 5px; right: 5px;
+        background-position: -387px -102px;
+    }
+    .sprited {
+    background: url(../images/download_sprite.png) no-repeat;
+    line-height: 1000px;
+    overflow: hidden;
+    display: block;
+}
+/*login*/
+.login_lft{width:40%;float:left; /*border-right: 1px solid #c9c9c9;*/}
+.new_input_field{width: 100%;}
+.complete_lft{width:400px;float:left; /*border-right: 1px solid #c9c9c9;*/}
+.login_lft h2{ width: 95%; float: left; font:normal 28px 'nunitobold'; color:#464646;text-transform: uppercase;}
+.login_lft p{float: left; font: normal 14px 'nunitoregular'; color:#464646;padding:6px 268px 6px 15px;width:38px;}
+.colorcp{background:#EFEFEF;}
+.whitecp{background:#F7F7F7;}
+
+
+#show_process #driver_details p {float: left;font: normal 14px 'nunitoregular';color: #464646;padding: 6px 0px 6px 15px;width: 306px;}
+
+.login_lft p:hover{float: left; font: normal 14px 'nunitoregular'; color:#464646;padding:6px 268px 6px 15px;background:#E1E1E1;}
+.login_lft a{font: normal 14px 'nunitoregular' ;color:#00bff3;}
+.login_form{width: 100%; float: left;  padding: 15px 0 0 0;margin:0 0 0 0;}
+.login_form ul{float: left;}
+.login_form ul li span{ width: 140px;float:left; color:#464646; padding-top: 3px;}
+.login_form ul li{width: 100%; float: left; padding-bottom:20px;}
+.login_form ul li input[type=text]{ width: 95%;border: 1px solid #9c9c9c; height: 20px;}
+.login_form ul li textarea{ width: 180px; height:100px;border: 1px solid #9c9c9c; padding: 5px;}
+.login_form ul li input[type=password]{ width:150px;border: 1px solid #9c9c9c;  height: 20px;}
+.login_form ul li input[type=checkbox]{float: left;}
+.login_form ul li label{float: left; font: normal 12px arial;color: #464646; padding: 2px 0px 0px 5px;}
+.login_form ul{float: left; width: 100%;}
+.complete_form ul li span{ width: 140px;float:left; color:#464646; padding-top: 3px;}
+.complete_form ul li{width: 100%; float: left; padding-bottom:20px; font: normal 12px arial;color: #464646; }
+.complete_form ul li input[type=text]{ width: 204px;border: 1px solid #9c9c9c; height: 20px;}
+.complete_form ul li textarea{ width:200px;height:100px;border: 1px solid #9c9c9c;}
+.complete_form ul li input[type=password]{ width:150px;border: 1px solid #9c9c9c;  height: 20px;}
+.complete_form ul li input[type=checkbox]{float: left;}
+.complete_form ul li label{float: left; font: normal 12px arial;color: #464646; padding: 2px 0px 0px 5px;}
+.login_rgt{width: 55%; float: right; margin-left: 10px;height:400px; overflow: hidden;}
+.login_rgt h2{ width: 100%; float: left; font:normal 28px 'nunitobold'; color:#464646;text-transform: uppercase;}
+.login_text{width:100%; float: left; position: relative; padding-bottom: 30px;}
+.login_text p{width:350px;float: left; font: normal 14px 'nunitoregular'; padding:10px 33px 0px 83px; color: #464646;}
+.login_text a{float: left; padding:15px 0px 0px 83px;}
+.login_text b{ background:#fff;float:left;top:144px;padding:2px; font: normal 18px 'nunitoregular'; color: #464646; position: absolute; left:-11px;}
+.login_total{width: 100%; float: left;}
+.login_form ul li.login_link{padding-bottom:28px;}
+/* Login & Register End Here */
+.header_part{ height:40px; width:97%;float: left; font:normal 18px 'nunitobold'; color:#FFFFFF;background-color:#016fa4;}
+.header_part span{float: left; font: normal 18px 'nunitoregular'; color:white;padding:8px 0px 6px 15px;}
+.dispatch_css{width:400px;height:500px;}

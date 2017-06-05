@@ -1,0 +1,412 @@
+/*
+ Localizable.strings
+ Taximobility
+ 
+ Created by ndot on 25/06/16.
+ Copyright © 2016 Ndot. All rights reserved.
+ */
+//Home View Controller
+
+"APP TITLE" = "Taximobility";
+"Please turn on location service to use this app" = "Пожалуйста, включите услуги определения местоположения , чтобы использовать это приложение";
+"Sign Up" = "Зарегистрироваться";
+"Sign In" = "Войти в систему";
+"Ride Now" = "Поезжайте сейчас";
+"Ride Later" = "ездить Позже";
+"Drop Location(Optional)" = "Капля Расположение (Необязательно )";
+"Go To Pin..." = "Fetching Адрес ...";
+"Available" = "Доступный";
+"Currently no cars are available" = "В настоящее время нет машин доступны";
+"Min" = "Min";
+"Pickup time is approximately" = "Время Самовывоз примерно";
+"Minutes" = "минут";
+"Taxi's are not currently available" = "Такси не в настоящее время доступны";
+"Confirm later booking?" = "Подтвердить позже бронирование?";
+"OK" = "ОК";
+"CANCEL" = "Отмена";
+"Enter pickup Location" = "Введите пикап Расположение";
+"Enter drop location" = "Введите падение местоположение";
+"Favourites" = "Избранное";
+"Home" = "Главная";
+"Office" = "офис";
+"Airport" = "аэропорт";
+"Others" = "другие";
+"You have already selected this contact" = "Вы уже выбрали этот контакт";
+"Total Approximate Fare:" = "Общее Приблизительное Стоимость проезда :";
+"Approximate Fare:" = "Приблизительная Стоимость проезда :";
+"Fare Estimate" = "Стоимость проезда Расчетный";
+"Cash/Card" = "Наличный / Card";
+"Promo Code" = "Промо код";
+"Request Taxi" = "Запрос такси";
+"Cancel" = "Отмена";
+"Yes" = "да";
+"YES" = "да";
+"No" = "Нет";
+"ETA" = "Eta";
+"Get Fare Estimate" = "Poluchit' Fare Estimeyt";
+"Minimum Fare" = "Минимальный тариф";
+"Maximum Size" = "Максимальный размер";
+"Estimated Fare" = "Расчетное Стоимость проезда";
+"Approximate Fare" = "Примерное Плата за проезд";
+"This is an estimate. Actual fare may vary slightly based on traffic or discounts." = "Это оценка . Фактическая ставка может незначительно отличаться в зависимости от трафика или скидок .";
+"Split a Fare with Friends" = "Разделение стоимости проезда с друзьями";
+"Select a Friend" = "Выберите друга";
+"Submit" = "Отправить";
+"This app requires access to your device's Contacts.Please enable Contacts access for this app in Settings / Privacy / Contacts" = "Это приложение требует доступа к Contacts.Please вашего устройства позволяют Контакты доступ для этого приложения в настройках / Безопасность / Контакты";
+"Please select the friend" = "Пожалуйста, выберите друга";
+"Total Split fare percentage should be 100" = "Общий процент Split тариф должен быть 100";
+"Book A Taxi" = "Заказать такси";
+"Requesting Taxi" = "запрашивающая такси";
+
+//SignUp View Controller
+
+"Login With Facebook" = "Войти с Facebook";
+"First Name" = "Имя";
+"Last Name" = "Фамилия";
+"Email" = "Эл. адрес";
+"Mobile Number" = "Мобильный номер";
+"Password" = "пароль";
+"Confirm Password" = "Подтвердите Пароль";
+"Referral Code" = "Промо-код";
+"Show" = "Показать";
+"Hide" = "Спрятать";
+"Country Code" = "Код страны";
+"Facebook" = "facebook";
+"Enter your email id" = "Введите свой электронный идентификатор";
+"Enter your mobile number" = "Введите номер мобильного телефона";
+"Try another number?" = "Попробуйте использовать другой номер";
+"Please enter your first name" = "Пожалуйста, введите ваше имя";
+"Please enter your last name" = "Пожалуйста, введите свою фамилию";
+"Please enter your mobile number" = "Пожалуйста, введите ваш номер мобильного телефона";
+"Please enter the password" = "Пожалуйста, введите пароль";
+"Please enter the confirm password" = "Пожалуйста, введите пароль подтверждения";
+"Please enter valid email address" = "Пожалуйста, введите действующий адрес электронной почты";
+"Please enter valid mobile number" = "Пожалуйста, введите действительный номер мобильного телефона";
+"Password should be minimum 6 characters" = "Пароль должен быть не менее 6 символов";
+"Password does not match" = "Пароль не подходит";
+"First name must contain atleast 4 characters" = "Имя должно содержать по крайней мере 4-х символов";
+
+//MenuSliderViewController
+
+"Book a Taxi" = "Заказать такси";
+"Track my Taxi" = "Отследить такси";
+"My Booking" = "Мои заказы";
+"Payment Options" = "Варианты оплаты";
+"Wallet" = "Бумажник";
+"Fare" = "Плата за проезд";
+"Invite Friends" = "Пригласить друзей";
+"Settings" = "настройки";
+"About" = "Около";
+"Log Out" = "Выйти";
+
+//LoginViewController
+
+"Mobile Number" = "Мобильный номер";
+"Done" = "Готово";
+"Forgot Password?" = "Забыли пароль?";
+"NO" = "Нет";
+
+//PaymentCardViewController
+
+"Payment" = "Оплата";
+"Add New Card" = "Добавить новую карточку";
+
+//AddEditCardViewController
+
+"Default Card" = "По умолчанию карта";
+"Add Cards" = "Добавить карту";
+"Edit Card" = "Редактировать карточку";
+"Card" = "Карта";
+"CVV" = "CVV";
+"Expiry" = "истечение срока";
+"Delete Card" = "Удалить карточку";
+"Personal Card" = "Персональная карта";
+"Business Card" = "Визитная карточка";
+"Save" = "Сохранить";
+"Are you sure you want to delete card?" = "Вы уверены, что хотите удалить карту ?";
+"Select" = "Выбрать";
+"Enter valid expiry date" = "Введите действительную дату истечения срока действия";
+"Please enter valid credit card number" = "Пожалуйста, введите действительный номер кредитной карты";
+"MM/YY" = "ММ / ГГ";
+"Enter valid CVV" = "Введите действительный CVV";
+
+//WalletViewController
+
+"Wallet" = "Бумажник";
+"Recharge Money" = "Перезарядка деньги";
+"Cash Less, Hassle free rides with Taximobility wallet" = "Наличные Меньше , нервотрепки бесплатно едет с Taximobility бумажник";
+"HAVE A PROMOCODE?" = "Есть промо код?";
+"Add Money" = "Добавить деньги";
+"Enter the Promo Code" = "Введите Промо-код";
+"Enter amount between" = "Введите сумму между";
+"Please enter the Valid PromoCode" = "Пожалуйста, введите Действительный промо-код";
+
+//AddWalletMoneyViewController
+"Paypal" = "Paypal";
+"Brain Tree" = "Мозг Дерево";
+"Amount" = "Количество";
+"Card Number" = "Номер карты";
+"MM" = "MM";
+"YYYY" = "ГГГГ";
+"Name on the card" = "Имя на карточке";
+"Terms and Conditions" = "Условия и положения";
+"Terms And Conditions" = "Условия и положения";
+"Select month" = "Выберите месяц";
+"Select year" = "Выберите год";
+"All fields are mandatory" = "Все поля обязательны для заполнения";
+"Please agree to the Terms & Conditions" = "Пожалуйста согласен Условия & Условия";
+
+//FavouritesViewController
+
+"Book Again" = "Книга Опять";
+"Book Now" = "Zabroniruyte seychas";
+
+//AddEditFavouritesViewController
+
+"Edit Favourites" = "Редактировать Избранное";
+"Add Favourites" = "Добавить Фавориты";
+"Select Type" = "Выберите тип";
+"Pickup Location" = "Выбрать место";
+
+//BookingDetailsViewController
+
+"Trip Details" = "Trip Подробнее";
+"Distance" = "Расстояние";
+"Pickup Time" = "Время забирать";
+"Booking Time" = "Бронирование времени";
+"Drop Time" = "Время падения";
+"Trip Duration" = "Продолжительность поездки";
+"Used Wallet" = "Б Кошелек";
+"Trip Id" = "Trip Id";
+"Split Fare Status" = "Сплит Стоимость проезда Статус";
+"Accepted" = "Принято";
+"Rejected" = "Отклонено";
+"Pending" = "в ожидании";
+
+//MyBookingsViewController
+
+"My Bookings" = "Мои заказы";
+"On Going" = "При переходе";
+"Up Coming" = "предстоящий";
+"Past Bookings" = "Прошедшие бронирование";
+"No data available!" = "Данные недоступны!";
+"Drop Location is not specified" = "Капля Место не указано";
+"Loading..." = "Loading...";
+"No more data to load" = "Нет больше данных для загрузки";
+
+"Paid By" =  "Оплачивается";
+"Trip cancel" = "Маршрутный отменить";
+//HelpViewController
+
+"Help" = "Помогите";
+"I lost an item" = "Я потерял элемент";
+"I had issue with my fare" = "У меня была проблема с моим тарифом";
+"My driver was unprofessional" = "Мой водитель был непрофессиональным";
+"My vehicle was't what I expected" = "Мой автомобиль was't то, что я ожидал";
+"I has a issue with my receipt or payment" = "Я есть вопрос с моей квитанции или оплаты";
+"I was involved in accident" = "Я был вовлечен в аварию";
+"Cash Trips" = "Кассовые Поездки";
+"Enter your comments" = "Введите ваши комментарии";
+"Please enter your comments" = "Пожалуйста, введите свои комментарии";
+
+//DriverConfirmationViewController
+"Reason for Cancel" = "Причина Отменить";
+"Confirmation" = "подтверждение";
+"Please Let Us know the reason for cancellation" = "Пожалуйста, дайте нам знать причину отмены";
+"Change the Travel Plan" = "Изменение план путешествия";
+"Booking Placed in error" = "Booking Размещено в ошибке";
+"Cab delay/issues" = "Задержка Кабина / вопросы";
+"EST :" = "EST :";
+"Mins" = "Mins";
+"Call" = "Вызов";
+"No sim card installed" = "не установлена ​​SIM-карта";
+"Call facility is not available on your device" = "Call- центр не доступен на устройстве";
+"Enter CVV number" = "Введите номер CVV";
+"Please enter a valid cvv" = "Пожалуйста, введите правильный код CVV";
+
+//  TripInProgressViewController
+
+"Trip In Progress" = "Поездка в Прогресс";
+
+//  E-RecieptViewController
+
+"Card" = "Карта";
+"Cash" = "Денежные средства";
+"Wallet Amount" = "Кошелек Сумма";
+"Paid Amount" = "Выплаченная сумма";
+"Payment type" = "Способ оплаты";
+"E-Receipt" = "E- Квитанция";
+"Trip Completed" = "Trip Завершенный";
+"Thank you for using Taximobility! Make your next trip even more enjoyable!" = "Благодарим Вас за использование Taximobility ! Сделайте вашей следующей поездки еще более приятным !";
+"Rate Your Driver" = "Оценить ваш драйвер";
+"Type your Comments" = "Введите ваши комментарии";
+"Share it" = "Поделись";
+"Your device doesn't support SMS!" = "Устройство не поддерживает SMS !";
+"Taximobility - Invite a Friend" = "Taximobility - Пригласить Друга";
+
+//  splitFareRequestViewController
+
+"Split a Fare with" = "Разделите стоимость проезда с";
+"Your Fare will be charged" = "Ваш Плата за проезд будет взиматься плата";
+
+//  CardRegisterViewController
+
+"Card Register" = "Card Регистрация";
+"Enter the Referral Code" = "Введите код рефералов";
+"Save Card Details" = "Сохранить подробности карты";
+"Pay by Credit Card" = "Оплатить кредитной картой";
+"Pay by Cash" = "Оплатить наличными";
+"Pay using Referral Code" = "Оплатить с помощью код рефералов";
+
+//  OtpViewController
+
+"and" = "а также";
+"Verify Email" = "Подтвердить код";
+"A four digit authentication code has been sent to" = "Код аутентификации четырехзначный отправлен";
+"Resent OTP" = "OTP повторно отправить";
+
+//  Extension
+
+"Please check your Internet Connection" = "Пожалуйста, проверьте подключение к интернету";
+"Check Your Network Connection" = "Проверка сетевого соединения";
+
+//About
+
+"Taximobility a ready-made taxi booking dispatch system for existing taxi companies or start ups. Perform online, real time taxi booking over mobile apps and webs" = "Taximobility такси заказ диспетчерская система готовые для существующих такси компании или стартапы . Выполнить онлайн , в режиме реального времени заказа такси через мобильные приложения и ткани";
+"Ride from Anywhere \nTaxiMobility.com" = "Поездка из любого \nTaxiMobility.com";
+"Legal" = "легальный";
+"Links" = "связи";
+"Rate us App Store" = "Оценить нам App Store";
+"Like us on Facebook" = "Поставьте нам лайк на фейсбуке";
+"Follow us on Twitter" = "Следуйте за нами на Twitter";
+"Terms & Condition" = "Правила и условия";
+"Privacy Policy" = "политика конфиденциальности";
+
+//InviteFriends
+
+"When a friend rides with your code" = "Когда друг едет с вашим кодом";
+"you Earn" = "Вы зарабатываете";
+"Twitter" = "щебетать";
+"Whats App" = "WhatsApp";
+"SMS" = "смс";
+"Share Via" = "Отправить по";
+"Your device has no WhatsApp installed." = "Устройство не имеет WhatsApp установлен.";
+
+//FareViewController
+
+"Min Fare" = "Минимальный тариф";
+"Taxi" = "Такси";
+"Fare Details" = "Стоимость проезда Подробнее";
+"Base Fare" = "Базовый тариф";
+"Values" = "Значения";
+"Below" = "Ниже";
+"Above" = "Выше";
+"Cancel Fare" = "Отменить Плата за проезд";
+"Night Charges" = "Ночные сборы";
+"Evening Charges" = "Вечерние сборы";
+
+//settingViewcontroller
+
+"Language" = "язык";
+"Split Fare" = "Сплит Стоимость проезда";
+
+//RRPickerView
+
+"January" = "январь";
+"February" = "февраль";
+"March" = "Март";
+"April" = "апрель";
+"May" = "май";
+"June" = "июнь";
+"July" = "июль";
+"August" = "август";
+"September" = "сентябрь";
+"October" = "октября";
+"November" = "ноябрь";
+"December" = "Декабрь";
+"Please select Month,Year and press 'Select' or 'Cancel'." = "Пожалуйста, выберите месяц, год и нажмите 'Выбрать' или 'Отмена' .";
+
+
+"Please select the split fare percentage for" = "Пожалуйста, выберите процентное соотношение тарифа для";
+"Or" = "Или";
+"Please select your favourite type" = "Пожалуйста, выберите ваш любимый тип";
+"Please Select Pick Up Location" = "Выберите Pick Up Расположение";
+
+//ProfileViewController
+
+"Profile" = "Профиль";
+"Salutation" = "приветствие";
+"Change Password" = "Изменить пароль";
+"Mr" = "Мистер";
+"Miss" = "скучать";
+"Mrs" = "Г-жа";
+"Take Photo" = "Фотографировать";
+"ERROR" = "ОШИБКА";
+"This device doesn't have a camera." = "Это устройство не имеет камеры .";
+"Choose from Library" = "Выбрать из библиотеки";
+"This device doesn't support photo libraries." = "Данное устройство не поддерживает библиотеки фотографий.";
+"No changes has been made" = "Никаких изменений не было сделано";
+"Are you sure you want to logout?" = "Вы действительно хотите выйти?";
+"Old Password" = "Старый пароль";
+"New Password" = "новый пароль";
+"Please enter your old password" = "Введите старый пароль";
+"Please enter your new password" = "Пожалуйста, введите новый пароль";
+"Password and confirm password do not match" = "Пароль и подтверждение пароля не совпадают";
+"Old Password does not match" = "Старый пароль не совпадает";
+
+//Missed
+"Apply" = "Подать заявление";
+"Please wait for location update" = "Пожалуйста, подождите обновления местоположения";
+"Not Available" = "Недоступен";
+"Are you sure you want to cancel this trip?" = "Вы уверены, что хотите отменить эту поездку ?";
+"Please enter the drop location" = "Пожалуйста, введите местоположение перетаскивания";
+"Favourite Driver Booking" = "Любимые драйверы";
+"Drop Location" = "Капля Расположение";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@.%@" = "Простите за краткость , Подпишитесь с кодом направления %@ и заработать %@ . %@";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@" = "Простите за краткость , Подпишитесь с кодом направления %@ и заработать %@ .";
+"No tracking available!" = "На данный момент нет отслеживания доступна !";
+"Are you sure ,Do you want to delete the driver from favourite list ?" = "Вы уверены, Вы хотите, чтобы удалить драйвер из списка избранного?";
+"Cash" = "деньги";
+"Card" = "Карта";
+"Waiting Fare" = "Ожидание Плата за проезд";
+"Waiting fare per Hour" = "Ожидание плату за проезд в час";
+"No favourite driver found" = "Не любимый водитель найден";
+"You can't change the payment type when the split fare facility enabled" = "Вы не можете изменить тип оплаты, когда плата за проезд объекта сплит включен";
+"Please enter valid expiry date" = "Пожалуйста, введите действительный срок годности";
+"Please enter the valid Referral Code" = "Пожалуйста, введите действительный код рефералов";
+
+
+"Favourite Drivers" = "Любимые драйверы";
+"Completed" = "Завершенный";
+"Cancelled" = "Отменено";
+"Min(s)" = "Мин (ы)";
+"Vehicle Min's Fare" = "Автомобиль Стоимость проезда Мин";
+"Waiting" = "ожидание";
+"Waiting Time Cost" = "Время ожидания Стоимость";
+"Vehicle Waiting Time" = "Автомобиль Время ожидания";
+"Evening Fare" = "Вечерний Стоимость проезда";
+"Night Fare" = "В ночь Плата за проезд";
+"Sub Total" = "Итого к югу";
+"Tax" = "налог";
+"Promo Code" = "Промо код";
+"Total" = "Всего";
+"Split Fare Status" = "Сплит Стоимость проезда Статус";
+"1.Cab delay" = "1.задержка кабины";
+"2.Driver not responded" = "2.Водитель не ответил";
+"3.Wrong address shown" = "3.Неправильный адрес показано";
+"4.Changed the travel plan" = "4.Измененный план путешествия";
+"5.Booking placed in error" = "5.Бронирование отелей помещается в ошибке";
+"6.Other" = "6.Другие";
+
+
+"Vehicle Distance Fare" = "Автомобиль Расстояние Стоимость проезда";
+"Trip Fare" = "Маршрутный Плата за проезд";
+"Distance Fare" = "Расстояние Стоимость проезда";
+"MILES" = "MILES";
+"(1MILES)" = "(1MILES)";
+"Minutes Fare" = "Protokol Stoimost' proyezda";
+"Enter your sub domain" = "Введите свой поддомен";
+"Domain name must contain atleast 3 characters" = "Доменное имя должно содержать не менее 3 символов";
+"Minutes Traveled" = "Протокол Ездил";
+"Minute Fare" = "Стоимость проезда минуту";
+"Vehicle Minute Fare" = "Автомобиль минуту Стоимость проезда";

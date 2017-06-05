@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="invite_friend">Пригласить друга</string>
+    <string name="enter_the_valid_expiry_date">Введите действительный срок годности</string>
+    <string name="english">English</string>
+    <string name="russian">русский</string>
+    <string name="arabic">العربية</string>
+    <string name="turkey">Türk</string>
+    <string name="frence">French</string>
+    <string name="german">Deutsch</string>
+    <string name="app_name">Getuptaxi</string>
+    <string name="app_namemanifest">Getuptaxi Driver</string>
+    <string name="check_net_connection">Проверьте соединение с интернетом</string>
+    <string name="done">ПРОДОЛЖИТЬ</string>
+    <string name="signin">Войти</string>
+    <string name="check_internet">Время соединения с сервером истекло</string>
+    <string name="confirmlogout">Вы действительно хотите выйти?</string>
+    <string name="confirm_complete">Вы уверены, что хотите завершить путешествие?</string>
+    <string name="text_ok">OK</string>
+    <string name="login_success">Вы успешно вошли в Getuptaxi</string>
+    <string name="please_click_back_again_exit">Пожалуйста, нажмите НАЗАД снова чтобы выйти</string>
+    <string name="m_upcoming">Подтвержденные поездки</string>
+    <string name="m_statistics">Статистика</string>
+    <string name="my_status">Мое местоположение</string>
+    <string name="m_assigned">Назначенное такси</string>
+    <string name="m_ongoing">Текущая поездка</string>
+    <string name="m_me">Аккаунт</string>
+    <string name="m_logout">Выйти</string>
+    <string name="you_are_in_trip">Вы находитесь в пути</string>
+    <string name="pickup_txt">Посадка</string>
+    <string name="pickuploc">Место отправления</string>
+    <string name="droploc">Место высадки</string>
+    <string name="book_time">Бронирование времени</string>
+    <string name="p_passname">Имя пассажира</string>
+    <string name="p_nopass">Количество пассажиров</string>
+    <string name="p_pickdate">Дата отправления</string>
+    <string name="p_picktime">Время отправления</string>
+    <string name="submit">Принять</string>
+    <string name="pwd_min">Пароль должен содержать не менее 6 знаков</string>
+    <string name="pwd_same">Пароли не совпадают</string>
+    <string name="cancell">Отмена</string>
+    <string name="image_failed">Ошибка при загрузке изображения, попробуйте снова!</string>
+    <string name="first">Первый</string>
+    <string name="last">Последний</string>
+    <string name="email">Электронный адрес</string>
+    <string name="mobile">Номер мобильного телефона</string>
+    <string name="password">Пароль</string>
+    <string name="confimpswd">Подтвердите пароль</string>
+    <string name="bank">Банк</string>
+    <string name="bankaccno">Банк/ C не</string>
+    <string name="bankstmt">*Банк/ C используется для оплаты без комиссии</string>
+    <string name="profile_image">Изображение профайла</string>
+    <string name="choose_an_image">Выберите изображение</string>
+    <string name="gallery">Галерея</string>
+    <string name="camera">Камера</string>
+    <string name="no_changes">Pas de changements</string>
+    <string name="you_are_here">Вы находитесь здесь</string>
+    <string name="current_location">Текущее местоположение</string>
+    <string name="name">Имя</string>
+    <string name="picklocation">Место отправления</string>
+    <string name="min">Мин</string>
+    <string name="sec">Сек</string>
+    <string name="minutestxt">минут</string>
+    <string name="mins">Мин</string>
+    <string name="secondstxt">секунд</string>
+    <string name="accept">ПРИНЯТЬ</string>
+    <string name="decline">ОТКЛОНИТЬ</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="Trip_Request">Заказ</string>
+    <string name="seconds_to_left">ОСТАЛОСЬ СЕКУНД ДО ПРИНЯТИЯ</string>
+    <string name="taxi_no">Номер такси</string>
+    <string name="taxi_capacity">Вместимость такси</string>
+    <string name="taxi_speed">Скорость Такси Км/Час</string>
+    <string name="taxi_luggage">Максимальный багаж/Кг</string>
+    <string name="ent_valid_amt">Введите действительную сумму</string>
+    <string name="actual_distance">Общая дистанция</string>
+    <string name="waiting_cost">Стоимость времени ожидания</string>
+    <string name="tax">Налог(</string>
+    <string name="total_amount">Всего</string>
+    <string name="wallet_amount">Используемое количество кошелек</string>
+    <string name="pay_amount">Сумма к оплате</string>
+    <string name="paymentby">ОПЛАТА</string>
+    <string name="cash">НАЛИЧНЫЕ</string>
+    <string name="card">КАРТА</string>
+    <string name="uncard">Убрать Карту</string>
+    <string name="account">СЧЕТ</string>
+    <string name="fare_calculator">Расчет тарифа</string>
+    <string name="trip_completed">Поездка завершрена</string>
+    <string name="trip_id">Код поездки:</string>
+    <string name="p_congrats">Оплата завершена</string>
+    <string name="p_main">Вернуться на главную</string>
+    <string name="total">Всего заказов</string>
+    <string name="reject">Отклонено:</string>
+    <string name="cancelled">Отменен</string>
+    <string name="totalearning">Всего доход</string>
+    <string name="totaltrip">Всего поездка</string>
+
+    <string name="timedriven">Время поездки</string>
+    <string name="earning">Сегодняшний Заработок</string>
+    <string name="help">Помощь</string>
+    <string name="device_not_support_map">Устройство не поддерживает версию карты</string>
+    <string name="you_dont_have_passenger">У вас нет пассажиров</string>
+    <string name="invalid_mobile_number">Неправильный номер мобильного телефона</string>
+    <string name="stop_waiting">перестать \n ждать</string>
+    <string name="start_waiting">начать \n ждут</string>
+    <string name="heading_ongoing">Ожидание пассажира</string>
+    <string name="pass_onboard">Начать поездку</string>
+    <string name="ongoing_journey">Текущая поездка</string>
+    <string name="waiting_time_txt">Начать ожидание</string>
+    <string name="arvd_destination">Завершить поездку</string>
+    <string name="pickup_passenger">Забрать пассажира</string>
+    <string name="ive_arrived">Автомобиль прибыл</string>
+    <string name="connect_error">Ошибка соединения!</string>
+    <string name="c_tryagain">Попытайтесь снова!</string>
+    <string name="cancel">ОТМЕНИТЬ</string>
+    <string name="head_forgot_password">Забыли пароль?</string>
+    <string name="please_wait">Пожалуйста, подождите...</string>
+    <string name="forgotpswd">Забыли пароль?</string>
+    <string name="menu_settings">параметры</string>
+    <string name="back"> снова </string>
+    <string name="shift">сдвиг</string>
+    <string name="discount">скидка(</string>
+    <string name="trip_fare">Поездка тарифа</string>
+    <!-- Referal Code -->
+    <string name="referal_code">Введите код направления поездки</string>
+    <string name="Hreferal"> Промо-код </string>
+    <string name="referal_amount">реферала Сумма</string>
+    <string name="trip_amount">Маршрутный Сумма</string>
+    <string name="payment_pending">Запрос платежа в Pending-</string>
+    <!-- signin -->
+    <string name="s_signin"> войдите в </string>
+    <string name="s_register"> зарегистрируйтесь </string>
+    <string name="s_pwd">Введите пароль</string>
+    <string name="s_email">введите E-mail</string>
+    <string name="s_pass_max">Пароль должен содержать не больше 32 знаков</string>
+    <string name="otherdiverlist">Other Drivers List</string>
+    <string name="ent_remarks"> Enter Remarks</string>
+    <string name="remarks">Remarks</string>
+    <string name="notes">Notes</string>
+
+    <!-- tell friend -->
+    <string name="t_sreferral"> благодарим вас за обращение </string>
+
+    <!-- payuncard_lay -->
+    <string name="p_cardno">карты не **** **** **** XXXX</string>
+    <string name="p_expiry"> срок ММ/YY </string>
+    <string name="p_cvv">  CVV 3 цифр </string>
+    <!-- invite friend -->
+    <string name="invite_sms">Пригласить на SMS</string>
+    <string name="invite_email">Пригласить по электронной почте</string>
+    <string name="invite_fb">Facebook</string>
+    <string name="invite_whatsapp">Whatsapp</string>
+    <string name="invite_twitter">щебет</string>
+    <string name="invite_sharevia">Доля через</string>
+    <string name="invite_frdrides">Когда друг едет с кодом</string>
+    <string name="invite_youearn">Вы зарабатываете</string>
+    <!-- paymentcash_popup -->
+    <string name="tripfare_pop">тариф туда</string>
+    <string name="selectacc">выберите учетную запись</string>
+    <string name="p_confirm"> подтверждение </string>
+
+    <!-- forgot_popup -->
+    <string name="f_timetoreach"> время для достижения </string>
+
+    <!-- flagger_act -->
+    <string name="f_hello"> Алло :</string>
+    <string name="f_sampledate"> Friday,11 Апрель 2013 </string>
+
+    <!-- changepass_lay -->
+    <string name="c_oldpwd"> Старый пароль </string>
+    <string name="c_newpwd"> Новый пароль </string>
+    <string name="c_conpwd"> подтвердите пароль </string>
+    <string name="c_chnpwd"> Изменить пароль </string>
+
+    <!-- menu -->
+    <string name="m_acc"> счет </string>
+    <string name="m_home"> Домой </string>
+    <string name="m_payment"> вариант оплаты </string>
+    <string name="m_sales"> управлять продажами </string>
+    <string name="m_target"> цель </string>
+    <string name="m_tellfrd"> рассказать другу </string>
+    <string name="m_about"> около </string>
+    <string name="m_help"> Справка </string>
+    <string name="m_timer"> 00.00.00.000 </string>
+
+    <!-- signup -->
+    <string name="referal"> Партнерская </string>
+    <string name="bankcomm"><nowiki>*</nowiki></string>
+    <string name="bankmsg"> ваш банк A/C - нет необходимости платить комиссии вы заработали с помощью карты. </string>
+    <string name="accountmsg"> мы рекомендуем использовать ваш адрес электронной почты и номер мобильного телефона для отправки обновлений на app и начала езды.</string>
+
+    <!-- trip details -->
+    <string name="amount"> сумма </string>
+    <string name="payment"> оплата </string>
+    <string name="jobref"> задание-уст </string>
+    <string name="t_passname">Имя Пассажира</string>
+    <string name="t_pickloc">Выбрать Место</string>
+    <string name="t_picktime">Время Забирать</string>
+    <string name="t_droploc">падение Расположение</string>
+    <string name="t_droptime">падение Время</string>
+    <string name="t_distance">расстояние</string>
+    <string name="t_tripduration">Поездка Продолжительность</string>
+    <string name="waiting_time">Начать\nожидание</string>
+
+    <!-- paymentoption lay -->
+    <string name="edit"> Редактировать </string>
+    <string name="addcard"> Добавить новую карту </string>
+
+    <!-- me lay -->
+    <string name="sendme"> отправить мне уведомление </string>
+    <string name="goal">    цели      </string>
+    <string name="amount_left"> левый : </string>
+    <string name="nodata"> данные не найдены </string>
+    <string name="changeimage"><u>Изменить изображение</u></string>
+
+    <!-- notifiaction lay -->
+    <string name="Colon"> : </string>
+    <string name="seconds">00</string>
+
+    <!-- farecalculator lay -->
+    <string name="farecal"> Тариф </string>
+    <string name="string_tips">советы</string>
+    <string name="round_trip"> поездка </string>
+    <string name="f_km"> км </string>
+    <string name="f_currsymbol"> $ </string>
+
+    <color name="block">#000000</color>
+
+    <string-array name="cardtype">
+        <item> Тип карты Личная </item>
+        <item> Тип карты Бизнес </item>
+    </string-array>
+
+    <!-- Street Job -->
+    <string name="pickup"> место встречи </string>
+    <string name="tips"> Salik </string>
+    <string name="TravelDate"> дата поездки </string>
+
+    <!-- Profile -->
+    <string name="you">вы</string>
+
+    <!-- pay uncard -->
+    <string name="heading_payuncard">Оплата с \n новой картой</string>
+    <string name="ent_ccard_no">введите кредитной карты не</string>
+    <string name="ent_chk_ccard">прошу проверить номер вашей кредитной карточки</string>
+    <string name="ent_exp_date">введите дату истечения срока действия</string>
+    <string name="ent_exp_month_gt">истек срок месяц должны быть равными и больше, чем текущий месяц</string>
+    <string name="ent_exp_year_gt">истек срок год должны быть равными и больше, чем текущий год</string>
+    <string name="ent_cvv">введите код CVV нет</string>
+    <string name="ent_chk_cvv">прошу проверить ваш код CVV номер</string>
+
+    <!-- Messages -->
+
+    <string name="get_address">получить адрес</string>
+    <string name="get_location">получить местоположение</string>
+    <string name="IO_Exception_getFromLocation">исключение ввода-вывода в сервер геокодирования.getFromLocation()</string>
+    <string name="start_updates">Start Updates</string>
+    <string name="stop_updates">Stop Updates</string>
+    <string name="unknown">--Unknown--</string>
+    <string name="enter_the_password">введите пароль</string>
+    <string name="enter_the_old_password">введите старый пароль</string>
+    <string name="enter_the_new_password">введите новый пароль</string>
+    <string name="enter_the_confirmation_password">введите пароль для подтверждения</string>
+    <string name="password_min_character"> пароль должен быть не менее 6 символов </string>
+    <string name="confirmation_password_mismatch_with_password">подтверждение пароля не совпадает с паролем</string>
+    <string name="old_password_and_newpassword_are_same">Старый Пароль и новый пароль, то же</string>
+    <string name="gps_is_settings">GPS - это настройки</string>
+    <string name="gps_is_not_enabled">GPS не включена. Вы хотите перейти к меню настроек?</string>
+    <string name="location_disable">Место Услуги для инвалидов</string>
+    <string name="location_enable">Пожалуйста, включите услуг местоположение.</string>
+    <string name="enable">включить</string>
+
+    <!-- Login Act -->
+    <string name="phone"> Номер Мобильного </string>
+    <string name="enter_your_mobile_number"> Введите номер мобильного телефона</string>
+    <string name="t_ok"> ладно </string>
+    <string name="t_success"> УСПЕХ </string>
+    <string name="enter_mobile_number">Введите номер мобильного телефона</string>
+
+    <!-- HomeActivity -->
+    <string name="trackmytrip">Отследить поездка</string>
+    <string name="myjobs">Мои Вакансии</string>
+    <string name="locating_you">Расположение тебя ...!</string>
+    <string name="currenttxt">Ваше текущее местоположение</string>
+    <string name="statistics">статистика</string>
+    <string name="language_settings">Настройки языка</string>
+
+    <!-- JobsAct -->
+    <string name="trip_history">История поездка</string>
+    <string name="trip_details">Поездка подробности</string>
+    <string name="pending_booking">До заказы</string>
+    <string name="past_booking">Прошлые заказы</string>
+    <string name="no_booking">Там нет заказы</string>
+    <string name="accepter_txt">Принимаемые</string>
+    <string name="time_txt">время</string>
+    <string name="drop_txt">падения</string>
+
+    <!-- Notification Act -->
+    <string name="accept_time">30 SECONDS LEFT TO ACCEPT</string>
+
+    <!-- Fare calculator -->
+    <string name="Tax"> Tax(0%) </string>
+    <string name="tax_percent"> %) </string>
+    <string name="message"> сообщение </string>
+    <string name="ok">ладно</string>
+    <string name="waiting_fare">Ожидание Плата за проезд</string>
+    <string name="select_language">Выберите язык</string>
+    <string name="upload_your_image"> Загрузить изображение </string>
+    <string name="file_upload">Загрузить файлы?</string>
+    <string name="choose">Выберите изображение</string>
+    <string name="call_passeneger">ВЫЗОВ</string>
+    <string name="total_km">Всего КМ</string>
+    <string name="taxi_details">Такси Подробнее</string>
+    <string name="taxi_model">Такси Модель</string>
+    <string name="taxi_number">Количество такси</string>
+    <string name="taxi_assigndate">Такси Assigned Дата</string>
+    <string name="taxi_assignfrom">Такси Assigned От Дата</string>
+    <string name="taxi_assignto">Такси Назначено Дата</string>
+    <!-- version upadte -->
+    <string name="version_up_message">Не Существует новая версия Getuptaxi доступной, эта версия больше не поддерживается.</string>
+    <string name="version_up_title">обновление</string>
+    <string name="version_up_now">Обновить сейчас</string>
+    <string name="version_up_later">позже</string>
+
+
+    <!-- add newly -->
+    <string name="hide">Спрятать</string>
+    <string name="show">Показать</string>
+    <string name="ontxt">НА</string>
+    <string name="offtxt">OFF</string>
+    <string name="z_req_amount">Запрашиваемая сумма</string>
+    <string name="z_req_date">Запрошенный Дата</string>
+    <string name="z_status">Положение дел</string>
+    <string name="z_history">Вывод История</string>
+    <string name="z_view">Посмотреть</string>
+    <string name="z_datetime">Дата и время</string>
+    <string name="withdraw">Изымать</string>
+    <string name="withdrawu">Изымать</string>
+    <string name="with_draw">Вы уверены, что хотите выйти </string>
+    <string name="invitefriends">Пригласить друзей</string>
+    <string name="invitefriendsu"><u>IПригласить друзей</u></string>
+    <string name="save">Сохранить</string>
+    <string name="pickup1"> Подбирать </string>
+    <string name="passenger_details">Пассажирские Подробнее</string>
+    <string name="enough_wallet">К сожалению , Ваш кошелек баланс слишком низок</string>
+    <string name="wallet_history">Вывод История</string>
+    <string name="no_data">Данные не найдены</string>
+    <string name="back_home">Вернуться домой</string>
+    <string name="forgotpassw">Забыли пароль</string>
+    <string name="enter_the_mobile_number">Пожалуйста, введите ваш номер мобильного телефона</string>
+    <string name="taxi_detailsu"><u>Такси Подробнее</u></string>
+    <string name="pickup_"> Подбирать </string>
+
+    <string name="referral">рефералов</string>
+    <string name="trip">Поездка</string>
+
+    <!-- Withdraw view -->
+    <string name="withdraw_view">Вывод Просмотреть запрос</string>
+    <string name="request_id">Идентификатор запроса</string>
+    <string name="brand_type">Марка Тип</string>
+    <string name="company_name">название компании</string>
+    <string name="withdraw_amount">Сумма снятия</string>
+    <string name="waiting_tcost">Время ожидания Стоимость (1 час)</string>
+    <string name="status_details">Сведения о состоянии</string>
+    <string name="status">Положение дел</string>
+    <string name="payment_mode">Режим оплаты</string>
+    <string name="transaction_id">ID транзакции</string>
+    <string name="Comments">Комментарии</string>
+
+
+    <string name="Referalwithdraw_request">Реферала Аннулировать запрос</string>
+    <string name="payment_availed">Оплата воспользовалось</string>
+    <string name="payment_request">Запрос оплаты в отложенное</string>
+
+
+    <string name="a_delete">Удалить</string>
+    <string name="a_enterexpense">Пожалуйста, введите счет здесь</string>
+    <string name="above">Выше</string>
+    <string name="add">Добавить</string>
+    <string name="address">Адрес:</string>
+    <string name="and_earn">и заработать</string>
+    <string name="app_buildversion">Версия</string>
+    <string name="below">Ниже</string>
+    <string name="call">Вызов</string>
+    <string name="cancel_in_going_trip">Вы уверены, что хотите отменить поездку?</string>
+    <string name="canceling_taxi">Отмена запроса</string>
+    <string name="confirm_call">Вы уверены, Вы хотите позвонить пассажиру?</string>
+    <string name="dist_fare">Расстояние Стоимость проезда</string>
+    <string name="download_from">.Download Приложение из:</string>
+    <string name="droplocnew">Капля Расположение (Необязательно)</string>
+    <string name="earnings">прибыль</string>
+    <string name="end_trip">Конец поездки</string>
+    <string name="enter_dest">Введите пункт назначения</string>
+    <string name="enter_pickup">Введите Pickup</string>
+    <string name="enter_the_card_number">Пожалуйста, введите ваш номер карты</string>
+    <string name="enter_the_email">Пожалуйста, введите ваш e-mail</string>
+    <string name="enter_the_expiry_date">Введите дату истечения срока действия</string>
+    <string name="enter_the_first_name">Пожалуйста, введите ваше имя</string>
+    <string name="enter_the_last_name">Пожалуйста, введите свою фамилию</string>
+    <string name="enter_the_valid_card_number">Пожалуйста, введите действительный номер кредитной карты</string>
+    <string name="enter_the_valid_email">Пожалуйста, введите действительный адрес электронной почты</string>
+    <string name="Estimated">сметная сумма</string>
+    <string name="even_charge">Вечерние сборы</string>
+    <string name="excuse_me_brevity">Простите за краткость, Зарегистрироваться с кодом направления</string>
+    <string name="f_float">0.0</string>
+    <string name="f_forgotpwd">Забыли пароль</string>
+    <string name="facebook_app_id">1571712899825293</string>
+    <string name="facebook_app_name">Getuptaxi</string>
+    <string name="fare2">123</string>
+    <string name="fare_details">Стоимость проезда Подробнее</string>
+    <string name="fblink">facebook.com/Taxi Mobility езды</string>
+    <string name="fetching_address">Fetching Адрес</string>
+    <string name="filter">Фильтр</string>
+    <string name="followtw">Следуйте за нами на Twitter</string>
+    <string name="headtitle">Метка из любой точки / п такси Мобильность Ride.com</string>
+    <string name="history">история</string>
+    <string name="Historystatus">Выберите статус</string>
+    <string name="home">Главная</string>
+    <string name="hour">Час</string>
+    <string name="l_fromdate">С даты</string>
+    <string name="l_todate">Встретиться</string>
+    <string name="Last2trip">Последние 2 Поездки</string>
+    <string name="Last3trip">Последние 3 Поездки</string>
+    <string name="Lasttrip">Последняя поездка</string>
+    <string name="latlng">Lat / Long:</string>
+    <string name="legal">легальный</string>
+    <string name="likefb">Поставьте нам лайк на фейсбуке</string>
+    <string name="link">Ссылка</string>
+    <string name="min_fare">Минимальный тариф</string>
+    <string name="nit_fare">Ночные сборы</string>
+    <string name="nit_fare_to">к</string>
+    <string name="offline">Не в сети</string>
+    <string name="online">В сети</string>
+    <string name="OTP">OTP (отправляется через SMS)</string>
+    <string name="paid_by">Оплачивается</string>
+    <string name="plateno">Тарелка Нет</string>
+    <string name="please_check_internet">Пожалуйста, проверьте подключение к интернету</string>
+    <string name="please_choose">Пожалуйста, выберите файл</string>
+    <string name="please_choosedate">Пожалуйста, выберите правильную дату</string>
+    <string name="policy">политика конфиденциальности</string>
+    <string name="profile">Профиль</string>
+    <string name="promo_code">Промо код</string>
+    <string name="promo_code_empty">Вы не \'т применять любые промо-код</string>
+    <string name="r_date">Дата</string>
+    <string name="r_distance">Расстояние в км</string>
+    <string name="r_drop">Капля Расположение</string>
+    <string name="r_fare">Плата за проезд</string>
+    <string name="rateapp">Оценить нас в App Store</string>
+    <string name="resend">Получил ли Отправить повторно</string>
+    <string name="s_amount">Пожалуйста, введите сумму</string>
+    <string name="s_fromdate">с даты</string>
+    <string name="s_hypen">-</string>
+    <string name="s_period">период</string>
+    <string name="s_recurring">Повторяющиеся</string>
+    <string name="s_settarget">Установив дневной TARGET</string>
+    <string name="s_todate">встретиться</string>
+    <string name="s_viewtarget">Просмотр цели</string>
+    <string name="select_date_time">Выбор даты Время</string>
+    <string name="sendmail">Отправить письмо</string>
+    <string name="spanish">Español</string>
+    <string name="start_trip">Начало поездки</string>
+    <string name="street_pickup">Улица Самовывоз</string>
+    <string name="sub_total">Промежуточный итог</string>
+    <string name="taxicompany">Компания такси</string>
+    <string name="taxitype">Тип такси</string>
+    <string name="tdvlno">TDVL НЕТ</string>
+    <string name="termcond">Термины &amp; Состояние</string>
+    <string name="there_is_no_email_client_installed">Там не установлен клиент электронной почты</string>
+    <string name="track_now">Трек сейчас</string>
+    <string name="trip_Amount">сумма поездки</string>
+    <string name="tripdetail">Trip Подробнее</string>
+    <string name="tripdetails">Trip Подробнее</string>
+    <string name="tripprogress">Поездка в Прогресс</string>
+    <string name="trips">8 поездок</string>
+    <string name="trips1">Поездки</string>
+    <string name="twlink">twitter.com/Taxi Mobility езды</string>
+    <string name="unused">unLater</string>
+    <string name="up_coming">предстоящий</string>
+    <string name="vehicle_dist">Автомобиль Расстояние Стоимость проезда</string>
+    <string name="vehicle_min">Автомобиль Мин \'s Fare</string>
+    <string name="vehicle_wait">Автомобиль Время ожидания</string>
+    <string name="waiting">ожидание</string>
+    <string name="waitingpassenger">Ожидание Пассажир</string>
+    <string name="wallet">Бумажник</string>
+    <string name="Week">На этой неделе</string>
+    <string name="zero">0</string>
+
+    <string name="domain_hint">Введите свой поддомен</string>
+    <string name="domain_validation">Имя домена должно содержать по крайней мере 3-х символов</string>
+    <string name="server_error">Ошибка соединения с сервером</string>
+
+</resources>

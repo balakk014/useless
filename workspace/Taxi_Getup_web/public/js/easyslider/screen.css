@@ -1,0 +1,17 @@
+#slider{}	
+#slider ul, #slider li{
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+#slider li{ 
+	width:400px;
+	height:300px;
+	overflow:hidden; 
+	}	
+
+#slider{width:400px;
+	height:300px;
+	left:20px;
+	overflow:hidden; 
+	}

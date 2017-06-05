@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="excuse_me_brevity"> Простите за краткость , Зарегистрироваться с кодом направления</string>
+    <string name="and_earn"> и заработать</string>
+    <string name="download_from">.Download Приложение из :</string>
+    <string name="russian">русский</string>
+    <string name="arabic">العربية</string>
+    <string name="turkey">Türk</string>
+    <string name="german">Deutsch</string>
+    <string name="est">"СТАНДАРТНОЕ ВОСТОЧНОЕ ВРЕМЯ : "</string>
+    <string name="confirm_booking">"Подтвердить позже бронирование?"</string>
+    <string name="select_the_drop_location">"Пожалуйста, выберите место падения"</string>
+    <string name="app_buildversion">"Версия"</string>
+    <string name="cancel_in_going_trip">"Вы уверены, что хотите отменить поездку?"</string>
+    <string name="cancel_registration">Вы уверены, что хотите отменить регистрацию?</string>
+    <string name="old_password_mismatch_with_password">"Старый пароль не совпадает
+    "</string>
+
+
+    <string name="vehicle_min">Автомобиль Наименее Плата за проезд</string>
+
+
+        <string name="reg_referal">"Введите код рефералов здесь, чтобы заработать бесплатный проезд coupons.Note: Направление схема применима только для пользователей, которые никогда не бронировали на TaxiMobility раньше.
+    "</string>
+    <string name="Select_friend">Пожалуйста, выберите друга</string>
+    <string name="Select_percent">Пожалуйста, выберите процентное значение для </string>
+    <string name="percentTotal">Общий процент должен быть 100</string>
+    <string name="picklocation_header">ВЫБРАТЬ МЕСТО</string>
+
+    <string name="payment_cash">Денежные средства</string>
+    <string name="payment_card">Кредитная карта</string>
+
+    <string name="no_data">Данные не найдены</string>
+    <string name="dist_fare">Расстояние Стоимость проезда</string>
+    <string name="vehicle_dist">Автомобиль Расстояние Стоимость проезда</string>
+    <string name="waiting">ожидание</string>
+    <string name="waiting_time">Время ожидания Стоимость</string>
+    <string name="vehicle_wait">Автомобиль Время ожидания</string>
+    <string name="sub_total">Промежуточный итог</string>
+    <string name="Tax">налог</string>
+    <string name="total">Всего</string>
+    <string name="paid_by">Оплачивается</string>
+    <string name="trip_id">Trip ID</string>
+    <string name="fare2">123</string>
+    <string name="trip_fare">Маршрутный Плата за проезд</string>
+    <string name="help">Помогите</string>
+
+    <string name="domain_hint">Введите свой поддомен</string>
+    <string name="domain_validation">Имя домена должно содержать по крайней мере 3-х символов</string>
+    <string name="server_error">Ошибка соединения с сервером</string>
+
+
+    <string name="cash">Денежные средства</string>
+    <string name="completed">Завершенный</string>
+
+    <string name="no_thanks">"Нет, спасибо"</string>
+    <string name="no_info">"Никакая информация не обновлять"</string>
+
+    <string name="select_date_time">"Выбор даты Время"</string>
+    <string name="eta">"расчетное время прибытия"</string>
+    <string name="minutes">"\ П Минуты"</string>
+    <string name="minimum_fare">"Минимальный тариф"</string>
+    <string name="minimum_size">"минимальный размер"</string>
+    <string name="ppl">"PPL"</string>
+    <string name="mph">"MPH \ п"</string>
+    <string name="fare_min">"мин"</string>
+    <string name="mile">"мили"</string>
+
+    <string name="cancelled">"Отменен"</string>
+    <string name="permission_not_granted">"Невозможно выполнить выбранное действие, так как разрешения не были предоставлены.
+    "</string>
+    <string name="success">"Успешно"</string>
+    <string name="successfully_posted_post">"Успешно размещены ' %1$s ' \ nPost ID:. %2$s"</string>
+    <string name="error">"Ошибка"</string>
+
+
+    <!-- signup -->
+    <string name="OTP">"OTP"</string>
+    <string name="resend">"Did'nt ПОЛУЧИТЬ? ОТПРАВИТЬ"</string>
+    <string name="defaultcard">"Установить по умолчанию"</string>
+    <string name="keyincode">"KEY IN КОД ЕСЛИ ВЫ БЫЛИ REFERED"</string>
+
+    <!-- edit favourite -->
+
+    <string name="comment">"Комментарии"</string>
+    <!-- flgger lay -->
+
+    <string name="picklocationcabs">"Перехват звонка"</string>
+    <string name="now">"ТЕПЕРЬ"</string>
+    <string name="after">"Будущее"</string>
+
+    <!-- about us lay -->
+    <string name="headtitle_below">"Lorem Ipsum просто манекен текста печати и верстки промышленности
+    "</string>
+    <string name="fblink">"facebook.com/Taximobility"</string>
+    <string name="twlink">"twitter.com/Taximobility"</string>
+
+
+    <!-- booking details -->
+
+
+    <!-- <color name="opaque_back">#474541</color> -->
+    <string-array name="cardtype">
+        <item>"Тип карты Личные"</item>
+        <item>"Тип карты бизнеса"</item>
+    </string-array>
+
+    <!-- upcoming lay -->
+    <string name="approxifare">"Ориентировочная стоимость проезда"</string>
+    <string name="approxifareex">"1467,58"</string>
+    <!-- forgotpassword -->
+
+    <string name="action_settings">"Настройки"</string>
+    <string name="pass_app_link">"https://play.google.com/store/apps/details?id=com.Taximobility
+    "</string>
+    <string name="driver_app_link">"
+        https://play.google.com/store/apps/details?id=com.Taximobility.driver
+    "</string>
+
+
+
+    <string name="nagaaa">"fssds "</string>
+
+    <string name="split_status">"Сплит Стоимость проезда Статус"</string>
+    <string name="split_">"Сплит Стоимость проезда "</string>
+    <string name="favoritedriver_">"Любимый водитель "</string>
+
+    <string name="default_card_cant">"Невозможно удалить карты по умолчанию"</string>
+    <!-- ENd-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="hide">скрывать</string>
+    <string name="show">показать</string>
+    <string name="forgotpassw">Забыли пароль</string>
+    <string name="english">English</string>
+    <string name="france">France</string>
+    <string name="settings">Settings</string>
+    <string name="location_disable">Место Услуги для инвалидов</string>
+    <string name="location_enable">Пожалуйста, включите услуг местоположение.</string>
+    <string name="enable">включить</string>
+    <string name="cancel">Отмена</string>
+    <string name="fblogin">Соединить с Facebook</string>
+    <string name="mobileno">Номер мобильного телефона</string>
+    <string name="password">Пароль</string>
+    <string name="done">Выполнено</string>
+    <string name="signin">Войти</string>
+    <string name="signins">Войти</string>
+    <string name="enter_the_mobile_number">Введите номер мобильного телефона</string>
+    <string name="enter_the_password">Введите пароль</string>
+    <string name="password_min_character">Пароль должен содержать не менее 6 знаков</string>
+    <string name="password_max_character">Пароль должен содержать не больше 32 знаков</string>
+    <string name="confirmlogout">Вы действительно хотите выйти?</string>
+    <string name="profilecmp">Профиль не завершена</string>
+    <string name="userphno">Пользователь мобильные номера</string>
+    <string name="forgotpswd">Забыли пароль?</string>
+    <string name="create_account">Создать учетную запись</string>
+    <string name="plzselect">Please Select</string>
+    <string name="profile_image">Изображение профайла</string>
+    <string name="choose_an_image">Выберите изображение</string>
+    <string name="gallery">Галерея</string>
+    <string name="camera">Камера</string>
+    <string name="no_changes">Pas de changements</string>
+    <string name="please_select_your_salutation">Пожалуйста, выберите Ваше приветствие</string>
+    <string name="enter_the_first_name">Имя</string>
+    <string name="enter_the_last_name">Фамилия</string>
+    <string name="enter_the_card_number">Введите номер карты</string>
+    <string name="enter_the_expiry_date">Введите срок действия карты</string>
+    <string name="enter_the_cvv">Введите CVV</string>
+    <string name="enter_the_valid_CVV">Введите правильный CVV</string>
+    <string name="enter_the_email">Введите электронный адрес</string>
+    <string name="enter_the_valid_email">Введите правильный электронный адрес</string>
+    <string name="enter_the_confirmation_password">Подтвердите пароль </string>
+    <string name="confirmation_password_mismatch_with_password">Пароль не совпадает</string>
+    <string name="please_select_image_from_valid_path">Пожалуста, выберите изображение из правильного пути (папка Галерея)</string>
+    <string name="please_complete_registration">Регистрация не завершена…</string>
+    <string name="salutation">Приветствие</string>
+    <string name="first">Имя</string>
+    <string name="last">Фамилия</string>
+    <string name="email">Электронный адрес</string>
+    <string name="confimpswd">Подтвердить пароль</string>
+    <string name="acctxt">Мы используем только свой адрес электронной почты и номер мобильного телефона для отправки уведомлений и квитанций поездки.</string>
+    <string name="cardnumber">Номер Карты</string>
+    <string name="expiry">Срок истечения</string>
+    <string name="cvv">CVV</string>
+    <string name="securecard">ДАННЫЕ ВАШЕЙ КАРТЫ  НАДЕЖНО СОХРАНЕНЫ, ДАННЫЕ ИСПОЛЬЗУЮТСЯ ТОЛЬКО ДЛЫ ОПЛАТЫ</string>
+    <string name="readterms">Я согласен с правилами и условиями</string>
+    <string name="payby_cash">Оплатить наличными?</string>
+    <string name="skip">Пропустить сейчас</string>
+    <string name="go_to_pin">Отметить на карте</string>
+    <string name="device_not_support_map">Устройство не поддерживает версию карты</string>
+    <string name="app_name">Taximobility Passenger</string>
+    <string name="taxiname">Taximobility</string>
+    <string name="select_the_pickup_location">Выбрать место посадки</string>
+    <string name="enter_the_pickup_location">Введите местоположение пикап</string>
+    <string name="book_taxi">Книга такси</string>
+    <string name="bookedtaxi">Вы забронировали такси.</string>
+    <string name="avaiable_car">ТУН (ы) ДОСТУПНЫ</string>
+    <string name="min">min</string>
+    <string name="requesttaxi">Заказать Такси</string>
+    <string name="nodrivers">НЕТ СВОБОДНЫХ МАШИН</string>
+    <string name="droplocnew">Место высадки (не обязательно)</string>
+    <string name="dropoffcabs">высаживать</string>
+    <string name="book_now">Забронировать</string>
+    <string name="book_later">Закажите Позже</string>
+    <string name="promo_code">Код промо-акции (Необязательно)</string>
+    <string name="fetching_address">Выборка адрес ...</string>
+    <string name="location">расположение</string>
+    <string name="choose_place">Выберите тип место</string>
+    <string name="back">Назад</string>
+    <string name="Trip_in_progress">Текущая поездка</string>
+    <string name="intransit">Текущая поездка</string>
+    <string name="Confirmation">Подтверждение</string>
+    <string name="estimated_arrival">Приблизительное прибытие:</string>
+    <string name="mins">mins</string>
+    <string name="ok">Хорошо</string>
+    <string name="driver_location">Местонахождение водителя</string>
+    <string name="droplocation">Место высадки</string>
+    <string name="picklocation">Место посадки</string>
+    <string name="book_time">Бронирование времени</string>
+    <string name="call">вызов</string>
+    <string name="defaultcard1">Карта по умолчвнию</string>
+    <string name="confirmdelete">Вы уверены, что хотите удалить карту?</string>
+    <string name="delete_card">Удалить карту</string>
+    <string name="canceled_from">Дебет с:</string>
+    <string name="canceled_amount">Отменено количество:</string>
+
+    <string name="referal"> Направление код</string>
+    <string name="zerofee">Оплатить через карту без комисии</string>
+    <string name="edit">Изменить</string>
+    <string name="select_card_type">Выберите Тип Карты</string>
+    <string name="enter_the_valid_card_number">Введите правильный номер карты</string>
+    <string name="mobile">Mobile</string>
+    <string name="phnnum">Номер телефона</string>
+    <string name="enter_the_old_password">Введите старый пароль</string>
+    <string name="enter_the_new_password">Введите новый пароль</string>
+    <string name="sendmail">Отправить письмо</string>
+    <string name="there_is_no_email_client_installed">Адрес электронной почты не установлен</string>
+    <string name="successfully_completed">Успешно Завершена поездка с</string>
+    <string name="payment_complete">Поездка Завершрена</string>
+    <string name="thanksforflag">Благодарим Вас за использование Taximobility Сделайте вашей следующей поездки еще более приятным</string>
+    <string name="ratedriver">Оценить ваш драйвер</string>
+    <string name="shareride">Поделиться</string>
+    <string name="today">Сегодня</string>
+    <string name="month">Месяц</string>
+    <string name="summary">Справка</string>
+    <string name="menu_trip_history">История поездки</string>
+    <string name="edit_favourites">Редакт.избранное</string>
+    <string name="add_favourites">Добавить Любимый</string>
+    <string name="date_greater_current_date">Дата больше текущей даты</string>
+    <string name="date_greater_current_month">Tarih Cari Ay büyüktür</string>
+    <string name="register">Зарегестрироваться</string>
+    <string name="registers">daftar</string>
+
+
+    <!-- V5.0-->
+    <string name="fare_estimate">Стоимость проезда Расчетный</string>
+    <string name="cash_card">Наличный / Card</string>
+    <string name="request_taxi">Запрос такси</string>
+    <string name="ride_now">Поезжайте сейчас</string>
+    <string name="ride_later">ездить Позже</string>
+    <string name="pick_up_aprox_text">Встреча время приблизительно </string>
+    <string name="minutes_"> минут </string>
+    <string name="apply">Подать заявление</string>
+    <string name="or">Или</string>
+    <string name="taxi__empty">Или</string>
+    <string name="Language">язык</string>
+    <string name="split_with_friends">Разделение стоимости проезда с друзьями</string>
+    <string name="total_aprox_fare">Общее Приблизительное Стоимость проезда : </string>
+    <string name="ur_approx_fare">Ваше приблизительное Стоимость проезда :</string>
+    <string name="Mins">Mins</string>
+    <string name="card_reg">Card Регистрация</string>
+    <string name="verify_email">Подтвердить код</string>
+    <string name="enter_dest">Введите пункт назначения</string>
+    <string name="enter_pickup">Введите пикап</string>
+    <string name="enter_promo_code">Введите промо-код</string>
+    <string name="may_vary">Это оценка . Фактические тарифы могут незначительно отличаться в зависимости от трафика или скидки</string>
+    <string name="type_your_comment">Введите ваши комментарии</string>
+    <string name="contact_number">Контактный номер</string>
+    <string name="accept">принимать</string>
+    <string name="z_split_fare_with">Разделите стоимость проезда с</string>
+    <string name="z_split_charged">Ваш Плата за проезд будет взиматься плата</string>
+    <string name="fbsignup">Войти с Facebook</string>
+    <string name="cancel_fare">Отменить Плата за проезд</string>
+    <string name="even_charge">Вечерние сборы</string>
+    <string name="waiting_fare">Ожидание Плата за проезд</string>
+    <string name="estimate_fare">tahmini Ücret</string>
+    <string name="e_receipt">E - Makbuz</string>
+    <string name="mybookings">benim Rezervasyonları</string>
+    <string name="add_card">Kart ekle</string>
+    <string name="edit_card">Düzenleme Kart</string>
+    <string name="nocard">Sen kredi kartı bilgilerini yok</string>
+    <string name="ontxt">на</string>
+    <string name="offtxt">от</string>
+    <string name="inprogress">В ходе выполнения</string>
+    <string name="accepted">Принято</string>
+    <string name="rejected">Отклонено</string>
+
+
+    <string name="submit">Принять</string>
+    <string name="agree_the_terms_and_condition">Согласен с Правилами и Условиями</string>
+    <string name="details">подробности</string>
+    <string name="fare_txt">Тариф</string>
+    <string name="base_fare">База тарифа</string>
+    <string name="min_fare">Минимальная тарифа</string>
+    <string name="below">ниже</string>
+    <string name="above">выше</string>
+    <string name="nit_fare">Ночные Сборы(11AM to 6PM)</string>
+    <string name="nit_fare_to">для</string>
+    <string name="menu">меню</string>
+    <string name="menu_gettaxi">Отследить такси</string>
+    <string name="menu_mybooking">Мои заказы</string>
+    <string name="menu_payment">Варианты оплаты</string>
+    <string name="paymentoptions">Варианты оплаты</string>
+    <string name="getfare_estimate">Получить Fare Эстимейт</string>
+    <string name="menu_profile">Профайл</string>
+    <string name="menu_favourites">Избранное</string>
+    <string name="menu_fare">Тариф</string>
+    <string name="menu_about">около</string>
+    <string name="menu_about_us">около</string>
+    <string name="book_a_taxi">Закажите такси</string>
+    <string name="menu_logout">Выйти</string>
+    <string name="pickup">Посадка</string>
+    <string name="drop">падения</string>
+    <string name="time">Время</string>
+    <string name="no_pending_trip">Там нет заказов</string>
+    <string name="place">Место</string>
+    <string name="amount">Сумма</string>
+    <string name="payment">Оплата</string>
+    <string name="jobref">Код поездки:</string>
+    <string name="t_passname">Имя водитель</string>
+    <string name="t_pickloc">Выбрать Место</string>
+    <string name="t_picktime">Время Забирать</string>
+    <string name="t_book">Бронирование времени</string>
+    <string name="t_droploc">падение Расположение</string>
+    <string name="t_droptime">падение Время</string>
+    <string name="t_distance">расстояние</string>
+    <string name="t_tripduration">Поездка Продолжительность</string>
+    <string name="rateapp">Оцените нас в магазине Play</string>
+    <string name="likefb">Отметьте как понравившееся в Facebook</string>
+    <string name="followtw"> Следите за нами в Twitter </string>
+    <string name="legal">юридическое</string>
+    <string name="termcond"> Правила и Условия</string>
+    <string name="policy"> Политика Конфиденциальности</string>
+    <string name="link">Ссылки</string>
+    <string name="menu_settings">настройки</string>
+    <string name="save">Сохрани</string>
+    <string name="requestingtaxi">Запрашивает Такси</string>
+    <string name="landmark">ориентир</string>
+    <string name="chpwd">Сменить Пароль</string>
+    <string name="conpwd">Подтвердить пароль</string>
+    <string name="oldpwd">Старый пароль</string>
+    <string name="newpwd">Новый пароль</string>
+    <string name="addcard">Добавить новую карту</string>
+    <string name="home">Домой</string>
+    <string name="office">офис</string>
+    <string name="airport">аэропорт</string>
+    <string name="others">другие</string>
+    <string name="reason_title">Причина Отменить</string>
+   <!-- <string name="reason1">Измените план путешествия</string>
+    <string name="reason2">Бронирование места в заблуждении</string>
+    <string name="reason3">Задержки Кабина / вопросы</string>-->
+
+    <string name="reason1">1.задержка кабины</string>
+    <string name="reason2">2.Водитель не ответил</string>
+    <string name="reason3">3.Неправильный адрес показано</string>
+    <string name="reason4">4.Измененный план путешествия</string>
+    <string name="reason5">5.Бронирование места в заблуждении</string>
+    <string name="reason6">6.Другие</string>
+
+    <string name="menu_account">Учетная запись</string>
+    <string name="you">Вы</string>
+    <string name="card">карта</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="message">сообщение</string>
+    <string name="delete_fdrivers">Вы уверены, Вы хотите, чтобы удалить драйвер из списка избранного?</string>
+    <string name="no_taxi">Такси не доступна в данный момент для выбранной модели.</string>
+    <string name="book_again">Книга Опять</string>
+    <string name="tripdetail">Детали поездки</string>
+    <string name="canceling_taxi">Отмена Запрос</string>
+    <string name="add">eke</string>
+    <string name="fav_pick_location">Любимый Самовывоз Место</string>
+    <string name="fav_drop_location">Любимый падения Местоположение</string>
+    <string name="enter_other_details">Введите место детали</string>
+    <string name="personalcard">Личный</string>
+    <string name="businesscard">Бизнес</string>
+    <string name="about_sub_title">Ездите с \n Taximobility</string>
+    <string name="site_name">Taximobility.com</string>
+    <string name="check_internet_connection">Проверьте соединение с интернетом</string>
+    <string name="no_going_trip">Нет текущей поездки</string>
+    <string name="connection_error">Ошибка подключения</string>
+    <string name="try_again">Попробуй Еще Раз</string>
+    <string name="droploc">Место высадки </string>
+    <string name="picktime"> Самовывоз Время</string>
+    <string name="hour_must_greater_than">Пожалуйста, убедитесь, что время срабатывания, то есть после того, как, по крайней мере час из сейчас</string>
+    <string name="on_going">На Going</string>
+    <string name="up_coming">до пришествия</string>
+    <string name="past_booking">Прошлое Бронирование</string>
+    <!-- version upadte -->
+    <string name="version_up_message">Не Существует новая версия Taximobility доступной, эта версия больше не поддерживается.</string>
+    <string name="version_up_title">обновление</string>
+    <string name="version_up_now">Обновить сейчас</string>
+    <string name="version_up_later">позже</string>
+    <!-- invite friend -->
+    <string name="invite_sms">Пригласить на SMS</string>
+    <string name="invite_email">Пригласить по электронной почте</string>
+    <string name="invite_fb">Facebook</string>
+    <string name="invite_whatsapp">Whatsapp</string>
+    <string name="invite_twitter">щебет</string>
+    <string name="invite_sharevia">Доля через</string>
+    <string name="invite_frdrides">Когда друг едет с кодом</string>
+    <string name="invite_youearn">Вы зарабатываете</string>
+
+    <string name="promo_code_empty" translatable="false"> Вы нет применять любые промо-код
+    </string>
+    <!-- card registration -->
+    <string name="reg_creditcard">Кредитная карта</string>
+    <string name="reg_cash">денежные средства</string>
+    <string name="reg_promocode">Промо код</string>
+    <string name="reg_cardnumber">Номер карты</string>
+    <string name="reg_month">MM</string>
+    <string name="reg_year">ГГ</string>
+    <string name="reg_cc">CVV</string>
+    <string name="reg_cardname">Название карты</string>
+    <string name="reg_entercardname">Введите имя карты</string>
+    <string name="reg_savecard">Сохранить данные карты</string>
+    <string name="reg_terms"><u>Сроки и условия</u></string>
+    <string name="reg_enterprcode">Введите ваш промокод</string>
+    <string name="reg_expmonth">Пожалуйста, выберите месяц истечения</string>
+    <string name="reg_expyear">Пожалуйста, выберите истечения года</string>
+    <string name="invite_friend">Пригласить друзей</string>
+    <string name="reg_enter_referral">Введите код рефералов</string>
+    <!-- wallet -->
+    <string name="wallet">бумажник</string>
+    <string name="walletmsg">Используйте количество бумажник, чтобы сделать оплату поездки</string>
+
+    <string name="searching"> Идет поиск ...</string>
+    <string name="pressBack">Пожалуйста, нажмите НАЗАД, чтобы выйти</string>
+    <!-- verify mobile -->
+    <string name="verify_mobile">Проверьте Mobile</string>
+    <string name="verify_enter_code">Пожалуйста, введите проверочный код, который был послан</string>
+    <string name="verify_valid_code">Пожалуйста, введите проверочный код действительный</string>
+    <string name="verify_code_sent">который был отправлен в</string>
+    <string name="verify_resend">ОТПРАВИТЬ</string>
+    <!-- add money -->
+    <string name="addmoney">Добавить деньги</string>
+    <string name="addmoney_paypal">Paypal</string>
+    <string name="addmoney_braintree">Мозг Дерево</string>
+    <string name="recharge_money">Пополнение деньги</string>
+    <string name="amount_between">Введите сумму между</string>
+    <string name="enter_amount">Пожалуйста, введите действительный объем</string>
+    <string name="have_promocode"><u>ЕСТЬ ПРОМО КОД?</u></string>
+
+    <string name="select_payment">Пожалуйста, выберите тип оплаты</string>
+    <string name="wallet_amt">Кошелек Сумма</string>
+    <string name="paid_amt">Выплаченная сумма</string>
+    <string name="payment_type">Способ оплаты</string>
+
+    <string-array name="monthary">
+        <item>январь</item>
+        <item>февраль</item>
+        <item>март</item>
+        <item>апреля</item>
+        <item>май</item>
+        <item>июнь</item>
+        <item>июль</item>
+        <item>август</item>
+        <item>сентябрь</item>
+        <item>октября</item>
+        <item>ноябрь</item>
+        <item>декабрь</item>
+    </string-array>
+
+
+
+
+    <!-- year list -->
+    <string-array name="yearary">
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+        <item>2029</item>
+        <item>2030</item>
+        <item>2031</item>
+    </string-array>
+    <!-- month list -->
+    <string-array name="monthlistary">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="sal_type">
+        <item>Mr</item>
+        <item>Mrs</item>
+        <item>Miss</item>
+    </string-array>
+    <string-array name="percent_type">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+    </string-array>
+    <string-array name="percent_type_u">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+
+
+
+    <string-array name="country_code">
+        <item>+93     &amp; Afghanistan</item>
+        <item>+355    &amp; Albania</item>
+        <item>+213    &amp; Algeria</item>
+        <item>+1(684) &amp; American Samoa</item>
+        <item>+376    &amp; Andorra</item>
+        <item>+244    &amp; Angola</item>
+        <item>+1(264) &amp; Anguilla</item>
+        <item>+672    &amp; Antarctica</item>
+        <item>+1(268) &amp; Antigua and Barbuda</item>
+        <item>+54     &amp; Argentina</item>
+        <item>+374    &amp; Armenia</item>
+        <item>+297    &amp; Aruba</item>
+        <item>+61     &amp; Australia</item>
+        <item>+43     &amp; Austria</item>
+        <item>+994    &amp; Azerbaijan</item>
+        <item>+1(242) &amp; Bahamas</item>
+        <item>+973    &amp; Bahrain</item>
+        <item>+880    &amp; Bangladesh</item>
+        <item>+1(246) &amp; Barbados</item>
+        <item>+375    &amp; Belarus</item>
+        <item>+32     &amp; Belgium</item>
+        <item>+501    &amp; Belize</item>
+        <item>+229    &amp; Benin</item>
+        <item>+1(441) &amp; Bermuda</item>
+        <item>+975    &amp; Bhutan</item>
+        <item>+591    &amp; Bolivia</item>
+        <item>+387    &amp; Bosnia and Herzegovina</item>
+        <item>+267    &amp; Botswana</item>
+        <item>+55     &amp; Brazil</item>
+        <item>+1(284) &amp; British Virgin Islands</item>
+        <item>+673    &amp; Brunei</item>
+        <item>+359    &amp; Bulgaria</item>
+        <item>+226    &amp; Burkina Faso</item>
+        <item>+95     &amp; Burma (Myanmar)</item>
+        <item>+257    &amp; Burundi</item>
+        <item>+855    &amp; Cambodia</item>
+        <item>+237    &amp; Cameroon</item>
+        <item>+1(403) &amp; Canada</item>
+        <item>+238    &amp; Cape Verde</item>
+        <item>+1(345) &amp; Cayman Islands</item>
+        <item>+236    &amp; Central African Republic</item>
+        <item>+235    &amp; Chad</item>
+        <item>+56     &amp; Chile</item>
+        <item>+86     &amp; China</item>
+        <item>+61     &amp; Christmas Island</item>
+        <item>+61     &amp; Cocos (Keeling) Islands</item>
+        <item>+57     &amp; Colombia</item>
+        <item>+269    &amp; Comoros</item>
+        <item>+682    &amp; Cook Islands</item>
+        <item>+506    &amp; Costa Rica</item>
+        <item>+385    &amp; Croatia</item>
+        <item>+53     &amp; Cuba</item>
+        <item>+357    &amp; Cyprus</item>
+        <item>+420    &amp; Czech Republic</item>
+        <item>+243    &amp; Democratic Republic of the Congo</item>
+        <item>+45     &amp; Denmark</item>
+        <item>+253    &amp; Djibouti</item>
+        <item>+1(767) &amp; Dominica</item>
+        <item>+1(809) &amp; Dominican Republic</item>
+        <item>+593    &amp; Ecuador</item>
+        <item>+20     &amp; Egypt</item>
+        <item>+503    &amp; El Salvador</item>
+        <item>+240    &amp; Equatorial Guinea</item>
+        <item>+291    &amp; Eritrea</item>
+        <item>+372    &amp; Estonia</item>
+        <item>+251    &amp; Ethiopia</item>
+        <item>+500    &amp; Falkland Islands</item>
+        <item>+298    &amp; Faroe Islands</item>
+        <item>+679    &amp; Fiji</item>
+        <item>+358    &amp; Finland</item>
+        <item>+33     &amp; France</item>
+        <item>+689    &amp; French Polynesia</item>
+        <item>+241    &amp; Gabon</item>
+        <item>+220    &amp; Gambia</item>
+        <item>+970    &amp; Gaza Strip</item>
+        <item>+995    &amp; Georgia</item>
+        <item>+49     &amp; Germany</item>
+        <item>+233    &amp; Ghana</item>
+        <item>+350    &amp; Gibraltar</item>
+        <item>+30     &amp; Greece</item>
+        <item>+299    &amp; Greenland</item>
+        <item>+1(473) &amp; Grenada</item>
+        <item>+1(671) &amp; Guam</item>
+        <item>+502    &amp; Guatemala</item>
+        <item>+224    &amp; Guinea</item>
+        <item>+245    &amp; Guinea-Bissau</item>
+        <item>+592    &amp; Guyana</item>
+        <item>+509    &amp; Haiti</item>
+        <item>+39     &amp; Holy See (Vatican City)</item>
+        <item>+504    &amp; Honduras</item>
+        <item>+852    &amp; Hong Kong</item>
+        <item>+36     &amp; Hungary</item>
+        <item>+354    &amp; Iceland</item>
+        <item>+91     &amp; India</item>
+        <item>+62     &amp; Indonesia</item>
+        <item>+98     &amp; Iran</item>
+        <item>+964    &amp; Iraq</item>
+        <item>+353    &amp; Ireland</item>
+        <item>+44     &amp; Isle of Man</item>
+        <item>+972    &amp; Israel</item>
+        <item>+39     &amp; Italy</item>
+        <item>+225    &amp; Ivory Coast</item>
+        <item>+1(876) &amp; Jamaica</item>
+        <item>+81     &amp; Japan</item>
+        <item>+962    &amp; Jordan</item>
+        <item>+7(317) &amp; Kazakhstan</item>
+        <item>+254    &amp; Kenya</item>
+        <item>+686    &amp; Kiribati</item>
+        <item>+381    &amp; Kosovo</item>
+        <item>+965    &amp; Kuwait</item>
+        <item>+996    &amp; Kyrgyzstan</item>
+        <item>+856    &amp; Laos</item>
+        <item>+371    &amp; Latvia</item>
+        <item>+961    &amp; Lebanon</item>
+        <item>+266    &amp; Lesotho</item>
+        <item>+231    &amp; Liberia</item>
+        <item>+218    &amp; Libya</item>
+        <item>+423    &amp; Liechtenstein</item>
+        <item>+370    &amp; Lithuania</item>
+        <item>+352    &amp; Luxembourg</item>
+        <item>+853    &amp; Macau</item>
+        <item>+389    &amp; Macedonia</item>
+        <item>+261    &amp; Madagascar</item>
+        <item>+265    &amp; Malawi</item>
+        <item>+60     &amp; Malaysia</item>
+        <item>+960    &amp; Maldives</item>
+        <item>+223    &amp; Mali</item>
+        <item>+356    &amp; Malta</item>
+        <item>+692    &amp; Marshall Islands</item>
+        <item>+222    &amp; Mauritania</item>
+        <item>+230    &amp; Mauritius</item>
+        <item>+262    &amp; Mayotte</item>
+        <item>+52     &amp; Mexico</item>
+        <item>+691    &amp; Micronesia</item>
+        <item>+373    &amp; Moldova</item>
+        <item>+377    &amp; Monaco</item>
+        <item>+976    &amp; Mongolia</item>
+        <item>+382    &amp; Montenegro</item>
+        <item>+1(664) &amp; Montserrat</item>
+        <item>+212    &amp; Morocco</item>
+        <item>+258    &amp; Mozambique</item>
+        <item>+264    &amp; Namibia</item>
+        <item>+674    &amp; Nauru</item>
+        <item>+977    &amp; Nepal</item>
+        <item>+31     &amp; Netherlands</item>
+        <item>+599    &amp; Netherlands Antilles</item>
+        <item>+687    &amp; New Caledonia</item>
+        <item>+64     &amp; New Zealand</item>
+        <item>+505    &amp; Nicaragua</item>
+        <item>+227    &amp; Niger</item>
+        <item>+234    &amp; Nigeria</item>
+        <item>+683    &amp; Niue</item>
+        <item>+672    &amp; Norfolk Island</item>
+        <item>+850    &amp; North Korea</item>
+        <item>+1(670) &amp; Northern Mariana Islands</item>
+        <item>+47     &amp; Norway</item>
+        <item>+968    &amp; Oman</item>
+        <item>+92     &amp; Pakistan</item>
+        <item>+680    &amp; Palau</item>
+        <item>+507    &amp; Panama</item>
+        <item>+675    &amp; Papua New Guinea</item>
+        <item>+595    &amp; Paraguay</item>
+        <item>+51     &amp; Peru</item>
+        <item>+63     &amp; Philippines</item>
+        <item>+870    &amp; Pitcairn Islands</item>
+        <item>+48     &amp; Poland</item>
+        <item>+351    &amp; Portugal</item>
+        <item>+974    &amp; Qatar</item>
+        <item>+242    &amp; Republic of the Congo</item>
+        <item>+40     &amp; Romania</item>
+        <item>+7      &amp; Russia</item>
+        <item>+250    &amp; Rwanda</item>
+        <item>+590    &amp; Saint Barthelemy</item>
+        <item>+290    &amp; Saint Helena</item>
+        <item>+1(869) &amp; Saint Kitts and Nevis</item>
+        <item>+1(758) &amp; Saint Lucia</item>
+        <item>+1(599) &amp; Saint Martin</item>
+        <item>+508    &amp; Saint Pierre and Miquelon</item>
+        <item>+1(784) &amp; Saint Vincent and the Grenadines</item>
+        <item>+685    &amp; Samoa</item>
+        <item>+378    &amp; San Marino</item>
+        <item>+239    &amp; Sao Tome and Principe</item>
+        <item>+966    &amp; Saudi Arabia</item>
+        <item>+221    &amp; Senegal</item>
+        <item>+381    &amp; Serbia</item>
+        <item>+248    &amp; Seychelles</item>
+        <item>+232    &amp; Sierra Leone</item>
+        <item>+65     &amp; Singapore</item>
+        <item>+421    &amp; Slovakia</item>
+        <item>+386    &amp; Slovenia</item>
+        <item>+677    &amp; Solomon Islands</item>
+        <item>+252    &amp;  Somalia</item>
+        <item>+27     &amp; South Africa</item>
+        <item>+82     &amp; South Korea</item>
+        <item>+34     &amp; Spain</item>
+        <item>+94     &amp; Sri Lanka</item>
+        <item>+249    &amp; Sudan</item>
+        <item>+597    &amp; Suriname</item>
+        <item>+268    &amp; Swaziland</item>
+        <item>+46     &amp; Sweden</item>
+        <item>+41     &amp; Switzerland</item>
+        <item>+963    &amp; Syria</item>
+        <item>+886    &amp; Taiwan</item>
+        <item>+992    &amp; Tajikistan</item>
+        <item>+255    &amp; Tanzania</item>
+        <item>+66     &amp; Thailand</item>
+        <item>+670    &amp; Timor-Leste</item>
+        <item>+228    &amp; Togo</item>
+        <item>+690    &amp; Tokelau</item>
+        <item>+676    &amp; Tonga</item>
+        <item>+1(868) &amp; Trinidad and Tobago</item>
+        <item>+216    &amp; Tunisia</item>
+        <item>+90     &amp; Turkey</item>
+        <item>+993    &amp; Turkmenistan</item>
+        <item>+1(649) &amp; Turks and Caicos Islands</item>
+        <item>+688    &amp; Tuvalu</item>
+        <item>+256    &amp; Uganda</item>
+        <item>+380    &amp; Ukraine</item>
+        <item>+971    &amp; United Arab Emirates</item>
+        <item>+44     &amp; United Kingdom</item>
+        <item>+1(325) &amp; United States</item>
+        <item>+598    &amp; Uruguay</item>
+        <item>+1(340) &amp; US Virgin Islands</item>
+        <item>+998    &amp; Uzbekistan</item>
+        <item>+678    &amp; Vanuatu</item>
+        <item>+58     &amp; Venezuela</item>
+        <item>+84     &amp; Vietnam</item>
+        <item>+681    &amp; Wallis and Futuna</item>
+        <item>+970    &amp; West Bank</item>
+        <item>+967    &amp; Yemen</item>
+        <item>+260    &amp; Zambia</item>
+        <item>+263    &amp; Zimbabwe</item>
+    </string-array>
+</resources>
