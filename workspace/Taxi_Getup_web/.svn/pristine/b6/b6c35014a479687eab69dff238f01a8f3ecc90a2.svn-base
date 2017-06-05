@@ -1,6 +1,0 @@
-{
-    "name" : "TwiML",
-    "description" : "",
-    "type" : ["voice", "sms"],
-    "disabled" : true
-}

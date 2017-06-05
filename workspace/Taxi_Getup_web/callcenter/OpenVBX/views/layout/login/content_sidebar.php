@@ -1,1 +1,0 @@
-<?php require_once(VBX_ROOT . '/OpenVBX/views/layout/content/'.basename(__FILE__)); ?>

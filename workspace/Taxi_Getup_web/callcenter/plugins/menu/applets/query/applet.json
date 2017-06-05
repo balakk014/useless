@@ -1,5 +1,0 @@
-{
-    "name" : "Menu",
-    "description" : "A keyword based matching response system",
-    "type" : ["sms"]
-}

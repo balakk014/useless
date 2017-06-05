@@ -1,6 +1,0 @@
-{
-	"name" : "Standard SMS Applets",
-    "author" : "Twilio <vbx@twilio.com>",
-    "description" : "SMS applets for OpenVBX",
-    "url" : "http://openvbx.org"
-}

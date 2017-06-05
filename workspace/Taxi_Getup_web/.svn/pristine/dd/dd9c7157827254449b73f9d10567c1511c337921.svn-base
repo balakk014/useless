@@ -1,5 +1,0 @@
-{
-    "name" : "Sms Inbox",
-    "description" : "Store SMS messages in your inbox.",
-    "type" : "sms"
-}

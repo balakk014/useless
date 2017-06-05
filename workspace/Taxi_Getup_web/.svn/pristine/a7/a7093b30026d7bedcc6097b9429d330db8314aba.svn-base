@@ -1,6 +1,0 @@
-{
-    "name" : "Menu",
-    "description" : "Build stuff like 'Press 1 for Sales, Press 2 for Support'",
-    "type" : "voice",
-	"order" : 0
-}
